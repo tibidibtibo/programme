@@ -125,3 +125,5 @@ Les recettes propres des nouveaux domaines (taxes sur le tabac et l'alcool, frai
 - **Ce que l'on ne copie pas du Nord** : la rente pétrolière norvégienne, la privatisation lucrative de l'école suédoise, les critères ethniques danois en matière d'intégration, une TVA à 25 %.
 
 La première version de synthèse reste disponible : [programme-v1.md](programme-v1.md).
+
+Les idées en attente d'intégration sont notées dans [idees-en-vrac.md](idees-en-vrac.md).

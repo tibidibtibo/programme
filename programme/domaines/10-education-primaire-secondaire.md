@@ -74,26 +74,40 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / an | Recettes / Économies | Coût net 2032 | Année pleine | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| Revalorisation enseignants (+20 %) | 8 Md€ | 2 Md€ (déjà actés 2023-2024) | 6 Md€ | 2030 | ≈ 800 000 enseignants × 50 000 € (coût chargé standard) × 20 % |
+| Deuxième adulte et soutien immédiat | 1,5 Md€ | - | 1,5 Md€ | 2029 | 20 000 ETP éducateurs (35 000 €/an) en REP/rural = 0,7 Md€ + 16 000 ETP enseignants de soutien (50 000 €/an) = 0,8 Md€ |
+| Classes à 20 (primaire) / 24 (collège) | 1,5 Md€ | 1,0 Md€ (baisse démographique) | 0,5 Md€ | 2032 | Maintien des postes libérés par la baisse prévue de ≈ 500 000 élèves d'ici 2030 (RERS 2024). Reste à charge : foncier et équipement. |
+| Pré-recrutement (L3/M1) | 0,6 Md€ | - | 0,6 Md€ | 2028 | 30 000 étudiants boursiers × 20 000 €/an (1 400 € net/mois + charges) |
+| Cantines à 1€, petits-déjeuners, fournitures | 0,8 Md€ | - | 0,8 Md€ | 2028 | Compensation aux communes pour ≈ 2 millions d'élèves en quartiers pauvres. |
+| Internats (20k places), sport, orientation | 0,6 Md€ | - | 0,6 Md€ | 2031 | Foncier et encadrement (20 000 places × 15 000 € = 0,3 Md€) + renforcement de l'orientation. |
+| **Total** | **13 Md€** | **3 Md€** | **10 Md€** | | |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Le retard pris en lecture et mathématiques grève la productivité future et alimente le décrochage. La mixité sociale est une condition de la cohésion nationale. La revalorisation est incontournable pour résoudre la crise d'attractivité (3 000+ postes non pourvus par an).
+- **Contraintes et capacités** :
+  - *Juridiques* : Le financement différencié du privé sous contrat (mesure 7) nécessite une loi de finances et une adaptation du code de l'éducation (loi Debré de 1959).
+  - *Opérationnelles* : L'obstacle majeur est le manque de candidats aux concours. Le pré-recrutement dès la L3 est la solution retenue pour recréer un vivier. La baisse démographique (-500 000 élèves) est l'opportunité historique d'abaisser les effectifs par classe sans recrutement massif supplémentaire.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague (pour les créations de postes massives) / 🟢 Socle (pour le soutien)
-- **Lien avec la relance économique** : L'élévation du niveau général est la condition de la compétitivité à long terme, mais son coût nécessite de suivre la trajectoire macro.
+| Mesure | Statut | Nature | Effet retour attendu |
+|---|---|---|---|
+| Revalorisation (+20 %) | 🟡 Seconde vague | Dépense sociale | Maintien du service public |
+| Deuxième adulte et soutien | 🟢 Socle | Investissement productif | Baisse de l'échec scolaire, gain de productivité à long terme |
+| Classes à 20 | 🟢 Socle | Dépense sociale | Profite de la baisse démographique |
+| Pré-recrutement | 🟢 Socle | Investissement | Résolution de la crise des concours |
+| Mixité et financement privé | 🟢 Socle | Normatif (coût nul) | Cohésion et égalité des chances |
+| Cantines, internats, aides | 🟡 Seconde vague | Dépense sociale | Lutte contre la pauvreté infantile |
+
+*Lien avec la relance* : L'amélioration du capital humain est le premier moteur de la croissance de long terme. Cependant, en raison de son coût (10 Md€ nets), la revalorisation générale de 20 % est conditionnée aux recettes de la Seconde vague (cf. `arbitrage.md`), pour ne pas dégrader le déficit immédiat. Le soutien immédiat et le pré-recrutement, moins coûteux et vitaux, sont garantis dans le Socle.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- OCDE, *PISA 2022 Results (Volumes I et II)*, décembre 2023.
-- OCDE, *Regards sur l'éducation 2024*.
-- DEPP, *Repères et références statistiques 2025* ; évaluations nationales 6e.
-- Cour des comptes, *L'enseignement privé sous contrat*, juin 2023.
+- OCDE, *PISA 2022 Results (Volume I)*, décembre 2023 (Score mathématiques France : 474).
+- OCDE, *Regards sur l'éducation 2024* (Écarts de salaires et taille des classes).
+- DEPP, *Repères et références statistiques 2024* (Sorties sans diplôme, baisse démographique projetée).
+- Cour des comptes, *L'enseignement privé sous contrat*, juin 2023 (Recommandation sur la modulation des moyens selon l'IPS).
 - Yann Algan, Pierre Cahuc, Andrei Shleifer, « Teaching Practices and Social Capital », *AEJ: Applied Economics*, 2013.
-- Finnish National Agency for Education, *Basic education in Finland*.

@@ -52,26 +52,40 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / an | Recettes / Économies | Coût net 2032 | Année pleine | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| Recherche publique (vers 3 % du PIB) | 7,5 Md€ | 2,0 Md€ (déjà actés par la LPR) | 5,5 Md€ | 2032 | Accélération de la programmation existante pour rattraper l'Allemagne. |
+| Allocation d'autonomie étudiante | 5,5 Md€ | 2,5 Md€ (remplacement des bourses actuelles) | 3,0 Md€ | 2029 | 1 million d'étudiants bénéficiaires × ≈ 550 €/mois moyen × 10 mois. |
+| Repas à 1 € pour tous et logements | 0,7 Md€ | - | 0,7 Md€ | 2028 | 150 millions de repas × compensation Crous de ≈ 3,50 € (0,5 Md€) + aide au foncier (0,2 Md€). |
+| Renforcement de la licence et carrières | 2,0 Md€ | - | 2,0 Md€ | 2031 | Recrutement de 10 000 ETP enseignants-chercheurs (0,6 Md€) et augmentation de la dotation globale de fonctionnement. |
+| **Total** | **15,7 Md€** | **4,5 Md€** | **11,2 Md€** | | *Total arrondi à 11 Md€ au niveau macro.* |
+
+*Note sur le Crédit d'impôt recherche (CIR)* : Le recentrage du CIR vers les PME/ETI et la recherche réelle (fin de l'optimisation) génère une économie estimée à 2 Md€. Cette économie est comptabilisée dans le domaine 06 (Finances publiques) au titre de la revue des niches, et non en déduction des 11 Md€ d'investissement.*
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : La France décroche scientifiquement (de 4 % à 2,5 % des publications mondiales). L'enseignement supérieur est sous-financé, créant de l'échec. La précarité étudiante limite l'égalité des chances (seulement un tiers de réussite en licence en 3 ans).
+- **Contraintes et capacités** :
+  - *Opérationnelles* : La construction de 60 000 logements étudiants se heurte à la disponibilité du foncier et aux normes d'urbanisme. Elle dépendra du plan global Logement (domaine 13). Le versement de l'allocation d'autonomie exigera une modernisation informatique du réseau des Crous.
+  - *Juridiques* : La réforme de l'allocation étudiante nécessite un vote dans le PLF. Le repas à 1€ pour tous contrevient potentiellement au principe de tarification sociale progressive s'il n'est pas bien paramétré.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague (pour la dernière marche)
-- **Lien avec la relance économique** : L'investissement dans la recherche et la formation est le premier moteur de la croissance endogène à long terme.
+| Mesure | Statut | Nature | Effet retour attendu |
+|---|---|---|---|
+| Recherche publique | 🟢 Socle (2,5 Md€) / 🟡 Seconde vague (3 Md€) | Investissement productif | Brevets, innovation technologique, compétitivité |
+| Allocation autonomie étudiante | 🟡 Seconde vague | Dépense sociale | Réussite éducative, hausse du taux d'emploi futur |
+| Repas à 1 € et logements | 🟢 Socle | Dépense sociale | Maintien du niveau de vie étudiant |
+| Licence et carrières | 🟢 Socle (1 Md€) / 🟡 Seconde vague (1 Md€) | Investissement | Productivité |
+| Instituts Fraunhofer français | 🟢 Socle | Investissement mixte | Transfert technologique immédiat vers l'industrie |
+
+*Lien avec la relance* : Domaine fondamental pour la relance. La recherche et le capital humain sont les moteurs de la croissance à 10 ans. Cependant, l'ampleur du budget nécessaire (11 Md€) exige de phaser la dépense. Le premier palier est dans le socle, le reste (notamment l'allocation autonomie) basculera à mesure que les recettes de l'emploi rentreront.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- OCDE, *Main Science and Technology Indicators*, 2024.
-- Ministère de l'Enseignement supérieur et de la Recherche, *L'état de l'enseignement supérieur, de la recherche et de l'innovation en France*, n° 18, 2025.
-- Observatoire de la vie étudiante, *Enquête Conditions de vie 2023*.
-- Cour des comptes, *Le crédit d'impôt recherche*, 2021.
-- Loi n° 2020-1674 de programmation de la recherche pour 2021-2030.
-- Fraunhofer-Gesellschaft, rapport annuel 2024.
+- OCDE, *Main Science and Technology Indicators*, 2024 (Objectif 3 % du PIB).
+- Ministère de l'Enseignement supérieur et de la Recherche / SIES, *L'état de l'enseignement supérieur, de la recherche et de l'innovation en France*, n° 18, 2025 (Échec en licence, dépense par étudiant).
+- Observatoire de la vie étudiante, *Enquête Conditions de vie 2023* (Précarité étudiante).
+- Hcéres / OST, *Rapport sur les publications scientifiques*, 2024.
+- Cour des comptes, *Le crédit d'impôt recherche*, 2021 (Estimation des économies sur niches).
+- Fraunhofer-Gesellschaft, *Annual Report*, 2024.

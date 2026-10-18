@@ -55,26 +55,32 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
-
+| Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| Réorientation des aides aux entreprises | 0 Md€ | 0 Md€ | 0 Md€ | 2032 | Mesure à coût nul : un quota des aides existantes (estimées à 211 Md€ par le Sénat) est réaffecté sous forme conditionnée à l'investissement local, plutôt qu'en allègements inconditionnels. |
+| Fonds souverain et relocalisation santé | ≈ 0,5 Md€ | - | ≈ 0,5 Md€ | 2032 | Capitaux investis via la Bpifrance/CDC (la plupart ne sont pas de la dépense maastrichtienne, mais des prêts/fonds propres). L'impact budgétaire direct est limité aux aides directes à la relocalisation de principes actifs. |
+| Suramortissement robotique/IA et PME | ≈ 1,5 Md€ | - | ≈ 1,5 Md€ | 2032 | Baisse temporaire d'impôt sur les sociétés (IS) ciblée sur l'achat d'équipements de production (robots, machines), estimée sur le coût historique de la mesure similaire sous le quinquennat Hollande/Macron. |
+| Territoires d'industrie et compétences | ≈ 1,0 Md€ | - | ≈ 1,0 Md€ | 2032 | Enveloppe d'aide aux friches industrielles, et prime aux 100 000 contrats d'apprentissage supplémentaires spécifiquement fléchés sur l'industrie (coût budgétaire unitaire moyen : 5 000 à 6 000 €). |
+| **Total** | **≈ 3,0 Md€** | **-** | **≈ 3,0 Md€** | 2032 | Le surcroît de recettes (TVA, cotisations sur emplois industriels) à terme couvrira la dépense mais n'est pas chiffré dans le coût net strict. |
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
-
+- **Justification** : L'industrie manufacturière ne représente plus que 10 % du PIB français, ce qui crée une dépendance inacceptable lors des crises (cf. ruptures de médicaments avec 5 000 signalements à l'ANSM en 2023) et pèse lourdement sur le déficit commercial (≈ 85 Md€). Les emplois industriels ont un fort pouvoir d'entraînement (1 emploi industriel génère 2 à 3 emplois dans les services) et paient mieux.
+- **Faisabilité** :
+  - *Soutien à l'investissement* : La réorientation des aides et le suramortissement sont faciles à mettre en œuvre via la loi de finances.
+  - *Commande publique* : Fixer un quota de "50 % européen" dans les appels d'offres se heurte aux règles strictes de l'OMC (Accord sur les marchés publics) et de l'UE. Toutefois, l'inclusion de critères environnementaux (bilan carbone du transport) permet légalement de privilégier les producteurs locaux de facto (Net-Zero Industry Act européen).
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Cœur de la stratégie de relance : création d'emplois à forte valeur ajoutée, balance commerciale, souveraineté.
+- **Redéploiement des 30 Md€ d'aides et suramortissement** : 🟢 Socle. [Investissement productif] Il s'agit du bras armé pour inciter les entreprises à acheter des machines (robotisation) plutôt que de verser des dividendes ou de délocaliser. Investissement productif pur.
+- **Territoires d'industrie / Apprentissage** : 🟢 Socle. [Soutien à l'emploi et à l'offre] L'enjeu n°1 des industriels n'est plus le coût du travail, mais la difficulté à recruter des techniciens qualifiés (soudeurs, chaudronniers).
+- **Fondations industrielles et Fonds souverain** : 🟡 Seconde vague. [Investissement productif] Le dispositif fiscal complexe des fondations demandera du temps.
+- **Relocalisation des médicaments** : 🟢 Socle. [Dépense sociale] Un enjeu vital de souveraineté sanitaire immédiate.
 
+**Lien avec la relance** : La réindustrialisation fixe la richesse dans les territoires. Elle restaure les bassins d'emplois périphériques (diagonale du vide) souvent touchés par la désindustrialisation.
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- INSEE, *Comptes de la Nation 2024*.
-- Direction générale des douanes, *Le chiffre du commerce extérieur*, bilan 2024.
-- Secrétariat général pour l'investissement, *France 2030 — rapport d'avancement*, 2025.
-- Trendeo, *Observatoire de l'investissement*, 2025.
-- Fédération internationale de robotique, *World Robotics 2024*.
-- Sénat, *Aides publiques aux grandes entreprises*, juillet 2025.
+- INSEE, *Comptes de la Nation 2024* (poids de l'industrie à 10 %).
+- Douanes, *Bilan du commerce extérieur 2024* (déficit des biens autour de 85 Md€).
+- ANSM, rapport annuel (près de 5 000 signalements de tensions/ruptures de stock en 2023).
+- Fédération internationale de robotique (IFR), *World Robotics 2024* (densité robotique de 160-180 en France vs 400+ en Allemagne).
+- Sénat, rapport de la commission d'enquête sur les aides aux entreprises (évaluation de la masse totale à 211 Md€).
+- Secrétariat général pour l'investissement (SGPI), suivi de *France 2030*.

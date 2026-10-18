@@ -59,26 +59,35 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
-
+| Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| Pass France Mobilités à 49 €/mois | ≈ 3,0 Md€ | - | ≈ 3,0 Md€ | 2032 | Compensation de la perte de recettes billettiques pour les Autorités Organisatrices de la Mobilité (Régions, IDFM). Modélisé sur le coût du Deutschlandticket allemand (≈ 3 Md€ pour une population légèrement supérieure). |
+| Loi de programmation 2027-2037 (Réseau ferré) | ≈ 2,5 Md€ | - | ≈ 2,5 Md€ | 2032 | +1,5 Md€/an pour la régénération du réseau (cf. rapport COI 2022) et +1 Md€/an pour la desserte fine (petites lignes) et les RER métropolitains (SERM). |
+| Cars express, TàD ruraux et Trains de nuit | ≈ 0,5 Md€ | - | ≈ 0,5 Md€ | 2032 | Subventions de fonctionnement aux Régions pour intensifier l'offre hors zones denses, et achat/rénovation de rames de nuit (15 lignes d'ici 2030). |
+| Plan Vélo | ≈ 0,25 Md€ | - | ≈ 0,25 Md€ | 2032 | Fonds vélo porté à 500 M€/an (dont +250 M€ d'argent nouveau de l'État), soutien aux pistes cyclables et primes à l'achat. |
+| Versement mobilité étendu aux Régions | - | ≈ -1,5 Md€ | ≈ -1,5 Md€ | 2032 | Création d'une tranche additionnelle optionnelle du Versement Mobilité (VM) hors agglomérations pour financer les TER et cars régionaux. |
+| Affectation de la redevance autoroutière (voir domaine 16) | - | ≈ -1,5 Md€ | ≈ -1,5 Md€ | 2028 | Transfert vers l'AFITF (Agence de financement des infrastructures de transport). |
+| **Total** | **≈ 6,25 Md€** | **≈ -3,0 Md€** | **≈ 3,25 Md€** | 2032 | Cohérent avec le coût net budgété. |
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
-
+- **Justification** : Réduire la dépendance à la voiture individuelle est une urgence absolue tant pour le climat (les transports représentent 32 % des émissions françaises, selon le Citepa) que pour le pouvoir d'achat (les transports sont le 2e poste de dépense, avec ≈ 4 700 €/an en moyenne par ménage, INSEE). L'exemple de l'Allemagne avec le Deutschlandticket montre qu'une tarification simple, unique et abordable est un puissant vecteur de transfert modal.
+- **Faisabilité** :
+  - *Juridique* : Le Pass unique requiert un accord entre l'État et toutes les Régions (autorités organisatrices des mobilités - AOM). La compensation intégrale des pertes de recettes billettiques par l'État est la condition sine qua non de cet accord.
+  - *Industrielle* : Le réseau ferré actuel (âgé d'environ 30 ans en moyenne) a besoin d'être régénéré pour supporter des cadencements accrus. Les capacités de la filière travaux publics ferroviaires devront monter en charge (recrutement, machines).
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Soutien au pouvoir d'achat des travailleurs et fluidification du marché du travail métropolitain.
+- **Pass France Mobilités (49 €)** : 🟢 Socle. [Soutien à l'emploi et à l'offre] Choc de demande majeur pour remplir les trains existants, soutien massif au pouvoir d'achat des travailleurs, avec un effet positif sur la mobilité géographique et l'accès à l'emploi.
+- **Régénération du réseau ferré et petites lignes** : 🟢 Socle. [Investissement productif] Investissement productif indispensable, créateur d'emplois dans les travaux publics.
+- **Trains de nuit et SERM** : 🟡 Seconde vague. [Investissement productif] Les temps de réalisation technique (achat de rames, gros travaux métropolitains) étaleront la dépense sur la décennie.
+- **Extension du Versement Mobilité** : 🟢 Socle. [Soutien à l'emploi et à l'offre] Le bénéfice direct du réseau express régional et du car pour les employeurs justifie leur contribution.
 
+**Lien avec la relance** : La régénération du réseau ferroviaire alimente la commande publique (travaux publics, industrie ferroviaire française type Alstom). La réduction du budget voiture des ménages libère du pouvoir d'achat réinvesti dans la consommation locale.
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- INSEE, *Mobilités professionnelles*, recensement 2021.
-- Citepa, *Rapport Secten*, édition 2024.
-- Conférence de financement « Ambition France Transports », conclusions, juillet 2025.
-- Conseil d'orientation des infrastructures, *Investir plus et mieux dans les mobilités*, décembre 2022.
-- Verband Deutscher Verkehrsunternehmen (VDV), bilan du Deutschlandticket, 2024.
+- INSEE, *Mobilités professionnelles*, Recensement 2021 (74 % de part de la voiture dans les déplacements domicile-travail).
+- INSEE, *La consommation des ménages*, édition 2021 (dépense moyenne en transport individuel).
+- Citepa, *Rapport Secten 2024* (inventaire des émissions de GES).
+- Conseil d'orientation des infrastructures (COI), *Investir plus et mieux dans les mobilités*, rapport 2022 (besoin de +1,5 Md€/an pour la régénération).
 - François Philizot, *Rapport sur les lignes de desserte fine du territoire*, février 2020.
+- Autorité de régulation des transports (ART), données sur l'âge moyen du réseau.
+- Gouvernement fédéral allemand / VDV, bilan d'étape du Deutschlandticket (coût subventionné de ≈ 3 Md€ par an partagé entre l'État fédéral et les Länder).

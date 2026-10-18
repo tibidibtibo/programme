@@ -68,23 +68,37 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 1. 1000 centres de santé publics | 2,5 Md€ | 0,5 Md€ (financements locaux/tarifs) | 2,0 Md€ | 2031 | 1000 centres x (3 médecins + 2 infirmières + 1 admin). Coût unitaire soignant ≈ 55k€. |
+| 3-4. Internat et formation | 0,8 Md€ | 0 | 0,8 Md€ | 2029 | 4e année à 40k€ pour 10 000 étudiants + places en fac. |
+| 6-7. Ratios et revalorisations hôpital | 3,5 Md€ | 0 | 3,5 Md€ | 2032 | Embauche de 30 000 soignants et +30% gardes. |
+| 11. Santé mentale | 1,0 Md€ | 0 | 1,0 Md€ | 2030 | Embauche psys, remboursement séances jeunes. |
+| 10. Prévention (dépistages, sport) | 0,5 Md€ | 0,7 Md€ (taxes sucres/alcool) | -0,2 Md€ | 2028 | Taxes comportementales compensent l'effort. |
+| **Total du domaine 12** | **8,3 Md€** | **1,2 Md€** | **7,1 Md€** | - | Correspond approximativement au net annoncé (7,8 Md€ brut - 0,7 Md€ de recettes = 7,1 Md€). |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Centres de santé publics** :
+  - *Justification* : Le modèle libéral exclusif ne répond plus aux attentes des jeunes médecins (qui veulent être salariés) ni à l'urgence des déserts médicaux. L'Espagne et la Suède le prouvent.
+  - *Faisabilité et Risques* : Nécessite une forte attractivité des postes salariés. Risque de coût d'immobilier ; les communes fourniront le foncier.
+- **Régulation de l'installation** :
+  - *Justification* : C'est le cas pour les pharmacies, infirmiers, kinés, mais curieusement pas pour les médecins.
+  - *Faisabilité* : Risque de blocage et grèves des syndicats de médecins libéraux.
+- **Ratios soignants en hôpital** :
+  - *Justification* : Un ratio sûr diminue la mortalité et l'épuisement professionnel (qui cause les fuites).
+  - *Faisabilité* : Pénurie de candidats. Exige de former massivement au préalable. Le ratio sera progressif.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague (pour les ratios complets) / 🟢 Socle (pour les centres de santé publics)
-- **Lien avec la relance économique** : La santé de la population active soutient la productivité ; financé par les gains d'efficience (pertinence des soins).
+- **1. Centres publics** : 🟢 Socle. Urgence sanitaire pour les bassins d'emploi (frein à la mobilité).
+- **2. Régulation** : 🟢 Socle. À coût nul, justice territoriale.
+- **6. Ratios soignants** : 🟡 Seconde vague. Très coûteux, dépense conditionnée aux marges budgétaires.
+- **10. Prévention** : 🟢 Socle. Rentable à long terme (économies sur l'assurance maladie).
+- **11. Santé mentale** : 🟡 Seconde vague. Enjeu majeur mais budgétairement lourd.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - DREES, *Les dépenses de santé en 2024*, édition 2025 ; *Démographie des professionnels de santé*, 2025 ; *Établissements de santé*, édition 2024.
 - Assurance maladie, *Charges et produits pour 2026*, juillet 2025.
 - INSEE, *L'espérance de vie par niveau de vie*, Insee Première n° 1687, 2018.

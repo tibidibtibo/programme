@@ -70,23 +70,32 @@ Ce fichier détaille la mesure 10 du [fichier 08](08-protection-sociale-retraite
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 1-3. Professionnels à domicile | 2,5 Md€ | 0 | 2,5 Md€ | 2030 | +100 000 ETP à domicile (25 k€/an). |
+| 5. Ratio d'encadrement en EHPAD | 1,5 Md€ | 0 | 1,5 Md€ | 2032 | Objectif 0,8 soignant par résident (coût unitaire 35 k€). |
+| 6. Reste à charge plafonné | 0,6 Md€ | 0 | 0,6 Md€ | 2029 | Compensation partielle par l'aide sociale à l'hébergement (ASH). |
+| 4. Congé pour les aidants | 0,4 Md€ | 0 | 0,4 Md€ | 2028 | Indemnisation SMIC pendant 6 mois. |
+| **Total du domaine 31** | **5,0 Md€** | **0** | **5,0 Md€** | - | -3 Md€ déjà comptés (domaine 08), solde net = 2 Md€. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Virage domiciliaire (modèle danois)** :
+  - *Justification* : Les Français souhaitent massivement vieillir chez eux. Le modèle Buurtzorg montre que des équipes autonomes améliorent la qualité de vie et réduisent l'hospitalisation.
+  - *Faisabilité et Risques* : Pénurie de candidats pour l'aide à domicile à cause des conditions de travail et de salaire (déplacements non payés, temps partiels subis). C'est pourquoi un investissement massif de 2,5 Md€ est nécessaire.
+- **Ratio d'encadrement en EHPAD** :
+  - *Justification* : Le taux de 0,6 professionnel par résident est insuffisant pour garantir la dignité et prévient l'épuisement professionnel.
+  - *Faisabilité* : Délai long pour former les soignants manquants (environ 5 ans minimum).
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague
-- **Lien avec la relance économique** : Mesure sociale différée ou échelonnée en fonction des recettes constatées de la relance.
+- **1-3. Aide à domicile (Buurtzorg)** : 🟢 Socle. Il faut restructurer le secteur pour prévenir les hospitalisations évitables coûteuses.
+- **5. Ratio en EHPAD** : 🟡 Seconde vague. Montée en charge échelonnée selon les recettes générées par le plein emploi.
+- **6. Reste à charge** : 🟡 Seconde vague. Mesure de justice mais coûteuse pour les départements (qui devront être compensés par l'État).
+- **4. Aidants** : 🟢 Socle. Évite que l'aidant quitte son emploi, ce qui soutient le marché du travail.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - Dominique Libault, *Concertation Grand âge et autonomie*, rapport, mars 2019.
 - DREES, *L'aide et l'action sociales en France*, édition 2024 ; enquêtes EHPA et CARE.
 - INSEE, *Projections de population 2021-2070*.

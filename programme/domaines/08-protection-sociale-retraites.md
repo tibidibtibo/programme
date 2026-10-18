@@ -8,15 +8,15 @@
 
 | Indicateur | Valeur | Source |
 |---|---|---|
-| Dépenses de protection sociale | ≈ 850 Md€, ≈ 32 % du PIB (record de l'UE) | DREES, *La protection sociale en France et en Europe*, 2025 |
-| Taux de pauvreté (seuil à 60 % du revenu médian) | 15,4 % en 2023, ≈ 9,8 millions de personnes, plus haut niveau depuis 1996 | INSEE, juillet 2025 |
-| Pauvreté des enfants | ≈ 1 enfant sur 5 | INSEE |
+| Dépenses de protection sociale | 31,5 % du PIB en 2023 | DREES, Eurostat 2025 |
+| Taux de pauvreté (seuil à 60 % du revenu médian) | 15,4 % en 2023, ≈ 9,8 millions de personnes, plus haut niveau depuis 1996 | INSEE, Insee Première n°2063, juillet 2025 |
+| Pauvreté des enfants | 21,9 % en 2023 | INSEE, Insee Première n°2063, juillet 2025 |
 | Non-recours au RSA | ≈ 34 % des éligibles | DREES, 2022 |
 | Non-recours à la complémentaire santé solidaire | ≈ 50 % | DREES |
-| Dépenses de retraite | ≈ 14 % du PIB, ≈ 400 Md€ | Conseil d'orientation des retraites (COR), 2025 |
+| Dépenses de retraite | ≈ 13,4 % du PIB en 2023 (en recul projeté vers 13,2% en 2070) | Conseil d'orientation des retraites (COR), juin 2024 |
 | Nombre de régimes de retraite | ≈ 42 | COR |
-| Taux de pauvreté des retraités | ≈ 10 %, inférieur à la moyenne nationale | INSEE |
-| Déficit des retraites | ≈ 0,2 à 0,4 % du PIB par an d'ici 2030, plus à long terme selon les hypothèses | COR ; Cour des comptes (conclave 2025) |
+| Taux de pauvreté des retraités | 11,1 %, très inférieur à la moyenne nationale | INSEE, Insee Première n°2063, juillet 2025 |
+| Déficit des retraites | -0,4 % du PIB en 2030 (soit un besoin de financement structurel) | COR, rapport annuel 2024 |
 
 ## Ce qui marche ailleurs
 
@@ -63,23 +63,37 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 1. Allocation sociale unique | 4 Md€ | 0,5 Md€ (gains de gestion) | 3,5 Md€ | 2029 | Hypothèse : +30% de bénéficiaires (1M foyers) x 300€/mois. |
+| 4. Allocations familiales dès le 1er enfant | 2 Md€ | 0 | 2 Md€ | 2028 | 70€/mois x 2,4 millions de familles à un enfant. |
+| 7. Minimum de pension (85 % du SMIC) | 1,5 Md€ | 0 | 1,5 Md€ | 2030 | Montée en charge progressive pour carrières complètes. |
+| 10. Cinquième branche "autonomie" | 3 Md€ | 0 | 3 Md€ | 2031 | Renvoi vers domaine 31 pour le détail. |
+| 5. Régime universel (convergence) | 0 | 0 | 0 | 2042 | Équilibré par construction sur le long terme (bascule des cotisations). |
+| **Total du domaine 08** | **10,5 Md€** | **0,5 Md€** | **10,0 Md€** | - | Cohérent avec le coût net annoncé. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Allocation sociale unique** :
+  - *Justification* : Le non-recours maintient dans la pauvreté et freine le retour à l'emploi. L'automatisation via la DSN permet de garantir le droit.
+  - *Faisabilité et Risques* : Nécessite une refonte des SI de la CAF et de la MSA (délai technique de 2 ans). Risque de bug massif lors du versement : plan B = maintien du système déclaratif en parallèle la première année.
+- **Régime universel de retraite** :
+  - *Justification* : L'éclatement en 42 régimes crée de la défiance et freine la mobilité professionnelle. Le système à points/notionnel suédois a prouvé son efficacité pour la viabilité financière.
+  - *Faisabilité et Risques* : Forte opposition syndicale et blocages prévisibles (SNCF, RATP, Énergie). La transition s'appliquera sur 15 ans avec la "clause du grand-père" partielle pour limiter les effets de bord juridiques et sociaux.
+- **Minimum de pension à 85% du SMIC** :
+  - *Justification* : Lutte contre la précarité des personnes ayant cotisé toute leur vie au SMIC.
+  - *Faisabilité* : Techniquement simple, applicable rapidement par les caisses de retraite.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague (pour les mesures d'augmentation des montants) / 🟢 Socle (pour la simplification)
-- **Lien avec la relance économique** : Le volet social est dimensionné et séquencé en fonction des recettes générées par le retour au plein emploi.
+- **1. Allocation sociale unique** : 🟢 Socle. Mesure de justice immédiate et levier pour la reprise d'activité (suppression des effets de seuil). Soutien à l'emploi. Effet retour attendu : intégration de 100 000 personnes sur le marché du travail.
+- **4. Allocations familiales 1er enfant** : 🟡 Seconde vague. Dépense sociale pure, relance la consommation mais à reporter si les recettes manquent.
+- **5. Régime universel de retraite** : 🟢 Socle. Réforme structurelle indispensable pour l'équité et le plein emploi.
+- **7. Minimum de pension (85%)** : 🟡 Seconde vague. Dépense sociale de solidarité nationale.
+- **10. Autonomie** : 🟡 Seconde vague. Investissement en partie productif (emplois locaux) mais très coûteux (voir domaine 31).
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - INSEE, *Niveaux de vie et pauvreté en 2023*, Insee Première, juillet 2025.
 - DREES, *La protection sociale en France et en Europe en 2024*, édition 2025 ; *Le non-recours aux prestations sociales*, 2022.
 - Conseil d'orientation des retraites, *Rapport annuel*, juin 2025.

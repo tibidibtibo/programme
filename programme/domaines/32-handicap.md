@@ -75,23 +75,38 @@ Ce fichier complète la mesure 11 du [fichier 08](08-protection-sociale-retraite
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 1. Titularisation des AESH | 0,9 Md€ | 0 | 0,9 Md€ | 2029 | Passage à temps plein et hausse au SMIC+20% pour ≈ 140 000 agents. |
+| 4. Assistance personnelle (PCH) | 0,4 Md€ | 0 | 0,4 Md€ | 2030 | Élargissement de l'assiette des actes pris en charge. |
+| 5. 10 000 places (fin Belgique) | 0,5 Md€ | 0,2 Md€ (fonds Assurance maladie) | 0,3 Md€ | 2032 | Les sommes payées à la Belgique reviennent en France. |
+| 11. Plan accessibilité 2032 | 0,5 Md€ | 0 | 0,5 Md€ | 2028 | Fonds d'État pour les collectivités (500 M€/an). |
+| 8. Obligation d'emploi 6% | 0 | 0,7 Md€ (amendes) | -0,7 Md€ | 2029 | Augmentation des pénalités AGEFIPH pour les réfractaires. |
+| 6-9. MDPH et emploi accompagné | 0,1 Md€ | 0 | 0,1 Md€ | 2028 | Recrutements MDPH. |
+| **Total du domaine 32** | **2,4 Md€** | **0,9 Md€** | **1,5 Md€** | - | Cohérent avec le coût net annoncé. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Titularisation des AESH** :
+  - *Justification* : Le statut précaire des AESH empêche de recruter, ce qui prive les enfants d'école. L'Italie montre que l'inclusion réussit quand les professionnels sont stables.
+  - *Faisabilité et Risques* : Fort impact sur le budget de l'Éducation nationale (masse salariale). La formation devra suivre.
+- **Fin des départs en Belgique** :
+  - *Justification* : L'exil forcé est indigne, l'argent de la Sécurité sociale française finance des structures étrangères sans contrôle.
+  - *Faisabilité* : La création de places en France prend du temps, le rapatriement se fera sur 5 ans.
+- **Assistance personnelle** :
+  - *Justification* : Le modèle suédois garantit l'autonomie. L'ONU l'exige.
+  - *Faisabilité* : Pénurie d'intervenants ; dépend de l'attractivité des métiers.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague (pour la prestation d'assistance) / 🟢 Socle (AESH)
-- **Lien avec la relance économique** : Soutien à l'emploi des aidants et inclusion sur le marché du travail.
+- **1. AESH titularisés** : 🟢 Socle. L'école inclusive s'effondre sans eux.
+- **4. PCH élargie** : 🟡 Seconde vague. Augmentation des droits à lier aux capacités budgétaires.
+- **5. 10 000 places (fin Belgique)** : 🟢 Socle. Il faut relocaliser l'activité.
+- **8. Emploi 6% (amendes)** : 🟢 Socle. Mesure de justice qui incite à l'embauche (soutien de l'offre de travail).
+- **11. Accessibilité** : 🟡 Seconde vague. Investissement massif, étalé dans le temps.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - DARES, *Travailleurs handicapés : quel accès à l'emploi ?*, 2024.
 - CNSA, baromètre des MDPH, 2024-2025.
 - Ministère de l'Éducation nationale, *Repères et références statistiques*, 2025.

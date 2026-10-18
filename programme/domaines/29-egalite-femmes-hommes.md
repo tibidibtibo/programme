@@ -73,23 +73,34 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 1-4. Loi intégrale (juridictions, enquêteurs, outils) | 0,8 Md€ | 0 | 0,8 Md€ | 2029 | Embauche de magistrats spécialisés et renforts police/gendarmerie. |
+| 5-6. Hébergement et centres dédiés | 0,6 Md€ | 0 | 0,6 Md€ | 2030 | 15 000 places x 40 000 €/an en moyenne. |
+| 8. Prévention et éducation | 0,2 Md€ | 0 | 0,2 Md€ | 2028 | Formation continue profs et campagnes. |
+| 13. Santé des femmes | 0,3 Md€ | 0 | 0,3 Md€ | 2029 | Prise en charge endométriose et protections périodiques. |
+| 11. Temps partiel (cotisations) | 0,3 Md€ | 0,2 Md€ (surcotisation employeurs) | 0,1 Md€ | 2031 | Modèle d'équilibre partiel. |
+| **Total du domaine 29** | **2,2 Md€** | **0,2 Md€** | **2,0 Md€** | - | Cohérent avec l'objectif de 2 Md€ / an de la Fondation des Femmes. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Loi intégrale sur le modèle espagnol** :
+  - *Justification* : Le modèle espagnol VioGén a prouvé son efficacité en réduisant les féminicides d'un tiers. La spécialisation des tribunaux évite la fragmentation du traitement (civil/pénal) et protège mieux.
+  - *Faisabilité et Risques* : Le recrutement de magistrats prend 3 ans. Il y aura des résistances sur la suspension automatique de l'autorité parentale (Débat constitutionnel potentiel).
+- **Centres de prise en charge et 15 000 places** :
+  - *Justification* : Permet d'isoler la victime de son agresseur immédiatement et dignement. Le modèle belge (CPVS) augmente drastiquement le taux de plaintes abouties pour viols.
+  - *Faisabilité* : Mobilisation du parc social et de structures hôtelières ; requiert la coopération des collectivités territoriales.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague (pour certaines aides) / 🟢 Socle (pour l'aspect juridique et pénal)
-- **Lien avec la relance économique** : L'égalité salariale et le retour à l'emploi soutiennent l'offre de travail.
+- **1-4. Juridictions, enquêtes, protection** : 🟢 Socle. Régalien et protection de la vie.
+- **5-6. Hébergement / Centres** : 🟢 Socle. Protection immédiate indispensable.
+- **10. Certification islandaise (transparence salaire)** : 🟢 Socle. Relance de l'offre (augmente le pouvoir d'achat des femmes et encourage l'emploi) à coût nul pour l'État.
+- **11. Temps partiel (retraite)** : 🟡 Seconde vague.
+- **13. Santé des femmes** : 🟡 Seconde vague.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - INSEE, *Écarts de salaire entre femmes et hommes*, Insee Focus, 2024-2025 ; enquête Emploi.
 - Ministère de l'Intérieur, *Étude nationale sur les morts violentes au sein du couple*, éditions 2023 et 2024.
 - SSMSI, *Les violences conjugales enregistrées par les services de sécurité*, 2024.

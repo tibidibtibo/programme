@@ -76,27 +76,32 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+ | Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+ | Soutien Pêche artisanale et verdissement flotte | +0,1 Md€ | - | +0,1 Md€ | 2032 | Co-financement FEAMPA pour l'acquisition de navires décarbonés et indemnisation des arrêts. |
+ | Aires Marines Protégées (10% forte) et contrôle | +0,1 Md€ | - | +0,1 Md€ | 2032 | Moyens de surveillance satellitaire et de patrouille (État en mer), gestion de l'OFB. |
+ | Investissement Ports maritimes (HAROPA, Marseille) | +0,1 Md€ | - | +0,1 Md€ | 2032 | Part État du grand plan d'investissement de 3 Md€ sur 10 ans (électrification, dragage). |
+ | Fonds de recomposition du littoral (recul du trait de côte) | +0,3 Md€ | - | +0,3 Md€ | 2032 | Rachat des biens menacés et aménagements doux (une partie est couverte par le PNACC). |
+ | Renforcement Ifremer (Recherche océanographique) | +0,1 Md€ | - | +0,1 Md€ | 2032 | Hausse de 30% du budget de l'Ifremer et renouvellement de la flotte scientifique. |
+ | **Total** | **+0,7 Md€** | **-0,1 Md€** | **+0,6 Md€** | **2032** | Budget net de l'État (la partie FEAMPA allège la charge de 0,1 Md€). |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Le recul du trait de côte menace 5 000 logements à horizon 2050 (rapport Cerema 2024). L'anticipation par un fonds d'indemnisation et de relocalisation évite des indemnisations catastrophiques via le régime CatNat. Côté ports, la France perd des parts de marché face à Anvers et Rotterdam, détériorant sa souveraineté d'approvisionnement.
+- **Faisabilité juridique** : L'interdiction du chalutage de fond dans les AMP suit une directive de la Commission Européenne. Les indemnisations liées au trait de côte nécessitent la création d'un nouveau régime légal d'expropriation pour risque d'érosion (différent de la submersion).
+- **Mise en œuvre** : La relocalisation du littoral demande un consensus politique local très fort (acceptation par les populations de l'abandon de certains quartiers).
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Préservation de la biodiversité marine et adaptation du littoral, avec un impact fort sur l'économie bleue.
+- **Statut d'arbitrage** : 🟢 Socle. L'adaptation de nos côtes au dérèglement climatique et la souveraineté logistique portuaire sont stratégiques.
+- **Nature** : Investissements dans les infrastructures, subventions d'adaptation et recherche publique.
+- **Lien avec la relance** : La modernisation des ports et le raccordement fluvial/ferroviaire réduisent la dépendance logistique aux ports du Nord et attirent l'implantation d'industries sur notre sol. La commande publique de navires soutient les chantiers navals français.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- Service hydrographique et océanographique de la Marine (SHOM).
-- Cluster maritime français, *Chiffres clés de l'économie maritime*, 2024.
+- Cerema, *Projection du trait de côte et analyse des enjeux à l'échelle nationale*, 2024.
+- Cour des comptes, *La politique des aires marines protégées*, 2024 ; *Le modèle économique des grands ports maritimes*, 2023.
+- Observatoire Pelagis (CNRS/La Rochelle), bilans annuels des échouages de cétacés.
 - FranceAgriMer, *Les chiffres clés de la filière pêche et aquaculture*, 2024.
-- Cour des comptes, *Les aires marines protégées*, 2024 ; *Les grands ports maritimes*, 2023.
-- Cerema, *Projection du trait de côte et analyse des enjeux*, 2024.
-- Observatoire Pelagis (CNRS-La Rochelle Université), bilans des échouages.
-- Deltaprogramma (Pays-Bas), rapports annuels.
+- Cluster Maritime Français, indicateurs économiques de l'économie maritime, 2024.
+- Ifremer, plan stratégique 2030.

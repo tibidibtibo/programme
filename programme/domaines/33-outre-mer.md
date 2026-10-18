@@ -80,27 +80,34 @@ Ce fichier détaille la mesure 8 du [fichier 23](23-territoires-services-publics
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+ | Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+ | Lutte contre la vie chère (fret, octroi de mer) | +0,4 Md€ | - | +0,4 Md€ | 2032 | Subventions au fret et compensation aux collectivités de la baisse de l'octroi de mer sur les produits de base. |
+ | Eau potable (Guadeloupe, Mayotte) | +0,2 Md€ | - | +0,2 Md€ | 2032 | Plan d'urgence lissé sur la décennie pour la rénovation des réseaux et usines de dessalement/traitement. |
+ | Rattrapage Santé et École | +0,4 Md€ | - | +0,4 Md€ | 2032 | Création de CHU (Guyane, Mayotte), constructions scolaires pour résorber les sureffectifs (Mayotte, Guyane). |
+ | Chlordécone (indemnisation, dépollution) | +0,1 Md€ | - | +0,1 Md€ | 2032 | Fonds d'indemnisation élargi et plan de cartographie/dépollution des sols. |
+ | Énergie et Service militaire adapté (SMA) | +0,3 Md€ | - | +0,3 Md€ | 2032 | Doublement des effectifs du SMA (formation insertion) et soutien aux EnR. |
+ | Reconstruction (Mayotte, Guyane) | +0,1 Md€ | - | +0,1 Md€ | 2032 | Complément aux plans d'urgence existants pour l'habitat et la sécurité. |
+ | **Total** | **+1,5 Md€** | **0 Md€** | **+1,5 Md€** | **2032** | (Dont 0,5 Md€ déjà comptabilisé dans le domaine 23). |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Les écarts de développement (pauvreté de 30% à 77% selon les territoires, prix de 30-40% supérieurs) menacent l'intégrité républicaine, illustré par les crises sociales à répétition (vie chère en 2024). L'eau potable, droit fondamental, n'est plus garantie.
+- **Faisabilité juridique** : La refonte de l'octroi de mer nécessite l'accord de la Commission Européenne. Les sanctions sur les monopoles s'appuieront sur l'Autorité de la concurrence. L'évolution de l'autonomie (Nouvelle-Calédonie, différenciation) requiert une révision constitutionnelle.
+- **Mise en œuvre** : Le défi de l'eau en Guadeloupe suppose une reprise en main par l'État pour palier la faillite de la gouvernance locale. Les projets d'infrastructures nécessitent des entreprises de BTP robustes.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Rattrapage d'infrastructures indispensables au développement économique local.
+- **Statut d'arbitrage** : 🟢 Socle. Le rattrapage ultramarin n'est pas une option ; c'est une urgence de sécurité publique et de cohésion sociale.
+- **Nature** : Investissement d'infrastructures lourdes (eau, hôpitaux, écoles) et dépense de soutien au pouvoir d'achat.
+- **Lien avec la relance** : Les investissements en infrastructures profiteront à l'emploi local. Le soutien à l'agriculture et à la pêche (50 % d'autonomie alimentaire visée) limite la fuite des capitaux par les importations.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- INSEE, *Comparaison des prix entre les DOM et la France métropolitaine en 2022*, 2023 ; enquêtes Emploi et pauvreté dans les DOM.
+- INSEE, *Comparaison spatiale des prix entre les DOM et la France métropolitaine*, 2023.
+- INSEE, *Niveaux de vie et pauvreté dans les DOM*, 2023.
 - Autorité de la concurrence, avis n° 19-A-12 sur les prix en outre-mer, 2019.
-- Assemblée nationale, commission d'enquête sur la gestion des risques naturels et la vie chère en outre-mer, 2023-2024.
-- Santé publique France, étude Kannari sur l'exposition au chlordécone.
-- Cour des comptes, *La gestion de l'eau potable et de l'assainissement en Guadeloupe*, 2022.
+- Assemblée nationale, Rapport de la commission d'enquête sur le coût de la vie en outre-mer, 2023.
+- Cour des comptes, *La gestion de l'eau potable en Guadeloupe*, 2022.
+- Santé publique France, études sur l'exposition au chlordécone (cohorte Kannari).
 - Loi de programmation pour la refondation de Mayotte, 2025 ; accord de Bougival, 12 juillet 2025.
-- Traité sur le fonctionnement de l'Union européenne, article 349 (régions ultrapériphériques).

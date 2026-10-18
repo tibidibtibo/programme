@@ -55,26 +55,32 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+ | Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+ | Fonds friches / ZAN / Nature en ville | +0,6 Md€ | - | +0,6 Md€ | 2032 | Pérennisation du Fonds vert (volet friches à 300 M€ et renaturation). |
+ | Renforcement de la biodiversité (OFB) | +0,3 Md€ | - | +0,3 Md€ | 2032 | +500 ETP à l'OFB (≈ 30 M€), plan haies, sanctuarisation de 10 % du territoire (achats fonciers et gestion). |
+ | Plan Eau et dépollution (PFAS) | +0,3 Md€ | - | +0,3 Md€ | 2032 | Augmentation du plafond mordant des Agences de l'eau, soutien aux collectivités pour l'assainissement et la lutte contre les fuites (plan eau 2023). |
+ | Économie circulaire (bonus réparation, ressourceries) | +0,2 Md€ | +0,2 Md€ (Filières REP) | 0 Md€ | 2032 | Financement par l'extension de la responsabilité élargie des producteurs (éco-contributions). |
+ | **Total** | **+1,4 Md€** | **+0,2 Md€** | **+1,2 Md€** | **2032** | Le surcoût pour le budget général de l'État (net des REP) s'établit à 1,2 Md€/an. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Les mesures d'écologie du quotidien ont un retour sur investissement sanitaire et économique massif. La pollution de l'air coûte au bas mot 100 Md€/an en France (rapport Sénat 2015), et l'inaction sur l'eau menace la production agricole et industrielle.
+- **Faisabilité juridique** : La loi relative à la lutte contre le gaspillage et à l'économie circulaire (AGEC) fournit déjà le cadre légal ; l'enjeu est l'application (contrôles, filières REP). La consigne (point 1) nécessitera un accord avec les distributeurs et les collectivités.
+- **Mise en œuvre** : Les objectifs ZAN posent des tensions dans la ruralité ; l'assouplissement de la doctrine et le fonds friches doté de 300 M€/an permettront de libérer du foncier sans artificialiser, désamorçant les blocages locaux.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Dépenses d'infrastructure liées à l'eau et à l'économie circulaire génératrices d'activité.
+- **Statut d'arbitrage** : 🟢 Socle. L'adaptation de l'eau et de l'environnement est une condition de la souveraineté alimentaire (agriculture) et sanitaire.
+- **Nature** : Investissement dans le capital naturel et les infrastructures locales.
+- **Lien avec la relance** : La dépollution des friches et la réparation des réseaux d'eau créent des chantiers immédiats de travaux publics dans les territoires (PME du BTP). L'économie circulaire structure de nouvelles filières industrielles locales (réparation, recyclage).
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- Santé publique France, *Impact de la pollution de l'air ambiant sur la mortalité en France métropolitaine*, 2021.
-- ADEME, *Déchets — chiffres-clés*, édition 2024.
+- Santé publique France, *Impact de la pollution de l'air ambiant sur la mortalité en France*, 2021.
+- ADEME, *Déchets — chiffres-clés*, 2024.
 - Cerema, *Observatoire de l'artificialisation des sols*, 2024.
-- Office français de la biodiversité, *Chiffres clés de la biodiversité*, 2024.
-- IGN, *Inventaire forestier national*, mémento 2024.
-- Plan d'action pour une gestion résiliente et concertée de l'eau, mars 2023.
+- Office français de la biodiversité (OFB), *Chiffres clés de la biodiversité*, 2024.
+- IGN, *Inventaire forestier national*, 2024.
+- Ministère de la Transition écologique, *Plan d'action pour une gestion résiliente et concertée de l'eau* (Plan Eau), mars 2023.
+- Sénat, Rapport de la commission d'enquête sur le coût économique et financier de la pollution de l'air, 2015.

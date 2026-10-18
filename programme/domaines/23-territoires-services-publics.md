@@ -55,26 +55,33 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+ | Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+ | Garantie à 30 minutes & France Services (4000 sites) | +1 Md€ | - | +1 Md€ | 2032 | Financement de l'État pour le maintien/création d'antennes de proximité (agents, locaux, bus itinérants). |
+ | Revitalisation Villes moyennes et Bourgs (ACV/PVD) | +0,3 Md€ | - | +0,3 Md€ | 2032 | Aides de l'État au-delà des fonds CDC, pour requalifier les centres. |
+ | Quartiers prioritaires (Humain et Emplois francs) | +0,5 Md€ | - | +0,5 Md€ | 2032 | Primes de stabilité (5 000 € / agent / 5 ans), renforcement des équipes d'éducateurs. |
+ | Plan de rattrapage Outre-mer (Continuité, eau) | +0,5 Md€ | - | +0,5 Md€ | 2032 | Complément des fonds dédiés outre-mer (voir fichier 33). |
+ | Amélioration du statut de l'élu local | +0,1 Md€ | - | +0,1 Md€ | 2032 | Revalorisation des indemnités et prise en charge de la formation pour les petites communes. |
+ | Réforme de la péréquation (DGF) | - | - | 0 Md€ | 2032 | Redéploiement à enveloppe constante (DGF). |
+ | **Total** | **+2,4 Md€** | **0 Md€** | **+2,4 Md€** | **2032** | À la charge de l'État. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : L'accès aux services publics et la revitalisation locale répondent à un fort sentiment d'abandon, documenté par le rapport de la Cour des comptes sur les services publics locaux (2020) et la crise des "Gilets jaunes".
+- **Faisabilité juridique** : La refonte des dotations (péréquation) requiert une loi de finances rectificative et une forte concertation avec le Comité des finances locales, car elle fait des "perdants" parmi les communes riches.
+- **Mise en œuvre** : Le maillage complet en France Services nécessite des partenariats poussés avec La Poste et des recrutements ciblés de profils polyvalents.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Aménagement du territoire favorisant l'implantation d'entreprises (infrastructures, services essentiels).
+- **Statut d'arbitrage** : 🟢 Socle. La cohésion territoriale est le préalable au pacte républicain.
+- **Nature** : Dépense de fonctionnement (services) et investissement d'aménagement.
+- **Lien avec la relance** : La requalification des centres-villes dynamise le commerce de proximité, et les emplois francs soutiennent l'intégration des quartiers populaires dans la chaîne de valeur.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- INSEE, *La France et ses territoires*, édition 2021 ; grille communale de densité.
-- ANCT, *Rapport de l'Observatoire des territoires*, 2024 ; bilan France Services 2025.
-- Observatoire national de la politique de la ville, rapport 2024.
+- INSEE, *La France et ses territoires*, 2021.
+- ANCT, *Rapport de l'Observatoire des territoires*, 2024 ; bilan France Services 2024.
+- Observatoire national de la politique de la ville, *Rapport annuel*, 2024.
 - DREES, *Accessibilité aux soins urgents*, 2024.
-- Autorité de la concurrence, avis n° 19-A-12 sur les prix outre-mer, 2019.
-- Association des maires de France, enquêtes sur les démissions d'élus, 2024.
+- Autorité de la concurrence, avis n° 19-A-12 sur le fonctionnement de la concurrence en outre-mer, 2019.
+- Cour des Comptes, L'accès aux services publics dans les territoires ruraux, 2019.

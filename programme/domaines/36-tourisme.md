@@ -64,26 +64,32 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+ | Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+ | Colonies de vacances et tourisme social | +0,2 Md€ | - | +0,2 Md€ | 2032 | Pass'Colo généralisé et rénovation des centres de vacances associatifs (soutien de l'État). |
+ | Extension chèques-vacances PME | +0,1 Md€ | - | +0,1 Md€ | 2032 | Abondement public modeste pour les très petites entreprises et exonérations de cotisations sociales. |
+ | Plan Patrimoine (ruralité, églises) | +0,2 Md€ | - | +0,2 Md€ | 2032 | Lissage de l'enveloppe de 1 Md€ sur le quinquennat, en appui aux petites communes (10 000 édifices). |
+ | Hébergement des saisonniers | +0,1 Md€ | - | +0,1 Md€ | 2032 | Co-financement avec Action Logement pour la construction de résidences saisonnières. |
+ | Hausse de la taxe de séjour (meublés/luxe) | - | +0,6 Md€ | -0,6 Md€ | 2032 | Révision des barèmes pour capter la rente des meublés de tourisme et de l'hôtellerie de luxe, affectée en partie au niveau national/régional. |
+ | **Total** | **+0,6 Md€** | **+0,6 Md€** | **0 Md€** | **2032** | Mesures globalement neutres budgétairement pour l'État. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Le tourisme génère 71 Md€ de recettes, mais la "fracture vacancière" touche 40 % des Français, en particulier les enfants. Parallèlement, l'explosion des meublés de tourisme (1 million d'annonces) chasse les habitants et les saisonniers des bassins d'emplois.
+- **Faisabilité juridique** : La loi de novembre 2024 ("Loi Le Meur") donne déjà les outils aux maires pour les meublés. L'augmentation de la taxe de séjour se fait dans le cadre de la loi de finances.
+- **Mise en œuvre** : L'accès aux chèques-vacances pour les PME suppose une plateforme simplifiée gérée par l'ANCV pour limiter la paperasserie des petits employeurs.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Secteur clé pour la balance des paiements ; rééquilibrage de l'offre (saisonnalité, logements).
+- **Statut d'arbitrage** : 🟢 Socle. Le tourisme social soutient un droit au repos, tandis que la régulation locative protège le pouvoir d'achat des résidents.
+- **Nature** : Dépense sociale (colos) financée par une fiscalité de rendement ciblée sur les effets d'aubaine (locations de courte durée).
+- **Lien avec la relance** : Maintenir l'offre de logements classiques dans les zones touristiques (en régulant Airbnb et en logeant les saisonniers) permet aux autres secteurs (commerce, artisanat, services) de recruter et tourner normalement.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- Atout France ; Banque de France, balance des paiements 2024.
+- Atout France, bilans touristiques annuels.
+- Banque de France, *La balance des paiements 2024*.
 - Direction générale des entreprises (DGE), *Les chiffres clés du tourisme*, 2024.
-- Observatoire des inégalités, *Qui part en vacances ?*, 2024 ; CRÉDOC, enquêtes Conditions de vie.
-- Loi du 19 novembre 2024 visant à renforcer les outils de régulation des meublés de tourisme.
-- Cour des comptes, *Les stations de montagne face au changement climatique*, février 2024.
-- Reka (Suisse), rapports annuels.
+- Observatoire des inégalités, *Qui part en vacances ?*, 2024.
+- Loi n° 2024-1039 du 19 novembre 2024 visant à renforcer les outils de régulation des meublés de tourisme.
+- Cour des comptes, *Les stations de montagne face au changement climatique*, 2024.

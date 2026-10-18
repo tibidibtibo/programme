@@ -39,35 +39,34 @@
 
 ## Recettes et trajectoire
 
-| Source de financement | Rendement annuel en 2032 |
-|---|---|
-| Revue des niches fiscales | +18 Md€ |
-| Revue et conditionnalité des aides aux entreprises | +20 Md€ |
-| Impôt minimum sur les très hauts patrimoines | +6 Md€ |
-| Successions (réforme nette) | +6 Md€ |
-| Finance (fichier 05) | +5 Md€ |
-| Lutte contre la fraude | +8 Md€ |
-| Effets retour emploi et croissance (taux d'emploi +3 points) | +12 Md€ |
-| Gains d'efficacité et pertinence des soins (fichier 12) | +5 Md€ |
-| Taxes comportementales santé, vacance des logements, meublés touristiques (fichiers 12 et 13) | +1 Md€ |
-| **Total** | **≈ 81 Md€** |
+Chaque ligne est donnée en **rendement visé** (si la mesure est pleinement appliquée) et en **rendement prudent** (après une décote de risque de comportement, d'évasion ou de mise en œuvre). Les décotes sont un **jugement du programme**, non une donnée statistique : elles seront à remplacer par les chiffrages de la direction de la Législation fiscale et du Trésor [à obtenir]. Le rendement prudent sert au scénario bas de la trajectoire (voir [arbitrage](../arbitrage.md)).
 
-Ces recettes financent l'essentiel du **socle** du programme (≈ 81 Md€ de mesures nouvelles nettes sur les 45 domaines, voir l'[index](../00-index.md#budget-consolidé)) ; il reste un équilibre strict du socle, tout dépassement étant reporté en seconde vague. Une **seconde vague** d'≈ 40 Md€ (défense au-delà de 2,5 % du PIB, APD, recherche à 3 %, allocation étudiante complète, grand âge, fonction publique, etc.) n'est engagée que si la trajectoire de déficit est respectée.
+| Source de financement | Rendement visé 2032 | Décote | Rendement prudent 2032 | Remarque |
+|---|---|---|---|---|
+| Revue des niches fiscales | +15 Md€ | −25 % | +11,3 Md€ | 18 Md€ dans la version précédente, dont 3 Md€ de niches fossiles désormais comptés au fichier 17 (pas de double compte). |
+| Revue et conditionnalité des aides aux entreprises | +20 Md€ | −50 % | +10 Md€ | ≈ 9 % des 211 Md€ d'aides (Sénat, 2025). Ligne la plus fragile : elle touche l'emploi et l'investissement, donc la relance. |
+| Impôt minimum sur les très hauts patrimoines | +6 Md€ | −33 % | +4 Md€ | Fourchette de la littérature : 5 à 20 Md€ selon l'évasion (voir mesure 4). |
+| Successions (réforme nette) | +6 Md€ | −17 % | +5 Md€ | Recommandation CAE 2021. |
+| Finance (fichier 05) | +5 Md€ | −20 % | +4 Md€ | ≈ 6 Md€ visés au fichier 05, 5 Md€ retenus ici. Comptés uniquement dans cette ligne. |
+| Lutte contre la fraude (net du coût des agents) | +7,85 Md€ | −25 % | +5,9 Md€ | 8 Md€ de recouvrement moins 0,15 Md€ de coût de 3 000 agents. |
+| Pertinence des soins et gains d'efficacité (fichier 12) | +5 Md€ | −40 % | +3 Md€ | Économie d'ONDAM à tracer mesure par mesure : le fichier 12 ne la détaille pas encore. |
+| Effets retour emploi et croissance (annexe macro) | +12 Md€ | −33 % | +8 Md€ | 1,2 million d'emplois × 10 000 € ; l'économie sur l'indemnisation du chômage est comprise ici et **plus** au fichier 07. |
+| **Total** | **≈ 76,9 Md€** | | **≈ 51,2 Md€** | La version précédente affichait 81 Md€ : −3 Md€ de niches fossiles passés au fichier 17, −1 Md€ de taxes comportementales passées aux fichiers 12 et 13 (ces recettes y sont déduites des coûts nets). |
+
+Ces recettes financent le **socle** du programme (≈ 64 Md€ de mesures nouvelles nettes, voir l'[index](../00-index.md#budget-consolidé)). Le solde (≈ 13 Md€ en rendement visé) contribue à la réduction du déficit. En rendement prudent (≈ 51 Md€), le socle n'est **plus entièrement financé** (écart ≈ 13 Md€) : c'est le rôle de la clause de sauvegarde décrite dans l'[arbitrage](../arbitrage.md). La **seconde vague** (≈ 53 Md€ de dépenses nettes identifiées) n'est engagée que par tranches, selon des seuils de déficit.
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+| Mesure | Coût brut / Rendement visé | Coût de mise en œuvre | Rendement net visé 2032 | Hypothèses de calcul |
 |---|---|---|---|---|
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| 1. Impôt citoyen unique | Neutre macroéconomiquement | Fusion IR/CSG | 0 | Redistribution intra-déciles. Maintien du taux global de prélèvement sur les revenus. |
-| 2. Revue des niches fiscales | +18 Md€ (Recette) | N/A | -18 Md€ | Suppression des 100 niches inefficaces (sur 85 Md€ existants). |
-| 3. Conditionnalité aides entreprises | +20 Md€ (Recette) | N/A | -20 Md€ | Recentrage d'environ 10% des 211 Md€ d'aides. |
-| 4. Impôt très hauts patrimoines | +6 Md€ (Recette) | N/A | -6 Md€ | 2% sur patrimoines > 100 M€ (approx 1800 foyers). Hypothèse de Gabriel Zucman. |
-| 5. Successions | +6 Md€ (Recette) | N/A | -6 Md€ | Fin des exemptions Dutreil extrêmes et Assurance vie (reco CAE). |
-| 6. Lutte fraude (agents) | -150 M€ (Coût agents) | +8 Md€ (Recouvrement) | -7,85 Md€ | 3000 agents × 50 000 €. Recouvrement estimé à +10% des 80 Md€ de fraude. |
-| 7. Règle d'or (économies courantes) | N/A | +40 Md€ cumulés | -40 Md€ (sur déficit) | Cadrage pluriannuel, croissance dépenses volume plafonnée à 0.5% hors inflation, contribuant à la réduction du déficit. |
-| **Total Recettes Nouvelles 2032** | | | **-57,85 Md€ (pour le financement du socle, hors économies structurelles)** | (Le total de l'index 81 Md€ inclut les retours emploi, fraude sociale, finance, et économies). |
+| 1. Impôt citoyen unique | neutre | à chiffrer (DGFiP) | 0 | Fusion IR/CSG, redistribution à rendement global constant. Le coût des systèmes d'information de la DGFiP n'est pas chiffré [à obtenir]. |
+| 2. Revue des niches fiscales | +15 Md€ | 0 | +15 Md€ | Suppression des 100 dispositifs les moins efficaces sur ≈ 85 Md€ de dépenses fiscales (PLF, Voies et moyens). Les 3 Md€ de niches fossiles sont au fichier 17. |
+| 3. Conditionnalité des aides aux entreprises | +20 Md€ | 0 | +20 Md€ | Recentrage d'environ 9 % des 211 Md€ d'aides. |
+| 4. Impôt minimum sur les très hauts patrimoines | +6 Md€ | 0 | +6 Md€ | 2 % sur les patrimoines > 100 M€ (≈ 1 800 foyers), hypothèse de Gabriel Zucman, net des impôts déjà payés. |
+| 5. Successions | +6 Md€ | 0 | +6 Md€ | Fin des exemptions Dutreil extrêmes et plafonnement de l'assurance-vie, avec abattement relevé (CAE 2021). |
+| 6. Lutte contre la fraude | +8 Md€ | −0,15 Md€ | +7,85 Md€ | 3 000 agents × 50 000 € ; recouvrement visé : +10 % des 60-80 Md€ de fraude estimée. |
+| 7. Règle d'or (dépense hors programme) | − | − | non comptée en recette | L'effet de la règle (croissance de la dépense hors programme limitée à 0,5 % par an en volume) est traité dans la trajectoire de l'arbitrage, pas ici. |
+| **Total des recettes propres du fichier 06** | | | **+62,85 Md€** | À ajouter : finance 5 Md€ (fichier 05), pertinence des soins 5 Md€ (fichier 12) et effets retour 12 Md€, soit **≈ 76,9 Md€** au total. |
 
 ## Justification et Faisabilité
 

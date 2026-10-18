@@ -1,4 +1,6 @@
-# Refaire Nation
+# Réunir la France
+
+> **Archive.** Première version de synthèse (octobre 2026), conservée pour mémoire. La version de référence est [l'index](00-index.md) ; les chiffres de ce document sont **périmés**.
 ## Un modèle social-démocrate à la française — Programme, version 1
 
 *Document de travail, octobre 2026. Les chiffres sont des ordres de grandeur issus de sources publiques (listées en fin de document) ; les coûts sont indicatifs et devront être chiffrés précisément avant toute publication.*

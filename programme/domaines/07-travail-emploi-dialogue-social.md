@@ -36,12 +36,12 @@
 
 | Mesure | Coût brut | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
 |---|---|---|---|---|
-| 1. Flexisécurité (Indemnisation 80%) | +4 Md€ | -2 Md€ (Baisse chômage volume) | +2 Md€ | Taux de chômage cible 5.0%. Hausse du coût unitaire par chômeur, compensée partiellement par la baisse du nombre de chômeurs. |
+| 1. Flexisécurité (Indemnisation 80%) | +4 Md€ | 0 (la baisse du nombre de chômeurs est comptée dans les 12 Md€ d'effets retour du fichier 06) | +4 Md€ | Taux de chômage cible 5.0%. Hausse du coût unitaire par chômeur, compensée partiellement par la baisse du nombre de chômeurs. |
 | 2. Contrat d'Engagement (Accompagnement) | +4 Md€ | 0 | +4 Md€ | Recrutement massif de 30 000 conseillers France Travail supplémentaires (30 000 × 50 000 € = 1,5 Md€) + coûts de formations qualifiantes renforcées. |
 | 3. Codétermination | 0 | 0 | 0 | Réforme juridique de la gouvernance sans coût pour les finances publiques. |
 | 4. Chèque syndical | 0 | Financement employeur exclusif | 0 | Contribution obligatoire des entreprises, gérée par l'URSSAF. |
 | 5. Bonus-Malus généralisé | 0 | +0,5 Md€ | -0,5 Md€ | Comportement dissuasif sur les CDD ; excédent mineur pour l'Unédic. |
-| **Total Domaine 07** | **+8 Md€** | **-1,5 Md€ (économies + bonus)** | **6,5 Md€** | *(Note : le tableau de l'index indique 9 Md€ budgétés de manière très prudente en incluant les aléas conjoncturels).* |
+| **Total Domaine 07** | **+8 Md€** | **-0,5 Md€ (bonus-malus)** | **+7,5 Md€** | Somme des lignes : 4 + 4 + 0 + 0 − 0,5. Le chiffre de 6,5 Md€ de la passe précédente était arithmétiquement faux et comptait deux fois l'économie liée à la baisse du chômage (déjà dans le fichier 06). L'ancienne enveloppe de l'index (9 Md€) est ramenée à 7,5 Md€. |
 
 ## Justification et Faisabilité
 

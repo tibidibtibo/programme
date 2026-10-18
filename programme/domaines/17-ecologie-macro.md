@@ -74,7 +74,7 @@
  | Chèque climat | +6 Md€ | +6 Md€ (recettes ETS2) | 0 Md€ | 2032 | Redistribution intégrale des recettes du marché carbone européen (ETS2 estimé à ~6 Md€/an pour la France à horizon 2030). |
  | Leasing social pérennisé | +0,6 Md€ | - | +0,6 Md€ | 2032 | 100 000 véhicules/an avec une aide d'environ 6 000 € par véhicule. |
  | Fonds pour l'adaptation (PNACC 3) | +1 Md€ | - | +1 Md€ | 2032 | Budget additionnel pour les infrastructures, l'eau et les forêts face au risque climatique. |
- | Fin des subventions fossiles | - | +3 Md€ | -3 Md€ | 2032 | Sur 10 Md€ de niches fossiles (RAC), récupération de 3 Md€ nets (après compensation partielle des secteurs exposés). |
+ | Fin des subventions fossiles | - | +3 Md€ | -3 Md€ | 2032 | Sur 10 Md€ de niches fossiles (RAC), récupération de 3 Md€ nets (après compensation partielle des secteurs exposés). **Comptés ici uniquement** : ils ont été retirés des 18 Md€ de niches du fichier 06. |
  | Taxation jets/véhicules lourds | - | +0,6 Md€ | -0,6 Md€ | 2032 | Malus au poids renforcé et taxes spécifiques sur l'aviation privée (estimation modérée). |
  | **Total** | **+12,6 Md€** | **+9,6 Md€** | **+3,0 Md€** | **2032** | Coût net pour les finances publiques en année de croisière (2032). |
 

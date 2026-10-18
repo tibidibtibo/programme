@@ -2,7 +2,9 @@
 
 [← Index](../00-index.md)
 
-Ce document rassemble les hypothèses macroéconomiques, budgétaires et les coûts unitaires de référence utilisés pour chiffrer l'ensemble des mesures du programme « Refaire Nation » (2027-2032). L'utilisation de ces paramètres communs garantit la cohérence d'ensemble.
+Ce document rassemble les hypothèses macroéconomiques, budgétaires et les coûts unitaires de référence utilisés pour chiffrer l'ensemble des mesures du programme « Réunir la France » (2027-2032). L'utilisation de ces paramètres communs garantit la cohérence d'ensemble.
+
+> **Convention.** Tous les montants du programme sont en **euros constants 2025**. Le PIB de 3 200 Md€ en 2032 est donc un PIB **en volume** (2 950 Md€ × 1,012⁷ ≈ 3 210 Md€), pas un PIB nominal (≈ 3 800 Md€ avec 2 % d'inflation). Les 12 Md€ d'effets retour reposent sur 1,2 million d'emplois × 10 000 € ; voir l'[arbitrage](../arbitrage.md), §5.
 
 ## 1. Cadre macroéconomique (horizon 2032)
 

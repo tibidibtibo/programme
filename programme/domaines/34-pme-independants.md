@@ -77,8 +77,6 @@
 
 | Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
 |---|---|---|---|---|
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
 | 3. Garanties Bpifrance et prêts d'honneur | +0,3 Md€ | 0 | +0,3 Md€ | Objectif +30% de crédits, coût des bonifications et provisions pour pertes. |
 | 8. Assurance chômage indépendants | +0,4 Md€ | -0,2 Md€ (Cotisations) | +0,2 Md€ | Allocation de 12 mois, financement mixte. |
 | 9. Protection sociale micro-entrepreneurs | +0,2 Md€ | 0 | +0,2 Md€ | Accompagnement transitoire vers un alignement des cotisations. |

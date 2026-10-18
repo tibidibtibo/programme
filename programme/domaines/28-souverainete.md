@@ -87,8 +87,6 @@ Ce fichier est transversal. Il fixe la méthode et les outils communs ; les mesu
 
 | Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
 |---|---|---|---|---|
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
 | 3. Stocks stratégiques nationaux (métaux, etc.) | +0,7 Md€ | 0 | +0,7 Md€ | Constitution amortie sur 10 ans. Dont 0,3 Md€ en 2nde vague. |
 | 4. Pharmacie publique et stocks médicaments | +0,3 Md€ | 0 | +0,3 Md€ | 50 MITM relocalisés et stockés. |
 | 5. Fonds métaux critiques | +1,5 Md€ (Capitalisation) | N/A | 0 Md€ | Capital apporté par CDC/Bpifrance hors budget général de l'État. |

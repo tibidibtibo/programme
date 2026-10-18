@@ -1,5 +1,7 @@
 # Audit des chiffres et affirmations
 
+> **Avertissement (18 octobre 2026).** Cet audit a été généré par une passe automatisée. Les statuts ✅ ne garantissent **pas** que la source ait été consultée ; ils indiquent seulement que le chiffre est cohérent avec la source citée. Les lignes ❓ / `[À VÉRIFIER]` sont des chiffres non confirmés. Les corrections effectivement vérifiées sont dans les rapports `lots/lot-N.md` et dans le [journal des corrections](../CHANGELOG.md).
+
 [← Index](../00-index.md)
 
 ## 00-index.md

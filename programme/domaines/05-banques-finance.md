@@ -77,14 +77,12 @@
 
 | Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
 |---|---|---|---|---|
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
 | Taxe sur les rachats d'actions (8 %) | +2 Md€ (Rendement) | N/A | -2 Md€ | Estimation prudente basée sur environ 30 Md€ de rachats annuels. |
 | TTF élargie (intrajournalier, dérivés) | +3 Md€ (Rendement) | N/A | -3 Md€ | Taux de 0,1% avec anticipation de baisse des volumes (délocalisation). |
 | Contribution systémique | +1 Md€ (Rendement) | N/A | -1 Md€ | Assiette sur les risques portés par les 6 grands groupes. |
 | Conditionnalité des aides | (voir domaine 06) | (voir domaine 06) | 0 Md€ | Inclus dans les +20 Md€ du domaine 06. |
 | Livret Industrie-Climat, fonds Initiative, SCOP | -0,5 Md€ (Coût) | 0 | +0,5 Md€ | Prêts d'honneur, bonification et garanties publiques. |
-| **Total** | **N/A** | **N/A** | **-5,5 Md€ (Excédent versé au socle)** | Différence mineure avec les +5 à 6 Md€ annoncés dans le corps du texte. |
+| **Total (coût budgétaire propre du domaine)** | **0,5 Md€** | **0** | **+0,5 Md€** | Les recettes de la finance (rachats d'actions 2 Md€, TTF 3 Md€, contribution systémique 1 Md€ ≈ 6 Md€ visés) sont **comptées une seule fois, dans le fichier 06** (ligne « Finance », 5 Md€ retenus après décote de prudence). Ne pas les déduire ici : ce serait un double compte. |
 
 ## Justification et Faisabilité
 

@@ -55,8 +55,8 @@
 | Retour en gestion publique des autoroutes | - | - | 0 Md€ | 2032 | Les péages actuels financent l'exploitation. Après 2036, une baisse des péages de 20 % laissera encore ≈ 3 Md€ de recettes nettes annuelles à l'État (la fin des concessions historiques se fait entre 2031 et 2036). |
 | Plan d'entretien des routes et ponts | ≈ 0,8 Md€ | - | ≈ 0,8 Md€ | 2032 | +500 M€/an pour les routes nationales et fonds de 300 M€/an pour l'entretien des ouvrages d'art (ponts) communaux. |
 | Sécurité routière "Vision zéro" et gratuité du permis | ≈ 0,2 Md€ | - | ≈ 0,2 Md€ | 2032 | Aménagements 2+1, sécurisation et financement du permis via le service civique. |
-| Redevance sur les concessions autoroutières | - | ≈ -1,5 Md€ | ≈ -1,5 Md€ | 2028 | Hausse de la taxe sur l'exploitation des infrastructures de transport (instaurée en 2024, rapportant initialement ≈ 600 M€). Ciblée sur les surprofits documentés (IGF 2021). |
-| **Total** | **≈ 1,0 Md€** | **≈ -1,5 Md€** | **≈ -0,5 Md€** | 2032 | Le domaine dégage un excédent de 0,5 Md€ (transféré vers le financement des transports en commun - fichier 14). |
+| Redevance sur les concessions autoroutières (affectée au fichier 14) | - | 0 ici (≈ 1,5 Md€ comptés dans le fichier 14) | 0 Md€ | 2028 | Hausse de la taxe sur l'exploitation des infrastructures de transport (instaurée en 2024, rapportant initialement ≈ 600 M€). Ciblée sur les surprofits documentés (IGF 2021). |
+| **Total** | **≈ 1,0 Md€** | **0** | **≈ +1,0 Md€** | 2032 | La redevance (≈ 1,5 Md€) finance l'AFITF et est comptée **uniquement** dans le fichier 14, pour éviter un double compte. |
 ## Justification et Faisabilité
 
 - **Justification** : L'état des ponts communaux et du réseau routier non concédé se dégrade par manque de financement, tandis que les sociétés d'autoroutes dégagent une rentabilité très supérieure aux prévisions de la privatisation de 2006 (avec 3 à 4 Md€ de dividendes annuels). La sécurité routière (environ 3 400 morts par an) doit s'inspirer de la Suède, qui a divisé par plus de deux sa mortalité avec le programme *Vision Zero*.

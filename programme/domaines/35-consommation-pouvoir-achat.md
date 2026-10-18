@@ -71,8 +71,6 @@
 
 | Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
 |---|---|---|---|---|
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
 | 4. Renforcement DGCCRF | +0,07 Md€ | 0 | +0,07 Md€ | +1 000 agents × ≈70 000 € chargés sur 5 ans. |
 | 6. Médiateur public | +0,02 Md€ | 0 | +0,02 Md€ | Création de la structure et équipes juridiques. |
 | 1. Observatoire des prix et marges | +0,01 Md€ | 0 | +0,01 Md€ | Fonctionnement de la structure et moyens d'enquête. |

@@ -74,8 +74,6 @@ Les revalorisations sectorielles (enseignants, soignants, justice, armées) sont
 
 | Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
 |---|---|---|---|---|
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
 | 1. Garantie pouvoir d'achat (indexation) | +3 Md€ | 0 | +3 Md€ | Compensation intégrale de l'inflation estimée au-delà du glissement vieillesse-technicité. En seconde vague. |
 | 3. Titularisation / Résorption précarité | +0,3 Md€ | 0 | +0,3 Md€ | Coût de titularisation sur le CAS pensions et harmonisation des primes. |
 | 4. Logement des agents publics | +0,2 Md€ | 0 | +0,2 Md€ | Subventions et réservations de contingents en zones tendues. |

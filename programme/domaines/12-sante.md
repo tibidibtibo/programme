@@ -75,7 +75,7 @@
 | 6-7. Ratios et revalorisations hôpital | 3,5 Md€ | 0 | 3,5 Md€ | 2032 | Embauche de 30 000 soignants et +30% gardes. |
 | 11. Santé mentale | 1,0 Md€ | 0 | 1,0 Md€ | 2030 | Embauche psys, remboursement séances jeunes. |
 | 10. Prévention (dépistages, sport) | 0,5 Md€ | 0,7 Md€ (taxes sucres/alcool) | -0,2 Md€ | 2028 | Taxes comportementales compensent l'effort. |
-| **Total du domaine 12** | **8,3 Md€** | **1,2 Md€** | **7,1 Md€** | - | Correspond approximativement au net annoncé (7,8 Md€ brut - 0,7 Md€ de recettes = 7,1 Md€). |
+| **Total du domaine 12** | **8,3 Md€** | **1,2 Md€** | **7,1 Md€** | - | Net 7,1 Md€ (8,3 − 1,2). Les 0,7 Md€ de taxes comportementales sont comptés **ici** et non plus dans le fichier 06. L'enveloppe de l'index passe de 7,8 à 7,1 Md€. |
 
 ## Justification et Faisabilité
 

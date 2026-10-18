@@ -65,7 +65,7 @@
 | Accession populaire et foncier public | ≈ 0,7 Md€ | - | ≈ 0,7 Md€ | 2032 | Dotation aux établissements publics fonciers et bonification des prêts pour l'accession sociale. |
 | Doublement de la taxe sur les logements vacants | - | ≈ -0,5 Md€ | ≈ -0,5 Md€ | 2028 | Rendement actuel de la TLV et THLV (≈ 470 M€ en 2024), un doublement de la taxation sur la même assiette rapporterait ≈ 0,5 Md€ supplémentaire. |
 | Régulation des meublés touristiques | - | ≈ -0,1 Md€ | ≈ -0,1 Md€ | 2032 | Fin de l'avantage fiscal et augmentation mécanique des recettes de la fiscalité locative classique et de la taxe d'habitation sur résidences secondaires. |
-| **Total** | **≈ 6,8 Md€** | **≈ -1,9 Md€** | **≈ 4,9 Md€** | 2032 | Le coût net total est légèrement inférieur à l'estimation de 5,5 Md€ annoncée au départ (grâce à de meilleures recettes de fiscalité locative/vacance). |
+| **Total** | **≈ 6,8 Md€** | **≈ -1,9 Md€** | **≈ 4,9 Md€** | 2032 | Net 4,9 Md€ (contre 5,5 Md€ dans la version précédente). Les recettes de la vacance et des meublés (≈ 0,6 Md€) sont comptées **ici** et non plus dans le fichier 06. |
 ## Justification et Faisabilité
 
 - **Justification** : La crise du logement est un frein majeur à l'emploi (difficulté de se loger pour travailler) et au pouvoir d'achat (premier poste de dépense avec 27 % de la consommation des ménages selon l'INSEE). La construction neuve a un puissant effet multiplicateur sur l'emploi local non délocalisable (secteur du BTP). L'approche *Logement d'abord* est documentée (Finlande) comme moins coûteuse à terme que la gestion de l'urgence (nuitées d'hôtel).

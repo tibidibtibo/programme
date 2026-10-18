@@ -46,24 +46,30 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 1. APD à 0,55 % du RNB en 2030 puis 0,7 % en 2035 | +3 Md€ | - | +3 Md€ | 2032 | Passage de 0,48% à 0,55% d'un RNB estimé à ~3 200 Md€ en 2032 : ≈ 17,6 Md€ d'APD totale. Hausse nette de 3 Md€. |
+| 2. Nouvelle politique africaine | 0 Md€ | - | 0 Md€ | 2028 | Fin des bases permanentes compense le coût des nouveaux partenariats universitaires et énergétiques. |
+| 3. Diplomatie de médiation | +0,05 Md€ | - | +0,05 Md€ | 2029 | Création du Centre français de médiation, budget de fonctionnement annuel. |
+| 4. Réarmement diplomatique (+500 postes) | +0,03 Md€ | - | +0,03 Md€ | 2032 | 500 ETP × 60 000 € (coût moyen chargé estimé). |
+| 5. Francophonie (Lycées et bourses) | +0,42 Md€ | - | +0,42 Md€ | 2032 | Doublement de la subvention AEFE et des bourses d'études. |
+| 6. Multilatéralisme et 7. Méditerranée | 0 Md€ | - | 0 Md€ | 2028 | Action diplomatique sans surcoût d'investissement majeur. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Redonner à la France un rôle de puissance d'équilibre, consolider son influence culturelle et sécuriser ses approvisionnements. La médiation est un outil d'influence à faible coût (modèle norvégien).
+- **Faisabilité** : L'augmentation de l'APD demande un vote en PLF ; son séquencement est subordonné aux marges macroéconomiques. Le recrutement de 500 diplomates nécessite de restaurer l'attractivité du concours et demande 5 ans de montée en charge.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague (pour la hausse de l'APD à 0.55%)
-- **Lien avec la relance économique** : L'influence diplomatique accompagne le commerce extérieur, mais le coût de l'APD dépend des marges de manœuvre macroéconomiques.
+- **1. APD à 0,55 %** : 🟡 Seconde vague. Raison : L'augmentation dépend des marges macroéconomiques. Nature : Dépense de solidarité internationale. Effet retour : Investissement d'influence, peu d'effet fiscal direct à court terme en France.
+- **2 à 7. Diplomatie, Médiation, Francophonie** : 🟢 Socle. Raison : Effort de souveraineté immédiat, coût net modéré (+0,5 Md€). Nature : Fonctionnement de l'État. Effet retour : Soutien indirect au commerce extérieur via le réseau AEFE et Campus France.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- OCDE-CAD, statistiques d'aide publique au développement 2024.
-- Ministère de l'Europe et des Affaires étrangères, *États généraux de la diplomatie*, rapport 2023.
-- AEFE, chiffres clés 2025 ; Campus France, *Chiffres clés 2025*.
-- Expertgruppen för biståndsanalys (EBA, Suède), rapports d'évaluation.
+- OCDE, *L'aide publique au développement*, avril 2024 (données 2023 préliminaires). https://www.oecd.org/fr/presse/l-aide-publique-au-developpement-a-atteint-un-nouveau-record-en-2023.html
+- Ministère des Armées, actualités sur les retraits au Sahel, 2022-2024. https://www.defense.gouv.fr/
+- Ministère de l'Europe et des Affaires étrangères, *États généraux de la diplomatie*, 2023. https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/etats-generaux-de-la-diplomatie/
+- AEFE, *Chiffres clés 2023-2024*. https://www.aefe.fr/reseau-scolaire-mondial/les-chiffres-cles
+- Campus France, *Les chiffres clés de la mobilité étudiante*, 2024. https://www.campusfrance.org/fr/chiffres-cles-mobilite-etudiante-2024
+- EBA (Suède), *Expertgruppen för biståndsanalys*, site officiel. https://eba.se/

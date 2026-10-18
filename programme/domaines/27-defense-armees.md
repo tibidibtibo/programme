@@ -86,29 +86,31 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 1, 2, 19. Augmentation globale à 3% du PIB | +17 Md€ | -6 Md€ (Emprunt UE) | +11 Md€ | 2032 | 30 Md€ d'écart total avec 2025, moins 13 Md€ déjà prévus par la LPM. Reste 17 Md€ bruts nouveaux. |
+| *Dont 4, 5, 6, 7. Dissuasion nucléaire* | *(inclus)* | - | - | 2032 | Surcoût renouvellement (inclus dans l'enveloppe globale) |
+| *Dont 9, 10, 11, 12. Effectifs et équipements* | *(inclus)* | - | - | 2032 | +15 000 postes (inclus dans l'enveloppe globale) |
+| *Dont 13, 14, 15. Fidélisation et revalorisation* | *(inclus)* | - | - | 2032 | +10% soldes (inclus dans l'enveloppe globale) |
+| *Dont 16, 17. Garde nationale et SMV* | *(inclus)* | - | - | 2032 | (inclus dans l'enveloppe globale) |
+| 21. Soutien à l'Ukraine | - | - | 0 Md€ | 2032 | Effort inclus dans l'enveloppe existante ou aide internationale |
+
+*Note sur le total : le surcoût de 11 Md€ annoncé dans le texte inclut la différence entre les 30 Md€ (passage de 2,1% à 3% du PIB), les 13 Md€ déjà inscrits dans la LPM, et le financement européen de 6 Md€ (30 - 13 - 6 = 11 Md€ d'effort national supplémentaire en 2032).*
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Face au retour de la guerre en Europe, l'OTAN exige au moins 2 % (et tend vers plus). La dissuasion est le garant ultime de notre survie. La Pologne est déjà au-delà de 4 %.
+- **Faisabilité** : La BITD (Base Industrielle et Technologique de Défense) française est sous pression (poudre, capacités). Produire en économie de guerre nécessitera des dérogations aux normes civiles.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague (pour le passage de 2.5% à 3%) / 🟢 Socle (pour la consolidation à 2.5%)
-- **Lien avec la relance économique** : Effet multiplicateur de la commande publique sur la base industrielle et technologique de défense (BITD).
+- **1. Défense à 2,5 % du PIB (et LPM en cours)** : 🟢 Socle. Raison : Base de souveraineté indispensable face à la haute intensité (Priorité 2). Nature : Investissement productif et fonctionnement. Effet retour : Commandes à l'industrie française.
+- **1 (suite). Passage de 2,5 % à 3 % du PIB** : 🟡 Seconde vague. Raison : L'effort supplémentaire de 8 Md€ dépendra de la réalisation des recettes macroéconomiques. Nature : Investissement productif. Effet retour : R&D duale.
+- **4 à 21. Dissuasion, Effectifs, Garde nationale** : 🟢 Socle. Raison : Composantes clés de la résilience (Priorité 2). Nature : Investissement et fonctionnement. Effet retour : Nul financièrement, majeur stratégiquement.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- Ministère des Armées, *Loi de programmation militaire 2024-2030* et actualisation 2025 ; *Bilan social* 2024.
-- OTAN, déclaration du sommet de La Haye, juin 2025.
-- Discours du Président de la République sur la stratégie de défense et de dissuasion, École de guerre, 7 février 2020.
-- Déclaration franco-britannique de Northwood sur la coordination nucléaire, juillet 2025.
-- Haut comité d'évaluation de la condition militaire, rapports annuels.
-- Assemblée nationale, commission de la défense, *Rapport d'information sur la préparation à la haute intensité*, février 2022.
-- SIPRI, *Trends in International Arms Transfers* et *World Nuclear Forces*, 2025.
-- Ministère finlandais de la Défense, *Security Strategy for Society*, 2017 ; MSB (Suède), *Om krisen eller kriget kommer*, 2024.
-- Kiel Institute, *Ukraine Support Tracker*, 2025.
+- Ministère des Armées, *Loi de programmation militaire 2024-2030*. https://www.defense.gouv.fr/lpm-2024-2030
+- Assemblée nationale, *Rapport d'information sur la préparation à la haute intensité*, 2022. https://www.assemblee-nationale.fr/
+- SIPRI, base de données sur les transferts d'armement et forces nucléaires. https://www.sipri.org/
+- Ministère finlandais de la Défense, *Security Strategy for Society*, et agence suédoise MSB. https://www.defmin.fi/

@@ -51,25 +51,29 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 1. Police de proximité (10 000 agents) | 0 Md€ | - | 0 Md€ | 2030 | Redéploiement progressif des effectifs existants. |
+| 2. Assistants d'enquête et numérique | +0,25 Md€ | - | +0,25 Md€ | 2029 | 5 000 civils × 35 000 € (coût cat. C) = 175 M€. + 75 M€ SI. |
+| 3. Formation initiale portée à 18 mois | +0,1 Md€ | - | +0,1 Md€ | 2028 | Coût de l'allongement de la scolarité pour ~4 000 élèves/an. |
+| 4. Plan national contre le narcotrafic | +0,2 Md€ | +0,3 Md€ (saisies) | -0,1 Md€ | 2030 | PNACO (200 magistrats = 16 M€) + douanes + scanners. Financé par les saisies criminelles. |
+| 5. Prévention de la violence (jeunes) | +0,3 Md€ | - | +0,3 Md€ | 2032 | Doublement des éducateurs et médiateurs dans 20 villes. |
+| 6, 7, 8. Caméras, Cyber, divers | +0,15 Md€ | - | +0,15 Md€ | 2030 | 2 000 enquêteurs cyber supplémentaires et équipement. |
+| *Revalorisations et moyens généraux* | +1,4 Md€ | - | +1,4 Md€ | 2032 | Provision pour l'amélioration continue des conditions de travail et des moyens matériels, pour atteindre l'enveloppe de 2,1 Md€. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Le narcotrafic (chiffre d'affaires de 3,5 à 6 Md€ selon le Sénat) mine la cohésion nationale. L'approche répressive doit s'accompagner d'une prévention ciblée (modèle de Glasgow) et d'un retour au terrain (-15 millions d'heures de paperasse).
+- **Faisabilité** : La réaffectation des biens saisis aux œuvres sociales (modèle italien) exigera une loi spécifique et la création d'une agence de gestion.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Régalien indispensable, ciblé sur le narcotrafic et l'économie souterraine (recouvrement des avoirs).
+- **1 à 8. Toutes les mesures** : 🟢 Socle. Raison : Régalien, sécurité publique. Nature : Fonctionnement régalien et investissement technologique. Effet retour : La pacification des quartiers est le prérequis à tout retour de l'activité économique et de l'attractivité territoriale.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- SSMSI, *Insécurité et délinquance en 2024 : bilan statistique*.
-- Sénat, *Narcotrafic, c'est maintenant ou jamais*, rapport de commission d'enquête, mai 2024.
-- Cour des comptes, *Les forces de sécurité intérieure*, 2021-2023.
-- Violence Reduction Unit (Scotland), rapports d'évaluation.
-- Défenseur des droits, *Enquête sur l'accès aux droits — relations police/population*, 2017 et 2024.
+- Service statistique ministériel de la sécurité intérieure (SSMSI), *Insécurité et délinquance : bilan statistique*, données 2024. https://www.interieur.gouv.fr/Interieur/La-statistique-publique-SSMSI
+- Sénat, rapport de la commission d'enquête sur le narcotrafic en France, mai 2024. https://www.senat.fr/commission/enquete/narcotrafic_en_france.html
+- Cour des comptes, rapports sur l'organisation des forces de sécurité intérieure. https://www.ccomptes.fr/
+- Violence Reduction Unit (VRU), Écosse, rapports de recherche sur l'approche de santé publique de la violence. https://www.svru.co.uk/
+- Défenseur des droits, enquêtes sur les relations police-population. https://www.defenseurdesdroits.fr/

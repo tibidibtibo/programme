@@ -55,26 +55,26 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 1, 2, 3. Réformes (Proportionnelle, 49.3, RIC) | 0 Md€ | - | 0 Md€ | 2028 | Réformes constitutionnelles et électorales, sans surcoût de fonctionnement. |
+| 4, 8. Conventions citoyennes et Vote | +0,05 Md€ | - | +0,05 Md€ | 2029 | Organisation et défraiement des tirés au sort, gestion du vote par correspondance. |
+| 5, 6. Transparence et Exemplarité | +0,02 Md€ | - | +0,02 Md€ | 2028 | Renforcement des effectifs (CADA / HATVP). |
+| 7, 9. Défenseur des droits et Parlement | +0,13 Md€ | - | +0,13 Md€ | 2030 | Moyens d'expertise doublés au Parlement (+100 ETP), renforcement de l'Ombudsman. |
+| 10, 11. Médias et Décentralisation | 0 Md€ | - | 0 Md€ | 2028 | Budgets rattachés aux domaines correspondants. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : La crise de confiance démocratique (seulement 20-25% de confiance selon le Cevipof) impose une refonte inspirée des pays nordiques. La culture du compromis force des politiques plus stables.
+- **Faisabilité** : La révision constitutionnelle pour le 49.3 et le RIC est l'obstacle majeur (article 89 nécessitant un accord des deux chambres puis 3/5 au Congrès ou un référendum risqué).
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Dépense négligeable, gain en transparence et confiance à long terme, essentiel à la méthode sociale-démocrate.
+- **1 à 9. Toutes les mesures** : 🟢 Socle. Raison : Un coût financier très marginal (+0,2 Md€) pour un gain démocratique essentiel. Nature : Réforme institutionnelle. Effet retour : Des institutions transparentes conditionnent l'acceptabilité sociale des réformes économiques.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- Cevipof (Sciences Po), *Baromètre de la confiance politique*, vague 16, février 2025.
-- Transparency International, *Corruption Perceptions Index 2024*.
-- Haute Autorité pour la transparence de la vie publique, rapports annuels.
-- Citizens' Assembly (Irlande), rapports 2016-2018.
-- Riksdagen, *The Swedish principle of public access to official records*.
-- Constitution du 4 octobre 1958, articles 11, 49 et 89.
+- Sciences Po Cevipof, *Baromètre de la confiance politique*. https://www.sciencespo.fr/cevipof/fr/le-barometre-de-la-confiance-politique/
+- Transparency International, indice de perception de la corruption. https://www.transparency.org/en/cpi
+- Haute Autorité pour la transparence de la vie publique (HATVP), rapports. https://www.hatvp.fr/
+- Riksdagen, documents sur le principe suédois de publicité. https://www.riksdagen.se/

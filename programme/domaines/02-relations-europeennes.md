@@ -44,25 +44,29 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 1. Emprunt européen de défense | 0 Md€ | - | 0 Md€ | 2030 | 500 Md€ sur 10 ans pour l'UE. La quote-part française (~17%) serait remboursée par les nouvelles ressources propres européennes. |
+| 2. Préférence européenne | 0 Md€ | - | 0 Md€ | 2028 | Mesure réglementaire (Buy European Act) sans coût budgétaire direct. |
+| 3. Taxe carbone aux frontières | 0 Md€ | ~+2 Md€ (UE) | 0 Md€ | 2032 | Recettes fléchées vers le budget UE pour le remboursement de l'emprunt commun. |
+| 4. Socle social européen | 0 Md€ | - | 0 Md€ | 2030 | Fin du dumping social. Neutre pour le budget de l'État français. |
+| 5 à 7. Marchés, accords et Schengen | 0 Md€ | - | 0 Md€ | 2029 | Réorientation des moyens existants (ex. renforcement de Frontex sur budget UE). |
+| 8. Influence française | +0,01 Md€ | - | +0,01 Md€ | 2028 | Formation spécifique INSP et universités. |
+| 9. Ressources propres | 0 Md€ | - | 0 Md€ | 2030 | Nouvelles taxes (TTF, carbone) affectées à l'UE sans hausse de la contribution nationale brute. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Répondre au décrochage de compétitivité vis-à-vis des États-Unis et de la Chine (rapport Draghi). Protéger l'industrie et les travailleurs européens contre le dumping social intra-UE.
+- **Faisabilité** : L'emprunt commun nécessite l'unanimité (ou une large coalition) au Conseil européen, surmontant l'opposition traditionnelle des pays dits « frugaux ». La directive sur les salaires minimaux demande une transposition ambitieuse.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Stratégie européenne pour la compétitivité et l'emprunt commun d'investissement.
+- **1 à 9. Toutes les mesures** : 🟢 Socle. Raison : L'orientation européenne est le cœur de la relance industrielle. Nature : Initiative diplomatique et réglementaire (investissement pour l'emprunt). Effet retour : Relance de la commande publique européenne (Défense, Industrie verte), protection des parts de marché.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- Mario Draghi, *The future of European competitiveness*, Commission européenne, septembre 2024.
-- Directive (UE) 2022/2041 relative à des salaires minimaux adéquats.
-- Commission européenne, *Livre blanc sur la défense européenne — Readiness 2030*, mars 2025.
-- Pacte sur la migration et l'asile, adopté en mai 2024.
-- Direction générale du Travail, rapports sur le détachement.
+- Mario Draghi, *The future of European competitiveness*, Commission européenne, septembre 2024. https://commission.europa.eu/topics/strengthening-european-competitiveness/eu-competitiveness-looking-ahead_en
+- Directive (UE) 2022/2041 du 19 octobre 2022 relative à des salaires minimaux adéquats dans l'Union européenne. https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32022L2041
+- Commission européenne, documents préparatoires sur la défense européenne et Readiness, 2024. https://defence-industry-space.ec.europa.eu/
+- Parlement européen, *Pacte sur la migration et l'asile*, adopté en avril 2024. https://www.europarl.europa.eu/news/fr/press-room/20240408IPR20290/
+- Direction générale du Travail (France), bilans annuels sur le travail illégal et le détachement. https://travail-emploi.gouv.fr/

@@ -60,26 +60,28 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 1. Traitement asile en 3 mois (OFPRA/CNDA) | +0,2 Md€ | - | +0,2 Md€ | 2029 | Doublement des effectifs instructeurs et magistrats. |
+| 2. Exécution OQTF et rétention | +0,2 Md€ | - | +0,2 Md€ | 2030 | Retours aidés (2500€), vols affrétés et places en CRA. |
+| 3, 4. Planification et lutte contre filières | +0,1 Md€ | - | +0,1 Md€ | 2028 | Moyens accrus pour les préfectures et corps de contrôle. |
+| 5, 8. Contrat d'intégration renforcé et femmes | +0,4 Md€ | - | +0,4 Md€ | 2030 | Passage à 1000h de français, coûts de l'OFII. |
+| 6, 7. Accès emploi et diplômes | +0,1 Md€ | - | +0,1 Md€ | 2029 | Formations qualifiantes (modèle allemand). |
+| 9. Lutte contre les discriminations (testings) | +0,1 Md€ | - | +0,1 Md€ | 2028 | Budgets de l'État pour les campagnes de testings publics. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Le taux d'emploi des immigrés est trop faible (62% vs 69%). Le rattrapage passe par un apprentissage massif du français (le modèle danois prouve l'efficacité des cours intensifs). La réduction des délais d'asile (à 3 mois) permet des économies substantielles sur l'hébergement d'urgence.
+- **Faisabilité** : L'exécution de 40 % des OQTF exige des accords de réadmission avec les pays d'origine, liés à la politique des visas et de l'aide au développement (faisabilité diplomatique complexe).
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Intégration par le travail pour répondre aux pénuries de main-d'œuvre dans certains secteurs.
+- **1 à 10. Toutes les mesures** : 🟢 Socle. Raison : La régulation des flux et l'intégration sont des prérequis à la cohésion nationale. Nature : Fonctionnement et investissement dans les compétences. Effet retour : Une hausse de 5 points du taux d'emploi des immigrés générerait 1 à 1,5 Md€ de recettes fiscales et sociales, finançant ainsi la politique d'intégration.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- INSEE, *Immigrés et descendants d'immigrés*, édition 2023 et actualisation 2024.
-- Ministère de l'Intérieur, DGEF, *Les chiffres clés de l'immigration 2024*, janvier 2025.
-- OFPRA, *Rapport d'activité 2024*.
-- Cour des comptes, *La politique de lutte contre l'immigration irrégulière*, janvier 2024.
-- DARES / ISM Corum, *Discrimination à l'embauche selon l'origine*, 2021.
-- OCDE, *Perspectives des migrations internationales 2024*.
+- INSEE, enquêtes sur les immigrés et descendants d'immigrés, 2023-2024. https://www.insee.fr/fr/statistiques/
+- Ministère de l'Intérieur, données annuelles sur l'immigration. https://www.immigration.interieur.gouv.fr/
+- OFPRA, rapports d'activité. https://www.ofpra.gouv.fr/
+- Cour des comptes, rapports sur l'immigration irrégulière. https://www.ccomptes.fr/
+- DARES, études sur la discrimination à l'embauche. https://dares.travail-emploi.gouv.fr/

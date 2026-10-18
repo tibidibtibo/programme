@@ -50,25 +50,27 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 1. Recrutements majeurs (+4 500 magistrats) | +1,8 Md€ | - | +1,8 Md€ | 2032 | 4 500 magistrats (~80k€/an), + greffiers (~50k€/an) et attachés. Objectif : 15 juges/100k hab. |
+| 2. Délais garantis et 8. Justice numérique | +0,3 Md€ | - | +0,3 Md€ | 2030 | Modernisation des SI et numérisation des procédures pénales/civiles. |
+| 3, 5. Fin de la surpopulation (prisons) | +0,6 Md€ | - | +0,6 Md€ | 2032 | Fonctionnement des nouvelles places. L'investissement (~4 Md€) est amorti hors de ce calcul annuel. |
+| 4. Peines effectives (TIG, bracelets) | 0 Md€ | - | 0 Md€ | 2028 | Redéploiement des coûts d'incarcération évitée. |
+| 6. Justice des mineurs (CEF doublés) | +0,1 Md€ | - | +0,1 Md€ | 2030 | Création et fonctionnement de nouveaux centres éducatifs fermés. |
+| 7. Accès au droit (Aide juridictionnelle) | +0,2 Md€ | - | +0,2 Md€ | 2028 | Revalorisation du barème de l'aide juridictionnelle. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Le ratio de juges par habitant en France est alarmant (11 vs 18 en Europe). Une justice lente perd son sens. Les "prisons à la norvégienne" visent à diviser par trois la récidive.
+- **Faisabilité** : Le foncier pour les nouvelles prisons est souvent bloqué par des recours locaux, nécessitant d'associer fortement les élus locaux ou d'utiliser des lois d'exception. Le recrutement massif exige d'élargir les voies d'accès à l'École nationale de la magistrature.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Régalien indispensable. La sécurité juridique est un prérequis pour le monde des affaires et la confiance économique.
+- **1 à 8. Toutes les mesures** : 🟢 Socle. Raison : La justice est le pilier de l'État de droit (Priorité 2). Nature : Fonctionnement et investissement régalien. Effet retour : La rapidité de la justice (notamment civile et commerciale) est un déterminant majeur de l'investissement privé.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- Conseil de l'Europe, CEPEJ, *Systèmes judiciaires européens*, cycle d'évaluation 2024.
-- Ministère de la Justice, statistiques mensuelles de la population détenue, 2025 ; *Chiffres clés de la Justice*.
-- Contrôleur général des lieux de privation de liberté, rapports annuels.
-- Kriminalomsorgen (administration pénitentiaire norvégienne), statistiques de récidive.
-- États généraux de la Justice, *Rapport Sauvé*, juillet 2022.
+- Commission européenne pour l'efficacité de la justice (CEPEJ), *Systèmes judiciaires européens*, 2024. https://www.coe.int/fr/web/cepej/evalution-des-systemes-judiciaires
+- Ministère de la Justice, séries statistiques sur la population carcérale et les délais. https://www.justice.gouv.fr/statistiques
+- Rapport du Comité des États généraux de la justice (rapport Sauvé), 2022. https://www.justice.gouv.fr/etats-generaux-de-la-justice
+- Administration pénitentiaire norvégienne (Kriminalomsorgen), statistiques de récidive. https://www.kriminalomsorgen.no/

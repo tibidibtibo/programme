@@ -67,23 +67,32 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / an | Recettes / Économies | Coût net 2032 | Année pleine | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| Droit opposable aux soins palliatifs | 0,45 Md€ | - | 0,45 Md€ | 2030 | Au-delà du milliard déjà voté sur la stratégie décennale. 3 000 lits supp. × 150 000 €/lit. |
+| Formation, équipes mobiles, commission | 0,05 Md€ | - | 0,05 Md€ | 2028 | Dotations aux CHU et budget de la commission nationale de contrôle. |
+| Moyens PMA et don d'organes | 0,10 Md€ | - | 0,10 Md€ | 2028 | Équipes de coordination hospitalières et centres de PMA. |
+| **Total** | **0,6 Md€** | **-** | **0,6 Md€** | | |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : La fin de vie est le dernier acte de dignité. Ne pas offrir les soins palliatifs à ceux qui en ont besoin est une injustice grave. L'aide à mourir répond à une demande forte de la société, exprimée par la Convention citoyenne.
+- **Contraintes et capacités** :
+  - *Opérationnelles* : L'ouverture de lits de soins palliatifs nécessite le recrutement de soignants spécialisés, denrée rare. La filière universitaire prendra 5 ans à former de nouveaux praticiens.
+  - *Juridiques* : L'aide active à mourir encadrée requiert le vote d'une loi complexe et très clivante au Parlement.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Garantie du droit aux soins palliatifs et encadrement de l'aide à mourir.
+| Mesure | Statut | Nature | Effet retour attendu |
+|---|---|---|---|
+| Droit aux soins palliatifs | 🟢 Socle | Fonctionnement | Dignité et équité |
+| Loi aide à mourir | 🟢 Socle | Normatif (coût nul) | Liberté individuelle |
+| PMA et organes | 🟢 Socle | Santé publique | Économies indirectes (greffes) |
+
+*Lien avec la relance* : Le coût modeste (0,6 Md€) justifie l'intégration au socle. Le renforcement des greffes (don d'organes) génère d'importantes économies pour l'Assurance maladie (arrêt des dialyses).
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - Cour des comptes, *Les soins palliatifs : une offre de soins à renforcer*, juillet 2023.
 - Conseil économique, social et environnemental, *Rapport de la Convention citoyenne sur la fin de vie*, avril 2023.
 - Comité consultatif national d'éthique, avis 139, septembre 2022.

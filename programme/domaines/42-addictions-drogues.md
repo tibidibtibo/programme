@@ -80,23 +80,33 @@ La lutte contre le narcotrafic (police, justice, saisie des avoirs) est traitée
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / an | Recettes / Économies | Coût net 2032 | Année pleine | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| Déploiement du plan Planet Youth | 0,2 Md€ | - | 0,2 Md€ | 2030 | Subventions aux communes pour l'encadrement des activités sportives et culturelles ciblées sur les adolescents (hors temps scolaire). |
+| Sevrage tabagique et doublement CSAPA | 0,25 Md€ | - | 0,25 Md€ | 2028 | Hausse du budget des CSAPA (≈ 0,15 Md€) et remboursement des substituts (0,1 Md€). |
+| Salles de consommation et naloxone | 0,05 Md€ | - | 0,05 Md€ | 2028 | Ouverture de ≈ 20 nouvelles SCMR. |
+| Fiscalité tabac et alcool (paquet à 16 €) | - | 1,5 Md€ | -1,5 Md€ | 2030 | Hausse des taxes nettes de la baisse de volume anticipée (élasticité prix ≈ -0,4). |
+| **Total** | **0,5 Md€** | **1,5 Md€** | **-1,0 Md€ (excédent)** | | |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Le coût social des addictions (tabac : 156 Md€, alcool : 102 Md€) ruine la productivité et les finances sociales. La politique ultra-répressive sur le cannabis (loi de 1970) a échoué (la France reste championne d'Europe de la consommation chez les jeunes), engorge les tribunaux (amendes forfaitaires inefficaces) et nourrit la violence. Le modèle islandais et la dépénalisation portugaise ont fait leurs preuves.
+- **Contraintes et capacités** :
+  - *Juridiques* : L'interdiction de vente de tabac aux générations nées après 2012 est potentiellement inconstitutionnelle (rupture d'égalité) en droit français, mais assumée comme une stratégie politique.
+  - *Opérationnelles* : La dépénalisation implique une bascule colossale : les forces de l'ordre se détournent des consommateurs pour cibler les réseaux. Cela requiert un changement profond de doctrine policière.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Santé publique génératrice d'excédents par la fiscalité (tabac, alcool) et des économies à terme.
+| Mesure | Statut | Nature | Effet retour attendu |
+|---|---|---|---|
+| Fiscalité tabac/alcool | 🟢 Socle | Recette | Baisse de la morbidité (et donc dépenses AM) |
+| Planet Youth et CSAPA | 🟢 Socle | Dépense sociale | Hausse de la productivité, baisse des échecs scolaires |
+| Dépénalisation usage | 🟢 Socle | Normatif (réorganisation) | Efficacité policière et désengorgement judiciaire |
+
+*Lien avec la relance* : Domaine pourvoyeur de recettes immédiates (fiscalité) et d'économies massives de long terme pour l'Assurance maladie. Toutes les mesures sont donc inscrites au socle.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - Santé publique France, *Baromètre de Santé publique France 2023* ; *Bulletin épidémiologique hebdomadaire* sur la mortalité attribuable au tabac et à l'alcool.
 - Observatoire français des drogues et des tendances addictives (OFDT), *Drogues et addictions, chiffres clés 2024* ; *Le coût social des drogues*, 2023.
 - Cour des comptes, *La politique de lutte contre les consommations de stupéfiants*, 2023.

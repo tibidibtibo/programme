@@ -70,28 +70,35 @@ Ce fichier détaille la mesure 10 du [fichier 26](26-institutions-democratie.md)
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / an | Recettes / Économies | Coût net 2032 | Année pleine | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| Audiovisuel public (garantie et missions) | 0,2 Md€ | - | 0,2 Md€ | 2028 | Maintien du budget en euros constants face à l'inflation et renforcement du réseau local France 3/Ici. |
+| Fonds pour l'information locale | 0,05 Md€ | - | 0,05 Md€ | 2028 | Création d'un fonds dédié de 50 M€, partiellement gagé par un plafonnement des aides aux grands groupes. |
+| Viginum et éducation aux médias | 0,05 Md€ | - | 0,05 Md€ | 2029 | Doublement des effectifs de Viginum (≈ 100 ETP supp.) et formation des enseignants. |
+| **Total** | **0,3 Md€** | **-** | **0,3 Md€** | | |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : La concentration des médias entre les mains de quelques groupes industriels (dont certains dépendent de la commande publique) menace le pluralisme et le débat démocratique. L'information est un bien commun qui nécessite une protection, d'où la sanctuarisation de l'audiovisuel public.
+- **Contraintes et capacités** :
+  - *Juridiques* : L'interdiction pour un groupe dépendant de la commande publique de posséder un média sera soumise à un contrôle de proportionnalité du Conseil constitutionnel. Le financement affecté de l'audiovisuel public nécessite une loi organique modifiant la LOLF, depuis la suppression de la redevance.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Régulation du marché de l'information et sanctuarisation de l'audiovisuel public.
+| Mesure | Statut | Nature | Effet retour attendu |
+|---|---|---|---|
+| Loi anti-concentration | 🟢 Socle | Normatif (coût nul) | Qualité du débat public |
+| Audiovisuel public garanti | 🟢 Socle | Fonctionnement | Stabilité du secteur |
+| Fonds information locale | 🟢 Socle | Investissement | Vitalité démocratique locale |
+
+*Lien avec la relance* : Le coût budgétaire de ce domaine est marginal (0,3 Md€). Son impact est d'abord démocratique. L'ensemble des mesures est financé dans le socle incompressible.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - États généraux de l'information, rapport final, septembre 2024.
-- Cour des comptes, *Les aides à la presse écrite*, 2023 ; rapports sur France Télévisions.
+- Cour des comptes, *Les aides à la presse écrite*, 2023.
 - Baromètre Kantar Public-La Croix sur la confiance des Français dans les médias, 2025.
-- Reporters sans frontières, *Classement mondial de la liberté de la presse*, 2025.
-- SGDSN-Viginum, rapports sur les campagnes de désinformation, 2023-2025.
+- Reporters sans frontières, *Classement mondial de la liberté de la presse*, 2024.
+- SGDSN-Viginum, rapports sur les campagnes de désinformation, 2023-2024.
 - Conseil d'État, décision du 13 février 2024 sur le pluralisme (CNews).
 - Directive (UE) 2024/1069 sur les procédures-bâillons ; règlement européen sur la liberté des médias (EMFA), 2024.
-- Medietilsynet (Norvège), *Mediestøtte* ; KEF (Allemagne), rapports.

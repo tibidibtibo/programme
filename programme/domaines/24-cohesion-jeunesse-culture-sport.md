@@ -67,26 +67,39 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / an | Recettes / Économies | Coût net 2032 | Année pleine | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| Service civique universel (6 mois) | 6,0 Md€ | 0,8 Md€ (SNU et SC actuels) | 5,2 Md€ | 2032 | 500 000 jeunes × 12 000 €/mission (indemnité, encadrement, formation). |
+| Écoles populaires de la Nation | 0,3 Md€ | - | 0,3 Md€ | 2030 | Rénovation et fonctionnement de 50 sites (coût unitaire estimé : 6 M€/an). |
+| Vie associative (crédit d'impôt) | 0,5 Md€ | - | 0,5 Md€ | 2028 | Transformation de la réduction d'impôt en crédit d'impôt (coût additionnel). |
+| Budget de la Culture à 1 % de l'État | 1,5 Md€ | - | 1,5 Md€ | 2032 | Hausse progressive pour atteindre ≈ 5,5 Md€ hors audiovisuel. |
+| Sport (infrastructures et Pass'Sport) | 0,5 Md€ | - | 0,5 Md€ | 2030 | Équipements de proximité et extension de l'aide à la licence. |
+| **Total** | **8,8 Md€** | **0,8 Md€** | **8,0 Md€** | | |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : La défiance interpersonnelle (75 % des Français) et la perte de lien social minent la démocratie et ont un coût économique caché (Y. Algan). Un service universel crée un capital social commun et brasse les jeunesses, là où le SNU (trop court, trop martial) a échoué.
+- **Contraintes et capacités** :
+  - *Opérationnelles* : L'encadrement de 500 000 jeunes par an nécessite des dizaines de milliers de tuteurs dans les associations et services publics. C'est l'obstacle majeur. Le déploiement doit être très progressif (200 000 en 2028).
+  - *Juridiques* : Rendre le service civique « universel » (et de facto quasi-obligatoire) pose des questions de constitutionnalité concernant le travail forcé (CEDH). Il devra conserver un caractère d'engagement, voire être lié à des contreparties (validation de crédits ECTS, accès à certains concours).
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague (pour l'extension du Service Civique au-delà de 250 000 et Culture à 1%) / 🟢 Socle (pour la phase 1)
-- **Lien avec la relance économique** : La cohésion nationale est le soubassement de la confiance, mais l'investissement massif dans la jeunesse est séquencé.
+| Mesure | Statut | Nature | Effet retour attendu |
+|---|---|---|---|
+| Service civique (250 000 jeunes) | 🟢 Socle (2,6 Md€) | Investissement social | Lien social, insertion, utilité publique |
+| Service civique (les 250 000 suivants) | 🟡 Seconde vague (2,6 Md€) | Investissement social | Cohésion nationale |
+| Culture à 1 % | 🟡 Seconde vague | Dépense sociale | Attractivité territoriale |
+| Écoles pop. et associations | 🟢 Socle | Dépense sociale | Capital social |
+| Sport | 🟢 Socle | Investissement social | Santé publique (prévention) |
+
+*Lien avec la relance* : Le coût du Service civique universel (5,2 Md€) est très lourd pour un impact économique indirect. Il est donc scindé : un doublement de l'existant (jusqu'à 250 000 jeunes) est financé dans le socle, la généralisation à toute la classe d'âge attendra les marges de manœuvre de la seconde vague.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- European Values Study / World Values Survey, vague 2017-2022.
-- Cour des comptes, *Le service national universel*, septembre 2024.
-- Agence du service civique, rapport d'activité 2024.
+- European Values Study / World Values Survey, vague 2017-2022 (Confiance interpersonnelle).
+- Cour des comptes, *Le service national universel*, septembre 2024 (Coût et inefficacité du SNU).
+- Agence du service civique, rapport d'activité 2024 (80 000 volontaires).
 - INJEP, *Les chiffres clés du sport*, 2024 ; *Les chiffres clés de la vie associative*, 2023.
 - Yann Algan, Pierre Cahuc, *La société de défiance*, 2007.
-- Folkehøjskolernes Forening i Danmark, statistiques 2024.
+- Folkehøjskolernes Forening i Danmark, statistiques 2024 (Écoles populaires).

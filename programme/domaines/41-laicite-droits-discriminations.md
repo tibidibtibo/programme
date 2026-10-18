@@ -71,23 +71,34 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / an | Recettes / Économies | Coût net 2032 | Année pleine | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| Testing public et Défenseur des droits | 0,05 Md€ | - | 0,05 Md€ | 2028 | Doublement des moyens du Défenseur des droits (budget actuel ≈ 35 M€) et financement des campagnes de testing. |
+| Caméras-piétons, récépissés, formations | 0,05 Md€ | - | 0,05 Md€ | 2028 | Équipement et formation continue des forces de l'ordre, coût d'édition ou de développement de l'appli récépissé. |
+| Magistrats et enquêteurs spécialisés | 0,05 Md€ | - | 0,05 Md€ | 2029 | Recrutement d'environ 600 ETP (300 magistrats, 300 enquêteurs). |
+| Conseil de la laïcité et formations | 0,05 Md€ | - | 0,05 Md€ | 2028 | Création de la structure (budget type Miviludes/Observatoire) et plan massif de formation de la fonction publique. |
+| **Total** | **0,2 Md€** | **-** | **0,2 Md€** | | |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Les discriminations (embauche, logement, police) constituent une rupture de l'égalité républicaine et génèrent une profonde défiance. Le coût macroéconomique de la discrimination (perte de talents) est lourd. La laïcité est le cadre qui permet de vivre ensemble.
+- **Contraintes et capacités** :
+  - *Opérationnelles* : La mise en place du récépissé de contrôle d'identité se heurte historiquement à une forte opposition syndicale policière. Elle devra s'accompagner d'une revalorisation des missions ou de temps dégagé par ailleurs pour être acceptée.
+  - *Juridiques* : Le testing par l'État avec sanction nécessitera un encadrement législatif strict pour garantir le respect des droits de la défense.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Mesures d'égalité républicaine à coût quasi-nul pour renforcer la confiance citoyenne.
+| Mesure | Statut | Nature | Effet retour attendu |
+|---|---|---|---|
+| Testing public / Sanctions | 🟢 Socle | Normatif | Inclusion sur le marché du travail (emploi) |
+| Récépissé et caméras | 🟢 Socle | Fonctionnement | Baisse des tensions, confiance |
+| Défenseur des droits (doublé) | 🟢 Socle | Fonctionnement | Accès au droit |
+| Conseil de la laïcité | 🟢 Socle | Fonctionnement | Cohésion sociale |
+
+*Lien avec la relance* : Le budget de 0,2 Md€ est intégré au socle. Le testing et la lutte contre les discriminations à l'embauche participent directement à la relance de l'emploi en réintégrant des profils écartés du marché du travail.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - DARES et ISM Corum, *Discrimination à l'embauche selon l'origine : que nous apprend le testing auprès des grandes entreprises ?*, 2021.
 - Défenseur des droits, *Enquête sur l'accès aux droits : relations police/population*, 2017 ; rapports annuels.
 - Conseil d'État, décision du 11 octobre 2023 sur les contrôles d'identité discriminatoires.

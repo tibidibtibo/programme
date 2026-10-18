@@ -6,6 +6,7 @@ from pydantic import BaseModel
 import uvicorn
 import markdown
 import os
+import re
 from contextlib import asynccontextmanager
 from typing import List, Optional
 
@@ -25,19 +26,22 @@ app.mount("/static", StaticFiles(directory="server/static"), name="static")
 templates = Jinja2Templates(directory="server/templates")
 
 # Configure Markdown
-md_extensions = ['tables', 'fenced_code', 'toc', 'attr_list', 'def_list', 'md_in_html']
+md_extensions = ['tables', 'fenced_code', 'toc', 'attr_list', 'def_list', 'sane_lists', 'md_in_html']
 
 def render_markdown(text: str) -> str:
-    # Basic alert rendering for GitHub style callouts before passing to markdown
-    # Note: A real implementation might use a markdown extension for this
+    # Insérer une ligne vide avant les listes pour un rendu GFM aéré et propre
+    text = re.sub(r'([^\n])\n([ \t]*([0-9]+\.|[-*+])\s+)', r'\1\n\n\2', text)
     lines = text.split('\n')
     processed_lines = []
     in_alert = False
-    alert_type = ""
     for line in lines:
-        if line.startswith("> [!"):
-            alert_type = line[4:-1].lower() # e.g. "note", "important"
-            processed_lines.append(f'<div class="alert alert-{alert_type}" markdown="1">')
+        m = re.match(r'^>\s*\[!([A-Za-z_-]+)\](.*)$', line)
+        if m:
+            alert_type = m.group(1).lower()
+            extra = m.group(2).strip()
+            processed_lines.append(f'<div class="alert alert-{alert_type}">')
+            if extra:
+                processed_lines.append(f'<p>{extra}</p>')
             in_alert = True
         elif in_alert and not line.startswith(">"):
             processed_lines.append('</div>')

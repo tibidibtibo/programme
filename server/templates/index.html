@@ -9,31 +9,272 @@
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        /* Markdown Styles */
-        .prose h1 { @apply text-3xl font-bold mt-6 mb-4; }
-        .prose h2 { @apply text-2xl font-semibold mt-5 mb-3 border-b pb-2; }
-        .prose h3 { @apply text-xl font-medium mt-4 mb-2; }
-        .prose p { @apply mb-4 leading-relaxed; }
-        .prose ul { @apply list-disc list-inside mb-4; }
-        .prose ol { @apply list-decimal list-inside mb-4; }
-        .prose a { @apply text-blue-600 hover:underline cursor-pointer; }
-        .prose pre { @apply bg-gray-100 p-4 rounded-md mb-4 overflow-x-auto text-sm font-mono; }
-        .prose code { @apply bg-gray-100 px-1 py-0.5 rounded text-sm font-mono text-red-600; }
-        .prose pre code { @apply bg-transparent text-gray-800 p-0; }
-        .prose blockquote { @apply border-l-4 border-gray-300 pl-4 italic mb-4 text-gray-700; }
-        .prose table { @apply w-full border-collapse mb-4; }
-        .prose th, .prose td { @apply border border-gray-300 px-4 py-2 text-left; }
-        .prose th { @apply bg-gray-100 font-semibold; }
+        /* ========================================================
+           TYPOGRAPHIE & STYLE AÉRÉ MARKDOWN (.prose)
+           ======================================================== */
+        .prose {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            color: #334155; /* slate-700 */
+            font-size: 1.0625rem; /* 17px */
+            line-height: 1.85; /* Grand interligne aéré */
+            max-width: 100%;
+        }
 
-        /* Alert blocks */
-        .alert { @apply p-4 mb-4 rounded-md border-l-4; }
-        .alert-note { @apply bg-blue-50 border-blue-500 text-blue-800; }
-        .alert-warning { @apply bg-yellow-50 border-yellow-500 text-yellow-800; }
-        .alert-important { @apply bg-purple-50 border-purple-500 text-purple-800; }
-        .alert-caution { @apply bg-red-50 border-red-500 text-red-800; }
+        /* Titres */
+        .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
+            color: #0f172a; /* slate-900 */
+            font-weight: 700;
+            line-height: 1.35;
+            letter-spacing: -0.02em;
+        }
+
+        .prose h1 {
+            font-size: 2.25rem; /* 36px */
+            font-weight: 800;
+            margin-top: 2.75rem;
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 2px solid #e2e8f0;
+        }
+        .prose h1:first-child {
+            margin-top: 0;
+        }
+
+        .prose h2 {
+            font-size: 1.625rem; /* 26px */
+            font-weight: 700;
+            margin-top: 2.75rem;
+            margin-bottom: 1.25rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        .prose h3 {
+            font-size: 1.25rem; /* 20px */
+            font-weight: 600;
+            margin-top: 2.25rem;
+            margin-bottom: 0.85rem;
+            color: #1e293b;
+        }
+
+        .prose h4 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-top: 1.75rem;
+            margin-bottom: 0.6rem;
+            color: #334155;
+        }
+
+        /* Paragraphes */
+        .prose p {
+            margin-top: 0;
+            margin-bottom: 1.5rem; /* Espacement aéré entre paragraphes */
+            line-height: 1.85;
+        }
+
+        .prose strong, .prose b {
+            font-weight: 650;
+            color: #0f172a;
+        }
+
+        .prose em, .prose i {
+            font-style: italic;
+        }
+
+        /* Liens */
+        .prose a {
+            color: #2563eb;
+            text-decoration: underline;
+            text-underline-offset: 3px;
+            font-weight: 500;
+            transition: color 0.15s ease;
+        }
+        .prose a:hover {
+            color: #1d4ed8;
+        }
+
+        /* Listes */
+        .prose ul {
+            list-style-type: disc;
+            margin-top: 0.75rem;
+            margin-bottom: 1.75rem;
+            padding-left: 1.75rem;
+        }
+
+        .prose ol {
+            list-style-type: decimal;
+            margin-top: 0.75rem;
+            margin-bottom: 1.75rem;
+            padding-left: 1.75rem;
+        }
+
+        .prose li {
+            margin-bottom: 0.65rem;
+            line-height: 1.8;
+            color: #334155;
+        }
+
+        .prose li > p {
+            margin-bottom: 0.4rem;
+        }
+
+        .prose ul ul, .prose ol ol, .prose ul ol, .prose ol ul {
+            margin-top: 0.4rem;
+            margin-bottom: 0.6rem;
+        }
+
+        /* Citations & blockquotes */
+        .prose blockquote {
+            margin: 2rem 0;
+            padding: 1.25rem 1.75rem;
+            border-left: 4px solid #3b82f6;
+            background: #f8fafc;
+            border-radius: 0 12px 12px 0;
+            color: #334155;
+            font-style: italic;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+        }
+        .prose blockquote p:last-child {
+            margin-bottom: 0;
+        }
+
+        /* Séparateurs horizontaux */
+        .prose hr {
+            border: 0;
+            height: 1px;
+            background: linear-gradient(to right, transparent, #cbd5e1, transparent);
+            margin: 3.5rem 0;
+        }
+
+        /* Tableaux */
+        .prose table {
+            width: 100%;
+            margin: 2.25rem 0;
+            border-collapse: separate;
+            border-spacing: 0;
+            border: 1px solid #e2e8f0;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+        }
+
+        .prose th {
+            background: #f8fafc;
+            color: #475569;
+            font-weight: 600;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            padding: 0.95rem 1.25rem;
+            border-bottom: 1px solid #e2e8f0;
+            text-align: left;
+        }
+
+        .prose td {
+            padding: 0.95rem 1.25rem;
+            border-bottom: 1px solid #f1f5f9;
+            font-size: 0.95rem;
+            line-height: 1.65;
+            color: #334155;
+        }
+
+        .prose tbody tr:last-child td {
+            border-bottom: 0;
+        }
+
+        .prose tbody tr:nth-child(even) {
+            background: #fbfcfe;
+        }
+
+        .prose tbody tr:hover {
+            background: #f1f5f9;
+        }
+
+        /* Code en ligne et blocs */
+        .prose code {
+            background: #f1f5f9;
+            color: #0f172a;
+            padding: 0.2rem 0.45rem;
+            border-radius: 6px;
+            font-size: 0.875em;
+            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+            border: 1px solid #e2e8f0;
+        }
+
+        .prose pre {
+            background: #0f172a;
+            color: #f8fafc;
+            padding: 1.25rem 1.5rem;
+            border-radius: 12px;
+            overflow-x: auto;
+            margin: 2rem 0;
+            font-size: 0.9rem;
+            line-height: 1.6;
+            border: 1px solid #1e293b;
+        }
+
+        .prose pre code {
+            background: transparent;
+            color: inherit;
+            padding: 0;
+            border: 0;
+        }
+
+        /* Alertes GitHub */
+        .alert {
+            padding: 1.15rem 1.5rem;
+            margin: 2rem 0;
+            border-radius: 0 12px 12px 0;
+            border-left: 4px solid #3b82f6;
+            line-height: 1.75;
+        }
+        .alert p:last-child {
+            margin-bottom: 0;
+        }
+        .alert-note {
+            background: #eff6ff;
+            border-color: #3b82f6;
+            color: #1e40af;
+        }
+        .alert-warning {
+            background: #fffbeb;
+            border-color: #f59e0b;
+            color: #92400e;
+        }
+        .alert-important {
+            background: #faf5ff;
+            border-color: #a855f7;
+            color: #6b21a8;
+        }
+        .alert-caution {
+            background: #fef2f2;
+            border-color: #ef4444;
+            color: #991b1b;
+        }
+        .alert-tip {
+            background: #f0fdf4;
+            border-color: #10b981;
+            color: #065f46;
+        }
+
+        /* Feuille de lecture aérée (Paper Card) */
+        .doc-card {
+            background: #ffffff;
+            border-radius: 16px;
+            border: 1px solid #e2e8f0;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+            padding: 3rem 4rem;
+        }
+        @media (max-width: 768px) {
+            .doc-card {
+                padding: 1.75rem 1.25rem;
+                border-radius: 8px;
+            }
+        }
 
         .editor-textarea {
             font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            line-height: 1.6;
         }
 
         [x-cloak] { display: none !important; }
@@ -127,7 +368,9 @@
             </div>
 
             <!-- View Mode -->
-            <article x-show="currentDoc && !editMode" x-ref="viewer" class="prose max-w-4xl mx-auto pb-20" x-html="currentDoc?.html" @click="handleLinks($event)" x-cloak></article>
+            <div x-show="currentDoc && !editMode" class="max-w-4xl mx-auto pb-24" x-cloak>
+                <article x-ref="viewer" class="doc-card prose" x-html="currentDoc?.html" @click="handleLinks($event)"></article>
+            </div>
 
             <!-- Edit Mode (Split View) -->
             <div x-show="currentDoc && editMode" class="h-full flex flex-col" x-cloak>

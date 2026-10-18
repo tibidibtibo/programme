@@ -67,27 +67,36 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+ | Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+ | Rénovation des logements (MaPrimeRénov') | +4 Md€ | - | +4 Md€ | 2032 | Passage du budget de 3 Md€ à 7 Md€/an pour atteindre 700 000 rénovations globales (coût unitaire public ≈ 10 000 €/logement). |
+ | Bâtiments publics | +1 Md€ | - | +1 Md€ | 2032 | Subventions directes de l'État aux collectivités pour les écoles (le reste en prêts CDC). |
+ | Chèque climat | +6 Md€ | +6 Md€ (recettes ETS2) | 0 Md€ | 2032 | Redistribution intégrale des recettes du marché carbone européen (ETS2 estimé à ~6 Md€/an pour la France à horizon 2030). |
+ | Leasing social pérennisé | +0,6 Md€ | - | +0,6 Md€ | 2032 | 100 000 véhicules/an avec une aide d'environ 6 000 € par véhicule. |
+ | Fonds pour l'adaptation (PNACC 3) | +1 Md€ | - | +1 Md€ | 2032 | Budget additionnel pour les infrastructures, l'eau et les forêts face au risque climatique. |
+ | Fin des subventions fossiles | - | +3 Md€ | -3 Md€ | 2032 | Sur 10 Md€ de niches fossiles (RAC), récupération de 3 Md€ nets (après compensation partielle des secteurs exposés). |
+ | Taxation jets/véhicules lourds | - | +0,6 Md€ | -0,6 Md€ | 2032 | Malus au poids renforcé et taxes spécifiques sur l'aviation privée (estimation modérée). |
+ | **Total** | **+12,6 Md€** | **+9,6 Md€** | **+3,0 Md€** | **2032** | Coût net pour les finances publiques en année de croisière (2032). |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : La transition écologique est indispensable et chiffrée par le rapport Pisani-Ferry/Mahfouz (2023) à un surcroît de 25-34 Md€/an d'investissements publics. L'accent est mis sur la rénovation thermique pour réduire la facture d'importation fossile (60-70 Md€/an) et améliorer le pouvoir d'achat, et sur le chèque climat pour garantir l'acceptabilité sociale (leçon des Gilets jaunes).
+- **Faisabilité juridique** : La suppression des subventions fossiles et la redistribution des recettes ETS2 sont alignées sur le droit européen (paquet Fit for 55, Fonds social pour le climat).
+- **Mise en œuvre** : La montée en charge des rénovations (de 100 000 à 700 000 par an) nécessitera un plan massif de formation de la filière BTP pour résorber les goulets d'étranglement (compétences RGE).
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Investissement dans la rénovation thermique : création d'emplois locaux non délocalisables.
+- **Statut d'arbitrage** : 🟢 Socle pour la rénovation, le leasing et le plan d'adaptation (qui soutiennent directement l'emploi et préviennent les risques).
+- **Nature** : Investissement productif et soutien à la filière BTP. Les aides aux ménages modestes (Chèque climat) sont un transfert social neutre pour les finances publiques (financé par ETS2).
+- **Lien avec la relance** : La rénovation globale stimule l'emploi non délocalisable (artisans BTP). La fin des importations fossiles améliore directement la balance commerciale.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - Citepa, *Rapport Secten* et *Baromètre des émissions*, 2025.
 - Haut Conseil pour le climat, *Rapport annuel*, 2025.
-- Jean Pisani-Ferry et Selma Mahfouz, *Les incidences économiques de l'action pour le climat*, France Stratégie, mai 2023.
-- I4CE, *Panorama des financements climat*, édition 2024.
+- Jean Pisani-Ferry et Selma Mahfouz, *Les incidences économiques de l'action pour le climat*, France Stratégie, 2023.
 - Observatoire national de la rénovation énergétique (ONRE), *Le parc de logements par classe de DPE*, 2024.
-- SDES, *Bilan énergétique de la France pour 2023* ; *Empreinte carbone de la France*, 2024.
-- Ministère suédois des Finances, *Sweden's carbon tax*.
+- I4CE, *Panorama des financements climat*, 2024.
+- Réseau Action Climat, Évaluation des subventions aux énergies fossiles en France.
+- PNACC 3, *Plan national d'adaptation au changement climatique*, mars 2025.
+- Commission Européenne, directives ETS2 (marché carbone pour le bâtiment et les transports routiers).

@@ -74,26 +74,31 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+ | Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+ | Soutien aux pompiers volontaires et SDIS | +0,3 Md€ | - | +0,3 Md€ | 2032 | Affectation de recettes (TSCA) supplémentaires aux départements pour recruter et fidéliser, + validation trimestres retraite. |
+ | Renouvellement Flotte Aérienne (Canadairs, Hélicoptères) | +0,2 Md€ | - | +0,2 Md€ | 2032 | Achat et maintien en condition opérationnelle lissés sur 15 ans, hors co-financement européen rescEU. |
+ | Fonds Barnier et Prévention (Argiles, inondations) | +0,5 Md€ | +0,3 Md€ | +0,2 Md€ | 2032 | Abondement via la hausse de la surprime "CatNat" de 12% à 20% (qui génère des recettes affectées au fonds). |
+ | Formation (premiers secours) et Réserve citoyenne | +0,2 Md€ | - | +0,2 Md€ | 2032 | Déploiement dans les collèges/lycées et équipement de la réserve communale (50 000 réservistes). |
+ | Fonds de solidarité (Ménages modestes et collectivités non assurables) | +0,3 Md€ | - | +0,3 Md€ | 2032 | Pool de réassurance public et fonds d'aide d'urgence post-catastrophe pour les plus précaires. |
+ | **Total** | **+1,5 Md€** | **+0,3 Md€** | **+1,2 Md€** | **2032** | Dont 0,8 Md€ en socle et 0,4 Md€ conditionné à la seconde vague. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Le coût des catastrophes naturelles explose (de 1,2 Md€ par an dans les années 2000 à près de 6-10 Md€ récemment), menaçant le modèle assurantiel français. Sans prévention (Fonds Barnier) et sans une force d'intervention robuste (renouvellement d'une flotte vieillissante de 25 ans), le coût de reconstruction sera insoutenable.
+- **Faisabilité juridique** : La modification du régime CatNat et de la surprime a été validée dans les principes en 2024 ; elle nécessite un arrêté interministériel. La protection des pompiers volontaires face à la directive européenne sur le temps de travail exige un combat diplomatique ferme de la France à Bruxelles.
+- **Mise en œuvre** : L'achat de Canadairs est limité par les capacités industrielles de De Havilland Canada ; les commandes groupées au niveau européen sont la seule voie d'accélération.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague (pour l'extension des effectifs) / 🟢 Socle (pour le plan d'urgence)
-- **Lien avec la relance économique** : Adaptation au changement climatique (incendies, inondations), financement séquencé.
+- **Statut d'arbitrage** : 🟡 Mixte (0,8 Md€ en 🟢 Socle pour les avions et le fonds Barnier, 0,4 Md€ en 🟡 Seconde vague pour la réserve et l'extension massive de la formation).
+- **Nature** : Dépense régalienne (sécurité civile) et investissements d'adaptation climatique.
+- **Lien avec la relance** : La réparation préventive des infrastructures et l'assurabilité des collectivités sont des garanties de la poursuite de l'activité économique (PME) sur tout le territoire (les zones inondables abritent une part massive de la production nationale).
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- Ministère de l'Intérieur, DGSCGC, *Les statistiques des services d'incendie et de secours*, édition 2024.
-- Sénat, rapport sur la sécurité civile face aux feux de forêt, 2023.
-- France Assureurs, bilans annuels des catastrophes naturelles.
-- Thierry Langreney et al., *Adapter le système assurantiel français face à l'évolution des risques climatiques*, rapport au gouvernement, 2024.
-- Plan national d'adaptation au changement climatique (PNACC 3), mars 2025.
-- Bundesanstalt Technisches Hilfswerk (THW), Allemagne ; MSB (Suède), *Om krisen eller kriget kommer*.
+- Ministère de l'Intérieur, *Statistiques des services d'incendie et de secours*, 2024.
+- Sénat, *Rapport d'information sur la prévention et la lutte contre les feux de forêt*, 2023.
+- France Assureurs, bilans annuels des catastrophes climatiques, 2024.
+- Thierry Langreney, *Adapter le système assurantiel français face à l'évolution des risques climatiques*, 2024.
+- PNACC 3, *Plan national d'adaptation au changement climatique*, mars 2025.

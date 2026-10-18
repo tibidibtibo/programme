@@ -72,26 +72,32 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+ | Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+ | Plan de reboisement adapté (Forêt-climat) | +0,2 Md€ | - | +0,2 Md€ | 2032 | Subventions à l'hectare pour le reboisement (feuillus/mélanges) ; complément du PNACC. |
+ | Renforcement de l'ONF (+1 000 ETP) | +0,1 Md€ | - | +0,1 Md€ | 2032 | Financement public des missions de surveillance et d'accueil, sans exiger de rentabilité domaniale. |
+ | Défense contre l'incendie (DFCI étendu) | +0,1 Md€ | - | +0,1 Md€ | 2032 | Création de pistes et points d'eau dans les zones à risque émergent (nord de la Loire). |
+ | Fonds de transition des stations de montagne | +0,15 Md€ | - | +0,15 Md€ | 2032 | Accompagnement à la reconversion 4 saisons, démontage des friches (remonte-pentes). |
+ | Accompagnement pastoral (protection loup) | +0,15 Md€ | - | +0,15 Md€ | 2032 | Financement à 100 % des protections (chiens, parcs, bergers) et indemnisations rapides. |
+ | **Total** | **+0,7 Md€** | **0 Md€** | **+0,7 Md€** | **2032** | (Dont 0,3 Md€ fléché sur la 2ème vague, 0,4 Md€ en socle). |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Le puits de carbone forestier français s'est effondré de moitié en 10 ans. Sans investissement dans la résilience de la forêt et sans personnel de l'ONF, les engagements climatiques de la France sont inatteignables. En montagne, l'adaptation post-ski n'est pas un choix mais une urgence vitale, soulignée par la Cour des comptes en 2024.
+- **Faisabilité juridique** : L'encadrement des coupes rases de plus de 2 hectares nécessite une modification du Code forestier. La gestion du loup (Convention de Berne) relève d'adaptations européennes récentes permettant plus de flexibilité pour les tirs de défense de la ruralité.
+- **Mise en œuvre** : L'interdiction d'exportation de grumes brutes ne peut se faire que si la capacité de sciage en France est simultanément augmentée (soutien aux scieries).
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague (pour les investissements lourds de l'ONF) / 🟢 Socle (transition des stations de ski)
-- **Lien avec la relance économique** : Investissement de long terme pour l'adaptation des filières bois et tourisme au changement climatique.
+- **Statut d'arbitrage** : 🟡 Mixte. Le reboisement et la transition 4 saisons des stations sont en 🟢 Socle. Le recrutement massif à l'ONF est en 🟡 Seconde vague (mais la dotation de maintien est garantie).
+- **Nature** : Investissement dans l'infrastructure naturelle et reconversion économique.
+- **Lien avec la relance** : La relocalisation de la transformation du bois réduit un déficit commercial de 7 Md€ (filière bois). La reconversion des stations permet de maintenir de l'activité touristique toute l'année, stabilisant l'emploi local.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- IGN, *Le mémento de l'inventaire forestier*, édition 2024.
-- Citepa, inventaire national des émissions, 2025.
-- Cour des comptes, *La gestion de l'Office national des forêts*, 2023 ; *Les stations de montagne face au changement climatique*, février 2024.
-- Ministère de l'Agriculture, *Assises de la forêt et du bois*, 2022.
-- Office français de la biodiversité, suivi de la population de loups, 2024-2025.
-- Forst BW (Bade-Wurtemberg) ; Office fédéral de l'environnement (Suisse), forêt de protection.
+- IGN, *Le mémento de l'inventaire forestier*, 2024.
+- Citepa, rapport d'inventaire national (format SECTEN), 2024.
+- Cour des comptes, *La gestion de l'Office national des forêts*, 2023.
+- Cour des comptes, *Les stations de montagne face au changement climatique*, 2024.
+- Office français de la biodiversité (OFB), *Bilan du suivi de la population de loups*, 2024.
+- FCBA (Institut Technologique Forêt Cellulose Bois-construction Ameublement), indicateurs 2024.

@@ -55,26 +55,32 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+ | Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+ | Aides à l'installation (Foncier et Prêts) | +0,4 Md€ | - | +0,4 Md€ | 2032 | Augmentation de la Dotation Jeunes Agriculteurs (DJA) et fonds de portage foncier (Bpifrance/SAFER) pour atteindre 20 000 installations/an. |
+ | Cantines locales (aide de l'État) | +0,4 Md€ | - | +0,4 Md€ | 2032 | Subvention aux collectivités : 0,20€ à 0,30€ par repas pour 1 milliard de repas/an respectant EGalim. |
+ | Sécurité sociale de l'alimentation (expérimentation) | +0,3 Md€ | - | +0,3 Md€ | 2032 | Expérimentation pour 100 000 bénéficiaires à hauteur de 150 €/mois (fonds partagés avec collectivités). |
+ | Accompagnement de la transition agroécologique | +0,3 Md€ | - | +0,3 Md€ | 2032 | Fonds national complémentaire à la PAC pour les alternatives aux pesticides et le maintien en bio. |
+ | Encadrement des marges / Prix plancher | - | - | 0 Md€ | 2032 | Mesure d'ordre public (législatif) sans coût budgétaire direct. |
+ | **Total** | **+1,4 Md€** | **0 Md€** | **+1,4 Md€** | **2032** | Le coût net est entièrement porté par le budget de l'État. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Le renouvellement des générations est le défi vital de la décennie : le départ en retraite de 50 % des exploitants risque de concentrer les terres et de menacer la souveraineté alimentaire (la part des fruits/légumes importés avoisine 50 %).
+- **Faisabilité juridique** : La mise en place de prix planchers garantis contrevient au principe européen de libre fixation des prix, sauf à passer par la contractualisation (EGalim). La protection du marché français via les clauses miroirs dépend de l'Union européenne.
+- **Mise en œuvre** : Les objectifs d'approvisionnement des cantines nécessitent un investissement colossal dans les outils de transformation (légumeries, abattoirs locaux).
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Soutien direct aux revenus agricoles et sécurisation de la souveraineté alimentaire.
+- **Statut d'arbitrage** : 🟢 Socle. La survie de l'appareil productif agricole est une priorité absolue.
+- **Nature** : Investissement dans l'outil de production et maintien du tissu rural.
+- **Lien avec la relance** : Maintenir l'agriculture sur le territoire évite la détérioration de notre balance commerciale (déficit hors vins et spiritueux). L'aide aux cantines stimule la demande pour les produits locaux.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- Agreste, *Recensement agricole 2020* ; *Graph'Agri 2024*.
+- Agreste, *Recensement agricole 2020* et *Graph'Agri 2024*.
 - INSEE, *Revenus des agriculteurs*, Insee Première, 2024.
-- Observatoire de la formation des prix et des marges des produits alimentaires, rapport au Parlement, 2025.
-- Cour des comptes européenne, rapports sur la répartition des aides de la PAC.
-- Agence Bio, *Chiffres de la bio 2024*.
-- Lois n° 2018-938 (Égalim), n° 2021-1357 (Égalim 2) et n° 2023-221 (Égalim 3).
+- Sénat, Rapport d'information sur la compétitivité de la ferme France, 2022.
+- Observatoire de la formation des prix et des marges des produits alimentaires, rapport 2024.
+- Cour des comptes européenne, rapports sur la PAC.
+- Lois n° 2018-938 (EGalim), n° 2021-1357 (EGalim 2) et n° 2023-221 (EGalim 3).

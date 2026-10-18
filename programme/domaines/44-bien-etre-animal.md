@@ -71,26 +71,32 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+ | Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+ | Transition : fin des cages | +0,1 Md€ | - | +0,1 Md€ | 2032 | Enveloppe de 500 M€ lissée sur 5 ans pour accompagner la transformation des bâtiments (volailles/porcs). |
+ | Contrôles : vidéosurveillance et vétérinaires | +0,1 Md€ | - | +0,1 Md€ | 2032 | Recrutement de personnels DDecPP (inspecteurs) et aide à l'équipement des abattoirs. |
+ | Maillage territorial : abattoirs de proximité | +0,05 Md€ | - | +0,05 Md€ | 2032 | Subventions à l'investissement (collectivités, coopératives, abattoirs mobiles). |
+ | Refuges, stérilisation des chats errants | +0,05 Md€ | - | +0,05 Md€ | 2032 | Création d'un fonds de dotation pérenne abondé par l'État pour soutenir la SPA et les associations. |
+ | Recherche : alternatives à l'expérimentation | +0,05 Md€ | - | +0,05 Md€ | 2032 | Fléchage des crédits de la recherche publique vers les méthodes substitutives in vitro / in silico. |
+ | **Total** | **+0,35 Md€** | **0 Md€** | **+0,35 Md€** | **2032** | (Arrondi à 0,4 Md€ pour la provision de gestion). |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : L'évolution de la société sur la condition animale est massive (ICE *End the Cage Age* soutenue par 1,4 million d'Européens). Imposer de nouvelles normes sans accompagner financièrement les éleveurs (souvent endettés) reviendrait à couler la filière française au profit d'importations standard. L'aide à l'investissement est la condition de la faisabilité sociale de cette réforme.
+- **Faisabilité juridique** : L'interdiction des exportations d'animaux vivants hors de l'UE et la fin des cages doivent être portées à l'échelle européenne pour éviter les distorsions de concurrence. Le "jour sans chasse" (dimanche) relève du pouvoir réglementaire ou législatif national.
+- **Mise en œuvre** : L'étourdissement réversible demande un dialogue interreligieux apaisé, en s'inspirant des jurisprudences européennes et des modèles étrangers (Belgique).
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague (pour l'accompagnement des filières) / 🟢 Socle (pour la fin des cages et la vidéosurveillance)
-- **Lien avec la relance économique** : Transition agroécologique nécessitant un soutien financier en fonction des recettes.
+- **Statut d'arbitrage** : 🟡 Mixte (0,2 Md€ en 🟢 Socle pour les abattoirs, la vidéosurveillance et les refuges ; 0,2 Md€ en 🟡 Seconde vague pour le financement massif de la transition des bâtiments agricoles).
+- **Nature** : Aides à l'investissement productif (bâtiments) et dépenses de contrôle (État).
+- **Lien avec la relance** : La montée en gamme (mode d'élevage étiqueté) permet aux éleveurs français de valoriser leurs produits à un meilleur prix face aux importations low-cost.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- Agreste, statistiques d'abattage, 2024.
-- Assemblée nationale, commission d'enquête sur les conditions d'abattage des animaux de boucherie, 2016.
-- Cour des comptes, *Le contrôle sanitaire des abattoirs*, 2023.
+- Agreste (Ministère de l'Agriculture), statistiques d'abattage et enquêtes de structures, 2024.
+- Cour des comptes, *Le contrôle sanitaire et le bien-être animal dans les abattoirs*, 2023.
+- ITAVI / IFIP (instituts techniques), données filières volailles et porcs, 2023.
+- Commission européenne, Réponse à l'initiative citoyenne "End the Cage Age", 2021.
+- Assemblée nationale, Rapport de la commission d'enquête sur les conditions d'abattage, 2016.
 - Loi du 30 novembre 2021 visant à lutter contre la maltraitance animale.
-- Commission européenne, réponse à l'initiative citoyenne *End the Cage Age*, juin 2021.
-- Office fédéral de l'agriculture (Suisse), programmes SST et SRPA.

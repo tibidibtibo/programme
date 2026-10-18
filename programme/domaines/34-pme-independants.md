@@ -11,8 +11,8 @@
 | PME et microentreprises | ≈ 99,8 % des entreprises, ≈ 50 % de l'emploi salarié | INSEE, *Les entreprises en France*, 2024 |
 | Entreprises artisanales | ≈ 1,9 million | CMA France |
 | Micro-entrepreneurs | ≈ 2,7 millions inscrits, dont ≈ 1,5 million actifs ; revenu moyen ≈ 600 €/mois | URSSAF ; INSEE |
-| Défaillances d'entreprises | ≈ 66 000 en 2024, plus haut niveau depuis 15 ans, surtout des TPE | Banque de France |
-| Retards de paiement | ≈ 15 Md€ de trésorerie manquante pour les PME ; l'État et les grandes entreprises parmi les mauvais payeurs | Observatoire des délais de paiement, 2024 |
+| Défaillances d'entreprises | ≈ 68 600 fin 2025, dépassant de 15% la moyenne pré-Covid, surtout des TPE | Banque de France, 2026 |
+| Retards de paiement | 13 Md€ de déficit de trésorerie pour les PME ; 52% des grandes entreprises paient au-delà de 60 jours | Observatoire des délais de paiement, 2024 |
 | Entreprises à transmettre | ≈ 500 000 à 700 000 dans les 10 ans, faute de repreneurs pour beaucoup | Bpifrance ; CPME |
 | Vacance commerciale | ≈ 11 à 14 % en moyenne dans les centres-villes, plus de 20 % dans certaines villes moyennes | Procos ; Codata |
 | Charge administrative | Les dirigeants de PME y consacrent en moyenne plusieurs heures par semaine | OCDE ; CPME |
@@ -77,24 +77,35 @@
 
 | Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
 |---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| 3. Garanties Bpifrance et prêts d'honneur | +0,3 Md€ | 0 | +0,3 Md€ | Objectif +30% de crédits, coût des bonifications et provisions pour pertes. |
+| 8. Assurance chômage indépendants | +0,4 Md€ | -0,2 Md€ (Cotisations) | +0,2 Md€ | Allocation de 12 mois, financement mixte. |
+| 9. Protection sociale micro-entrepreneurs | +0,2 Md€ | 0 | +0,2 Md€ | Accompagnement transitoire vers un alignement des cotisations. |
+| 11. Foncières de revitalisation | +0,1 Md€ | 0 | +0,1 Md€ | Capital apporté via Banque des Territoires / État pour l'ingénierie. |
+| 15. Stabilité aide apprentissage | 0 | 0 | 0 | Redéploiement d'aides existantes, pérennisation sans coût additionnel net (domaine 06). |
+| 13. Frais petits colis | -0,5 Md€ (Rendement) | N/A | -0,5 Md€ | 800 millions de colis × 2€ = 1,6 Md€ brut, moins baisse des volumes / coût de contrôle. |
+| **Total Domaine 34** | | | **+0,3 Md€** | Solde net sur l'emploi indépendant et l'artisanat. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Redonner de l'oxygène aux PME via leur trésorerie (retards de paiement qui coûtent 13 Md€) et un allègement normatif réel, pour relancer l'investissement local. Le surcoût pour l'État est très faible par rapport aux gains macroéconomiques attendus.
+- **Faisabilité** :
+  - **Délais de paiement à 30 jours** : Opposition des grandes entreprises qui verront leur besoin en fonds de roulement se dégrader ; faisable sur le plan législatif (Code de commerce).
+  - **Taxation des petits colis (2€)** : Conforme au démantèlement européen de la franchise douanière pour les envois de moins de 150€ (prévu en 2028), permet d'anticiper la mesure.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Amélioration de la trésorerie des PME (délais de paiement) pour soutenir l'investissement local.
+- **Délais de paiement à 30 jours** : 🟢 Socle (Gain immédiat de trésorerie pour les PME sans coût pour l'État. Nature : Régulation).
+- **Garanties Bpifrance / Prêts d'honneur** : 🟢 Socle (Soutien direct à l'investissement et à la création d'entreprise. Nature : Soutien à l'offre).
+- **Assurance chômage indépendants / Protection sociale** : 🟡 Seconde vague (Complexité de la fusion des régimes et montée en charge. Nature : Dépense sociale).
+- **Taxe petits colis / Foncières** : 🟢 Socle (Recettes finançant la revitalisation commerciale locale. Nature : Fiscalité / Aménagement).
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - INSEE, *Les entreprises en France*, édition 2024.
-- Banque de France, *Observatoire des délais de paiement*, rapport annuel 2024 ; statistiques de défaillances.
-- URSSAF, *Les auto-entrepreneurs*, bilans annuels.
+- Banque de France, statistiques de défaillances, bulletin 265, 2026.
+- Observatoire des délais de paiement, rapport annuel 2024.
 - Bpifrance Le Lab, *La transmission des PME*, 2023.
 - Procos, *Vacance commerciale dans les centres-villes*, 2024.
 - Directive (UE) 2024/2831 relative à l'amélioration des conditions de travail dans le cadre du travail via une plateforme.

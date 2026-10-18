@@ -9,11 +9,11 @@
 | Indicateur | Valeur | Source |
 |---|---|---|
 | Taux de chômage | 7,3 % (2024) | INSEE |
-| Taux d'emploi (15-64 ans) | 68,5 % (2024), en retard de 6 pts sur l'Allemagne | Eurostat |
+| Taux d'emploi (15-64 ans) | 68,8 % (2024), en retard sur l'Allemagne et l'UE (70,8 %) | Eurostat, Insee 2024 |
 | Salariés couverts par la négociation collective | 98 % | DARES |
-| Taux de syndicalisation | ≈ 10 %, parmi les plus faibles de l'OCDE | DARES / OCDE |
+| Taux de syndicalisation | 10,3 % (dont 7,8 % dans le privé), l'un des plus faibles de l'OCDE | DARES, 2023 |
 | Contrats courts (CDD de moins d'un mois) | ≈ 70 % des embauches | DARES |
-| Dépenses pour l'emploi (indemnisation + accompagnement) | ≈ 45 Md€/an | Cour des comptes, 2024 |
+| Dépenses pour l'emploi (soutien au revenu et indemnisation) | ≈ 50,2 Md€/an (sur 193,4 Md€ au total pour l'emploi) | DARES, 2024 |
 
 ## Ce qui marche ailleurs
 
@@ -47,18 +47,20 @@
 
 - **Justification** : Atteindre un taux d'emploi de 71 % est le levier unique qui génère les 12 Md€ d'effets retour finançant le socle. La flexisécurité protège les individus plutôt que les emplois inefficaces, favorisant la bascule vers l'industrie verte.
 - **Faisabilité** :
-  - Capacité de recrutement de 30 000 conseillers : Lourd. Nécessite une montée en charge sur 3 ans (2027-2030).
-  - Codétermination : Résistance juridique du patronat ; nécessite une modification du code de commerce et du code du travail.
+  - **Capacité de recrutement de 30 000 conseillers** : Lourd. Nécessite une montée en charge sur 3 ans (2027-2030) et une attractivité renforcée des métiers de l'accompagnement.
+  - **Codétermination** : Résistance juridique et politique du patronat ; nécessite une modification profonde du Code de commerce et du Code du travail, potentiellement un référendum.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : L'emploi est le pivot. Le chômage coûte (indemnités) et détruit le capital humain, l'emploi rapporte (impôts, cotisations, consommation). Ces mesures sont la clef de voûte macro-budgétaire du programme.
+- **Flexisécurité (Indemnisation 80%)** : 🟢 Socle (Contrepartie indispensable à la flexibilité, sécurise les parcours. Nature : Dépense sociale à fort rendement indirect).
+- **Contrat d'Engagement (Accompagnement)** : 🟢 Socle (Levier clé pour atteindre le plein emploi et les recettes de retour. Nature : Investissement dans le capital humain).
+- **Codétermination** : 🟡 Seconde vague (Complexité juridique, nécessite un consensus social préalable. Nature : Réforme structurelle).
+- **Chèque syndical / Bonus-Malus** : 🟢 Socle (Mesures à coût nul ou positif renforçant le dialogue social. Nature : Régulation).
 
 ## Sources
 
-- Eurostat, *Labour Force Survey*, 2024.
-- OCDE, base de données ICTWSS sur la syndicalisation.
-- DARES, *La négociation collective en 2023*, 2024.
-- Cour des comptes, *France Travail et la réforme de l'accompagnement*, 2024.
+- Eurostat, *Labour Force Survey*, données 2024.
+- Insee, *Enquête Emploi en continu*, bilan 2024.
+- DARES, *La syndicalisation en France*, données 2023 (parues en 2024).
+- DARES, *Dépenses en faveur de l'emploi et du marché du travail*, bilan 2024.
 - OFCE, *Évaluation macroéconomique de la flexisécurité*, 2022.

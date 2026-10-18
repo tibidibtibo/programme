@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programme - Éditeur Markdown</title>
+    <!-- Alpine.js -->
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Markdown Styles */
+        .prose h1 { @apply text-3xl font-bold mt-6 mb-4; }
+        .prose h2 { @apply text-2xl font-semibold mt-5 mb-3 border-b pb-2; }
+        .prose h3 { @apply text-xl font-medium mt-4 mb-2; }
+        .prose p { @apply mb-4 leading-relaxed; }
+        .prose ul { @apply list-disc list-inside mb-4; }
+        .prose ol { @apply list-decimal list-inside mb-4; }
+        .prose a { @apply text-blue-600 hover:underline cursor-pointer; }
+        .prose pre { @apply bg-gray-100 p-4 rounded-md mb-4 overflow-x-auto text-sm font-mono; }
+        .prose code { @apply bg-gray-100 px-1 py-0.5 rounded text-sm font-mono text-red-600; }
+        .prose pre code { @apply bg-transparent text-gray-800 p-0; }
+        .prose blockquote { @apply border-l-4 border-gray-300 pl-4 italic mb-4 text-gray-700; }
+        .prose table { @apply w-full border-collapse mb-4; }
+        .prose th, .prose td { @apply border border-gray-300 px-4 py-2 text-left; }
+        .prose th { @apply bg-gray-100 font-semibold; }
+
+        /* Alert blocks */
+        .alert { @apply p-4 mb-4 rounded-md border-l-4; }
+        .alert-note { @apply bg-blue-50 border-blue-500 text-blue-800; }
+        .alert-warning { @apply bg-yellow-50 border-yellow-500 text-yellow-800; }
+        .alert-important { @apply bg-purple-50 border-purple-500 text-purple-800; }
+        .alert-caution { @apply bg-red-50 border-red-500 text-red-800; }
+
+        .editor-textarea {
+            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        }
+
+        [x-cloak] { display: none !important; }
+    </style>
+</head>
+<body class="bg-gray-50 h-screen flex overflow-hidden text-gray-800" x-data="app()">
+
+    <!-- Sidebar -->
+    <aside class="w-64 bg-white border-r border-gray-200 flex flex-col h-full z-10 transition-transform transform"
+           :class="{'translate-x-0': sidebarOpen, '-translate-x-full': !sidebarOpen, 'fixed md:relative': true}">
+        <div class="p-4 border-b border-gray-200 flex justify-between items-center bg-gray-50">
+            <h2 class="font-bold text-lg">Programme</h2>
+            <button @click="sidebarOpen = false" class="md:hidden text-gray-500 hover:text-gray-700">✕</button>
+        </div>
+
+        <div class="p-3">
+            <input type="text" x-model="searchQuery" placeholder="Rechercher..."
+                   class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm">
+        </div>
+
+        <div class="flex-1 overflow-y-auto p-2">
+            <!-- Categories -->
+            <template x-for="(catTitle, catKey) in categories" :key="catKey">
+                <div x-show="filteredDocs(catKey).length > 0" class="mb-4">
+                    <h3 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-2 px-2" x-text="catTitle"></h3>
+                    <ul>
+                        <template x-for="doc in filteredDocs(catKey)" :key="doc.id">
+                            <li>
+                                <a @click.prevent="loadDocument(doc)"
+                                   :class="{'bg-blue-50 text-blue-700 font-medium': currentDoc && currentDoc.id === doc.id, 'text-gray-700 hover:bg-gray-100': currentDoc?.id !== doc.id}"
+                                   class="block px-2 py-1.5 text-sm rounded cursor-pointer truncate"
+                                   :title="doc.file_path"
+                                   x-text="doc.title"></a>
+                            </li>
+                        </template>
+                    </ul>
+                </div>
+            </template>
+
+            <div x-show="Object.keys(categories).every(k => filteredDocs(k).length === 0)" class="text-sm text-gray-500 text-center py-4">
+                Aucun résultat
+            </div>
+        </div>
+
+        <div class="p-3 border-t border-gray-200 bg-gray-50">
+            <button @click="syncDocuments()" :disabled="isSyncing" class="w-full flex items-center justify-center px-3 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 disabled:opacity-50">
+                <span x-show="!isSyncing">🔄 Synchroniser</span>
+                <span x-show="isSyncing">Sync...</span>
+            </button>
+        </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="flex-1 flex flex-col h-full overflow-hidden relative">
+        <!-- Top Navigation -->
+        <header class="bg-white shadow-sm border-b border-gray-200 p-4 flex justify-between items-center z-0">
+            <div class="flex items-center">
+                <button @click="sidebarOpen = !sidebarOpen" class="md:hidden mr-4 text-gray-500 hover:text-gray-700">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+                </button>
+                <div x-show="currentDoc" class="text-sm text-gray-500" x-text="currentDoc?.file_path" x-cloak></div>
+            </div>
+
+            <div x-show="currentDoc" class="flex space-x-2" x-cloak>
+                <button @click="showRevisions = true" class="px-3 py-1.5 text-sm bg-gray-100 text-gray-700 rounded-md hover:bg-gray-200 transition">
+                    Historique (v<span x-text="currentDoc?.version_count"></span>)
+                </button>
+                <button x-show="!editMode" @click="toggleEditMode()" class="px-3 py-1.5 text-sm bg-blue-600 text-white rounded-md hover:bg-blue-700 transition">
+                    Éditer
+                </button>
+                <button x-show="editMode" @click="cancelEdit()" class="px-3 py-1.5 text-sm bg-gray-300 text-gray-800 rounded-md hover:bg-gray-400 transition">
+                    Annuler
+                </button>
+                <button x-show="editMode" @click="saveDocument()" :disabled="isSaving" class="px-3 py-1.5 text-sm bg-green-600 text-white rounded-md hover:bg-green-700 transition disabled:opacity-50">
+                    <span x-show="!isSaving">Sauvegarder</span>
+                    <span x-show="isSaving">Enregistrement...</span>
+                </button>
+            </div>
+        </header>
+
+        <!-- Viewer / Editor Area -->
+        <div class="flex-1 overflow-auto p-4 md:p-8 relative">
+
+            <!-- Loading State -->
+            <div x-show="isLoading" class="absolute inset-0 flex items-center justify-center bg-white/80 z-20" x-cloak>
+                <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>
+            </div>
+
+            <div x-show="!currentDoc && !isLoading" class="flex items-center justify-center h-full text-gray-500" x-cloak>
+                <p>Sélectionnez un document dans la barre latérale pour commencer.</p>
+            </div>
+
+            <!-- View Mode -->
+            <article x-show="currentDoc && !editMode" x-ref="viewer" class="prose max-w-4xl mx-auto pb-20" x-html="currentDoc?.html" @click="handleLinks($event)" x-cloak></article>
+
+            <!-- Edit Mode (Split View) -->
+            <div x-show="currentDoc && editMode" class="h-full flex flex-col" x-cloak>
+                <!-- Toolbar -->
+                <div class="bg-gray-100 p-2 mb-2 rounded-md border border-gray-300 flex flex-wrap gap-2 text-sm justify-between items-center">
+                    <div class="flex flex-wrap gap-2">
+                        <button @click="insertAtCursor('# ')" class="px-2 py-1 bg-white border border-gray-300 rounded hover:bg-gray-50">H1</button>
+                        <button @click="insertAtCursor('## ')" class="px-2 py-1 bg-white border border-gray-300 rounded hover:bg-gray-50">H2</button>
+                        <button @click="insertAtCursor('### ')" class="px-2 py-1 bg-white border border-gray-300 rounded hover:bg-gray-50">H3</button>
+                        <span class="border-r border-gray-300"></span>
+                        <button @click="wrapAtCursor('**', '**')" class="px-2 py-1 font-bold bg-white border border-gray-300 rounded hover:bg-gray-50">B</button>
+                        <button @click="wrapAtCursor('*', '*')" class="px-2 py-1 italic bg-white border border-gray-300 rounded hover:bg-gray-50">I</button>
+                        <span class="border-r border-gray-300"></span>
+                        <button @click="insertAtCursor('- ')" class="px-2 py-1 bg-white border border-gray-300 rounded hover:bg-gray-50">• Liste</button>
+                        <button @click="wrapAtCursor('[', '](url)')" class="px-2 py-1 bg-white border border-gray-300 rounded hover:bg-gray-50">Lien</button>
+                        <button @click="insertAtCursor('\n| Titre 1 | Titre 2 |\n| ------- | ------- |\n| Cell 1  | Cell 2  |\n')" class="px-2 py-1 bg-white border border-gray-300 rounded hover:bg-gray-50">Tableau</button>
+                        <button @click="insertAtCursor('> [!NOTE]\n> ')" class="px-2 py-1 bg-white border border-gray-300 rounded hover:bg-gray-50">Alerte</button>
+                    </div>
+                </div>
+
+                <div class="flex-1 flex gap-4 min-h-[500px]">
+                    <!-- Editor Pane -->
+                    <div class="flex-1 flex flex-col border border-gray-300 rounded-md">
+                        <div class="bg-gray-50 px-3 py-1 border-b border-gray-300 text-xs font-semibold text-gray-500 uppercase">Markdown</div>
+                        <textarea x-model="editContent" x-ref="editor" @input="updatePreview"
+                                  class="flex-1 w-full p-4 focus:outline-none editor-textarea resize-none bg-white"></textarea>
+                    </div>
+
+                    <!-- Preview Pane -->
+                    <div class="flex-1 flex flex-col border border-gray-300 rounded-md bg-white">
+                        <div class="bg-gray-50 px-3 py-1 border-b border-gray-300 text-xs font-semibold text-gray-500 uppercase flex justify-between items-center">
+                            <span>Prévisualisation</span>
+                            <span x-show="isPreviewLoading" class="text-[10px] text-blue-500">Mise à jour...</span>
+                        </div>
+                        <div class="flex-1 p-4 overflow-y-auto prose max-w-none" x-html="previewHtml"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Revisions Modal -->
+    <div x-show="showRevisions" class="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4" x-cloak>
+        <div class="bg-white rounded-lg shadow-xl w-full max-w-3xl max-h-[90vh] flex flex-col" @click.away="showRevisions = false">
+            <div class="px-6 py-4 border-b border-gray-200 flex justify-between items-center">
+                <h3 class="text-lg font-bold">Historique des versions : <span x-text="currentDoc?.title"></span></h3>
+                <button @click="showRevisions = false" class="text-gray-500 hover:text-gray-700">✕</button>
+            </div>
+
+            <div class="flex-1 overflow-y-auto p-0">
+                <table class="min-w-full divide-y divide-gray-200">
+                    <thead class="bg-gray-50">
+                        <tr>
+                            <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Version</th>
+                            <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Date</th>
+                            <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Source</th>
+                            <th class="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody class="bg-white divide-y divide-gray-200">
+                        <template x-for="rev in revisions" :key="rev.id">
+                            <tr :class="{'bg-blue-50': rev.version_number === currentDoc?.version_count}">
+                                <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900" x-text="'v' + rev.version_number"></td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500" x-text="formatDate(rev.created_at)"></td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                                    <span class="px-2 py-1 text-xs rounded-full"
+                                          :class="{
+                                              'bg-green-100 text-green-800': rev.source === 'initial_scan',
+                                              'bg-blue-100 text-blue-800': rev.source === 'ui_edit',
+                                              'bg-yellow-100 text-yellow-800': rev.source === 'disk_change',
+                                              'bg-purple-100 text-purple-800': rev.source === 'restore'
+                                          }" x-text="rev.source"></span>
+                                    <span x-show="rev.diff_summary" class="ml-2 text-xs text-gray-400" x-text="rev.diff_summary"></span>
+                                </td>
+                                <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
+                                    <button @click="viewRevision(rev)" class="text-blue-600 hover:text-blue-900 mr-3">Voir</button>
+                                    <button @click="restoreRevision(rev)" x-show="rev.version_number !== currentDoc?.version_count" class="text-red-600 hover:text-red-900">Restaurer</button>
+                                </td>
+                            </tr>
+                        </template>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- View Revision Modal -->
+    <div x-show="viewingRevContent" class="fixed inset-0 bg-black/50 z-[60] flex items-center justify-center p-4" x-cloak>
+        <div class="bg-white rounded-lg shadow-xl w-full max-w-4xl h-[90vh] flex flex-col" @click.away="viewingRevContent = null">
+            <div class="px-6 py-4 border-b border-gray-200 flex justify-between items-center bg-gray-50 rounded-t-lg">
+                <h3 class="text-lg font-bold">Contenu - v<span x-text="viewingRevNumber"></span></h3>
+                <button @click="viewingRevContent = null" class="text-gray-500 hover:text-gray-700">✕</button>
+            </div>
+            <div class="flex-1 overflow-auto p-4 bg-gray-100">
+                <pre class="whitespace-pre-wrap font-mono text-sm" x-text="viewingRevContent"></pre>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('alpine:init', () => {
+            Alpine.data('app', () => ({
+                documents: [],
+                searchQuery: '',
+                currentDoc: null,
+                editMode: false,
+                editContent: '',
+                previewHtml: '',
+                isLoading: false,
+                isSaving: false,
+                isSyncing: false,
+                isPreviewLoading: false,
+                previewTimeout: null,
+                sidebarOpen: window.innerWidth > 768,
+
+                showRevisions: false,
+                revisions: [],
+                viewingRevContent: null,
+                viewingRevNumber: null,
+
+                categories: {
+                    'racine': '📌 Général & Accueil',
+                    'domaines': '🏛️ Domaines d\'action',
+                    'annexes': '📊 Annexes & Trajectoire',
+                    'lots': '📑 Lots de travail',
+                    'audit': '🔎 Audit',
+                    'autre': '📁 Autre'
+                },
+
+                async init() {
+                    await this.fetchDocuments();
+
+                    // Attempt to load index by default if no path in hash
+                    const hash = window.location.hash;
+                    if (hash && hash.startsWith('#path=')) {
+                        const path = decodeURIComponent(hash.substring(6));
+                        const doc = this.documents.find(d => d.file_path === path);
+                        if (doc) this.loadDocument(doc);
+                    } else {
+                        // Load index or programme-v3
+                        const indexDoc = this.documents.find(d => d.file_path === 'programme/00-index.md' || d.file_path === 'programme/programme-v3.md');
+                        if (indexDoc) this.loadDocument(indexDoc);
+                    }
+
+                    // Handle window resize for sidebar
+                    window.addEventListener('resize', () => {
+                        if (window.innerWidth > 768) {
+                            this.sidebarOpen = true;
+                        }
+                    });
+                },
+
+                async fetchDocuments() {
+                    try {
+                        const res = await fetch('/api/documents');
+                        this.documents = await res.json();
+                    } catch (e) {
+                        console.error("Failed to fetch documents", e);
+                    }
+                },
+
+                filteredDocs(category) {
+                    let docs = this.documents.filter(d => d.category === category);
+                    if (this.searchQuery) {
+                        const q = this.searchQuery.toLowerCase();
+                        docs = docs.filter(d =>
+                            d.title?.toLowerCase().includes(q) ||
+                            d.file_path.toLowerCase().includes(q)
+                        );
+                    }
+                    // Sort domains by number
+                    if (category === 'domaines') {
+                        docs.sort((a, b) => a.file_path.localeCompare(b.file_path));
+                    }
+                    return docs;
+                },
+
+                async loadDocument(docMeta) {
+                    if (this.editMode) {
+                        if (!confirm("Vous avez des modifications non enregistrées. Quitter ?")) return;
+                    }
+
+                    this.isLoading = true;
+                    this.editMode = false;
+                    if (window.innerWidth <= 768) this.sidebarOpen = false;
+
+                    try {
+                        const res = await fetch(`/api/documents/${docMeta.id}`);
+                        this.currentDoc = await res.json();
+                        window.location.hash = `path=${encodeURIComponent(this.currentDoc.file_path)}`;
+                        await this.fetchRevisions();
+                    } catch (e) {
+                        console.error("Failed to load document", e);
+                        alert("Erreur lors du chargement du document.");
+                    } finally {
+                        this.isLoading = false;
+                    }
+                },
+
+                handleLinks(event) {
+                    const el = event.target;
+                    if (el.tagName === 'A') {
+                        const href = el.getAttribute('href');
+                        // Handle relative markdown links
+                        if (href && !href.startsWith('http') && !href.startsWith('#')) {
+                            event.preventDefault();
+
+                            // Naive path resolution
+                            let currentParts = this.currentDoc.file_path.split('/');
+                            currentParts.pop(); // remove current filename
+
+                            let hrefParts = href.split('/');
+
+                            for (let p of hrefParts) {
+                                if (p === '.') continue;
+                                else if (p === '..') currentParts.pop();
+                                else currentParts.push(p);
+                            }
+
+                            const targetPath = currentParts.join('/');
+                            // Try to find it
+                            const targetDoc = this.documents.find(d => d.file_path === targetPath || d.file_path === 'programme/' + targetPath);
+
+                            if (targetDoc) {
+                                this.loadDocument(targetDoc);
+                            } else {
+                                console.log("Lien non résolu vers:", targetPath);
+                                alert("Document non trouvé dans l'application: " + targetPath);
+                            }
+                        }
+                    }
+                },
+
+                toggleEditMode() {
+                    this.editContent = this.currentDoc.content;
+                    this.previewHtml = this.currentDoc.html;
+                    this.editMode = true;
+                    setTimeout(() => {
+                        this.$refs.editor.focus();
+                    }, 50);
+                },
+
+                updatePreview() {
+                    clearTimeout(this.previewTimeout);
+                    this.isPreviewLoading = true;
+                    this.previewTimeout = setTimeout(async () => {
+                        try {
+                            const res = await fetch('/api/render', {
+                                method: 'POST',
+                                headers: { 'Content-Type': 'application/json' },
+                                body: JSON.stringify({ content: this.editContent })
+                            });
+                            if (res.ok) {
+                                const data = await res.json();
+                                this.previewHtml = data.html;
+                            }
+                        } catch(e) {
+                            console.error("Preview error", e);
+                        } finally {
+                            this.isPreviewLoading = false;
+                        }
+                    }, 500); // 500ms debounce
+                },
+
+                cancelEdit() {
+                    if (this.editContent !== this.currentDoc.content) {
+                        if (!confirm("Annuler les modifications ?")) return;
+                    }
+                    this.editMode = false;
+                },
+
+                async saveDocument() {
+                    this.isSaving = true;
+                    try {
+                        const res = await fetch(`/api/documents/${this.currentDoc.id}`, {
+                            method: 'PUT',
+                            headers: { 'Content-Type': 'application/json' },
+                            body: JSON.stringify({ content: this.editContent })
+                        });
+
+                        if (res.ok) {
+                            const result = await res.json();
+                            // Reload to get rendered html and updated metadata
+                            await this.loadDocument(this.currentDoc);
+                            this.editMode = false;
+                        } else {
+                            alert("Erreur lors de la sauvegarde");
+                        }
+                    } catch (e) {
+                        console.error("Save error", e);
+                        alert("Erreur de connexion");
+                    } finally {
+                        this.isSaving = false;
+                    }
+                },
+
+                async syncDocuments() {
+                    this.isSyncing = true;
+                    try {
+                        const res = await fetch('/api/sync', { method: 'POST' });
+                        const changes = await res.json();
+                        let msg = "Synchronisation terminée.\n";
+                        msg += `Créés: ${changes.created.length}\n`;
+                        msg += `Modifiés: ${changes.modified.length}\n`;
+                        msg += `Supprimés: ${changes.deleted.length}\n`;
+                        msg += `Déplacés: ${changes.moved.length}`;
+                        await this.fetchDocuments();
+                        if (this.currentDoc) {
+                            // Check if current doc was deleted
+                            const stillExists = this.documents.find(d => d.id === this.currentDoc.id);
+                            if (!stillExists) {
+                                this.currentDoc = null;
+                            } else {
+                                await this.loadDocument(stillExists);
+                            }
+                        }
+                        alert(msg);
+                    } catch(e) {
+                        alert("Erreur de synchronisation");
+                    } finally {
+                        this.isSyncing = false;
+                    }
+                },
+
+                async fetchRevisions() {
+                    if (!this.currentDoc) return;
+                    try {
+                        const res = await fetch(`/api/documents/${this.currentDoc.id}/revisions`);
+                        this.revisions = await res.json();
+                    } catch(e) {
+                        console.error(e);
+                    }
+                },
+
+                async viewRevision(rev) {
+                    try {
+                        const res = await fetch(`/api/documents/${this.currentDoc.id}/revisions/${rev.id}`);
+                        const fullRev = await res.json();
+                        this.viewingRevContent = fullRev.content;
+                        this.viewingRevNumber = fullRev.version_number;
+                    } catch(e) {
+                        alert("Erreur lors de la récupération de la révision");
+                    }
+                },
+
+                async restoreRevision(rev) {
+                    if(!confirm(`Êtes-vous sûr de vouloir restaurer la version ${rev.version_number} ?`)) return;
+
+                    try {
+                        const res = await fetch(`/api/documents/${this.currentDoc.id}/restore/${rev.id}`, { method: 'POST' });
+                        if (res.ok) {
+                            this.showRevisions = false;
+                            await this.loadDocument(this.currentDoc);
+                            alert("Version restaurée avec succès.");
+                        }
+                    } catch(e) {
+                        alert("Erreur lors de la restauration");
+                    }
+                },
+
+                formatDate(dateStr) {
+                    if (!dateStr) return '';
+                    const d = new Date(dateStr);
+                    return d.toLocaleString('fr-FR');
+                },
+
+                // Toolbar Helpers
+                insertAtCursor(text) {
+                    const el = this.$refs.editor;
+                    const start = el.selectionStart;
+                    const end = el.selectionEnd;
+                    this.editContent = this.editContent.substring(0, start) + text + this.editContent.substring(end);
+                    this.updatePreview();
+                    setTimeout(() => {
+                        el.selectionStart = el.selectionEnd = start + text.length;
+                        el.focus();
+                    }, 10);
+                },
+
+                wrapAtCursor(prefix, suffix) {
+                    const el = this.$refs.editor;
+                    const start = el.selectionStart;
+                    const end = el.selectionEnd;
+                    const selected = this.editContent.substring(start, end);
+                    this.editContent = this.editContent.substring(0, start) + prefix + selected + suffix + this.editContent.substring(end);
+                    this.updatePreview();
+                    setTimeout(() => {
+                        el.selectionStart = start + prefix.length;
+                        el.selectionEnd = el.selectionStart + selected.length;
+                        el.focus();
+                    }, 10);
+                }
+            }));
+        });
+    </script>
+</body>
+</html>

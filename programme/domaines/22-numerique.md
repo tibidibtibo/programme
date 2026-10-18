@@ -52,8 +52,25 @@
 - Illectronisme : sous 8 %.
 - Temps d'écran moyen des 12-17 ans : -1 heure par jour.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Gains de productivité systémiques par le numérique et l'IA, souveraineté technologique.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Synergy Research Group, *European cloud market*, 2024.
 - INSEE, *Une personne sur six n'utilise pas Internet*, Insee Première n° 1780, 2019 ; actualisation 2021.
 - Arcep, *Observatoire du très haut débit*, 2025.

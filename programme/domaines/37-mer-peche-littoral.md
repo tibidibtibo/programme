@@ -74,8 +74,25 @@
 - Âge moyen de la flotte de pêche : sous 25 ans.
 - Captures accidentelles de dauphins : -75 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Préservation de la biodiversité marine et adaptation du littoral, avec un impact fort sur l'économie bleue.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Service hydrographique et océanographique de la Marine (SHOM).
 - Cluster maritime français, *Chiffres clés de l'économie maritime*, 2024.
 - FranceAgriMer, *Les chiffres clés de la filière pêche et aquaculture*, 2024.

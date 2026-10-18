@@ -53,8 +53,25 @@
 - Installations : 20 000 par an.
 - Part de fruits et légumes produits en France : 65 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Soutien direct aux revenus agricoles et sécurisation de la souveraineté alimentaire.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Agreste, *Recensement agricole 2020* ; *Graph'Agri 2024*.
 - INSEE, *Revenus des agriculteurs*, Insee Première, 2024.
 - Observatoire de la formation des prix et des marges des produits alimentaires, rapport au Parlement, 2025.

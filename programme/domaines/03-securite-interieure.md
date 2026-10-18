@@ -49,8 +49,25 @@
 - Homicides liés au narcotrafic : -50 %.
 - Confiance des 18-24 ans dans la police : +15 points.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Régalien indispensable, ciblé sur le narcotrafic et l'économie souterraine (recouvrement des avoirs).
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - SSMSI, *Insécurité et délinquance en 2024 : bilan statistique*.
 - Sénat, *Narcotrafic, c'est maintenant ou jamais*, rapport de commission d'enquête, mai 2024.
 - Cour des comptes, *Les forces de sécurité intérieure*, 2021-2023.

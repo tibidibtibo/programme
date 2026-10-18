@@ -53,8 +53,25 @@
 - Décès dus à la pollution de l'air : -30 %.
 - 10 % du territoire en protection forte.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Dépenses d'infrastructure liées à l'eau et à l'économie circulaire génératrices d'activité.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Santé publique France, *Impact de la pollution de l'air ambiant sur la mortalité en France métropolitaine*, 2021.
 - ADEME, *Déchets — chiffres-clés*, édition 2024.
 - Cerema, *Observatoire de l'artificialisation des sols*, 2024.

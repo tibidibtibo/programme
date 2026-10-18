@@ -57,8 +57,25 @@
 - Fréquentation des TER : +50 %.
 - Âge moyen du réseau ferré : 25 ans.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Soutien au pouvoir d'achat des travailleurs et fluidification du marché du travail métropolitain.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - INSEE, *Mobilités professionnelles*, recensement 2021.
 - Citepa, *Rapport Secten*, édition 2024.
 - Conférence de financement « Ambition France Transports », conclusions, juillet 2025.

@@ -44,8 +44,25 @@
 - Étudiants internationaux : 500 000, dont 40 % venant d'Afrique.
 - Au moins une médiation de conflit menée ou co-menée par la France.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague (pour la hausse de l'APD à 0.55%)
+- **Lien avec la relance économique** : L'influence diplomatique accompagne le commerce extérieur, mais le coût de l'APD dépend des marges de manœuvre macroéconomiques.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - OCDE-CAD, statistiques d'aide publique au développement 2024.
 - Ministère de l'Europe et des Affaires étrangères, *États généraux de la diplomatie*, rapport 2023.
 - AEFE, chiffres clés 2025 ; Campus France, *Chiffres clés 2025*.

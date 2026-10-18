@@ -65,8 +65,25 @@
 - Directives anticipées rédigées : 40 % des plus de 50 ans.
 - Greffes : 8 000 par an.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Garantie du droit aux soins palliatifs et encadrement de l'aide à mourir.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Cour des comptes, *Les soins palliatifs : une offre de soins à renforcer*, juillet 2023.
 - Conseil économique, social et environnemental, *Rapport de la Convention citoyenne sur la fin de vie*, avril 2023.
 - Comité consultatif national d'éthique, avis 139, septembre 2022.

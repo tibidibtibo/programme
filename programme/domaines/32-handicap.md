@@ -73,8 +73,25 @@ Ce fichier complète la mesure 11 du [fichier 08](08-protection-sociale-retraite
 - Personnes contraintes de partir en Belgique : zéro nouveau départ.
 - Délai moyen des décisions MDPH : 2 mois.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague (pour la prestation d'assistance) / 🟢 Socle (AESH)
+- **Lien avec la relance économique** : Soutien à l'emploi des aidants et inclusion sur le marché du travail.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - DARES, *Travailleurs handicapés : quel accès à l'emploi ?*, 2024.
 - CNSA, baromètre des MDPH, 2024-2025.
 - Ministère de l'Éducation nationale, *Repères et références statistiques*, 2025.

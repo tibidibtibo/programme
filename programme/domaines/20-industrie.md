@@ -53,8 +53,25 @@
 - Emplois industriels : +300 000.
 - Solde commercial des biens hors énergie : à l'équilibre.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Cœur de la stratégie de relance : création d'emplois à forte valeur ajoutée, balance commerciale, souveraineté.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - INSEE, *Comptes de la Nation 2024*.
 - Direction générale des douanes, *Le chiffre du commerce extérieur*, bilan 2024.
 - Secrétariat général pour l'investissement, *France 2030 — rapport d'avancement*, 2025.

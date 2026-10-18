@@ -73,8 +73,25 @@
 - Écart entre dividendes versés et investissement des entreprises du CAC 40 : réduit de moitié.
 - 10 000 SCOP et SCIC.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Régulation financière visant à orienter l'épargne vers l'économie réelle (investissement productif).
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - ACPR, *Chiffres du marché français de la banque et de l'assurance*, 2024.
 - Sénat, *Aides publiques aux grandes entreprises*, rapport de la commission d'enquête, juillet 2025.
 - Loi n° 2013-672 du 26 juillet 2013 de séparation et de régulation des activités bancaires.

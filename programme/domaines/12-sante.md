@@ -66,8 +66,25 @@
 - Postes infirmiers vacants : divisés par 3.
 - Écart d'espérance de vie entre riches et pauvres : -2 ans.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague (pour les ratios complets) / 🟢 Socle (pour les centres de santé publics)
+- **Lien avec la relance économique** : La santé de la population active soutient la productivité ; financé par les gains d'efficience (pertinence des soins).
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - DREES, *Les dépenses de santé en 2024*, édition 2025 ; *Démographie des professionnels de santé*, 2025 ; *Établissements de santé*, édition 2024.
 - Assurance maladie, *Charges et produits pour 2026*, juillet 2025.
 - INSEE, *L'espérance de vie par niveau de vie*, Insee Première n° 1687, 2018.

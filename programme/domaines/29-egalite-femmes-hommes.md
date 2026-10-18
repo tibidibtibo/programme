@@ -71,8 +71,25 @@
 - Écart de salaire à temps de travail égal : sous 7 %.
 - Part de femmes à l'Assemblée nationale : au moins 45 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague (pour certaines aides) / 🟢 Socle (pour l'aspect juridique et pénal)
+- **Lien avec la relance économique** : L'égalité salariale et le retour à l'emploi soutiennent l'offre de travail.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - INSEE, *Écarts de salaire entre femmes et hommes*, Insee Focus, 2024-2025 ; enquête Emploi.
 - Ministère de l'Intérieur, *Étude nationale sur les morts violentes au sein du couple*, éditions 2023 et 2024.
 - SSMSI, *Les violences conjugales enregistrées par les services de sécurité*, 2024.

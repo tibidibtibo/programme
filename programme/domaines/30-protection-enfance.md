@@ -71,8 +71,25 @@
 - Part d'anciens enfants placés parmi les sans-domicile : divisée par 2.
 - Écart de dépense par enfant protégé entre départements : -50 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague
+- **Lien avec la relance économique** : Volet social conditionné au respect de la trajectoire budgétaire globale.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - DREES, *L'aide sociale à l'enfance*, édition 2024 ; ONPE, rapports annuels.
 - Assemblée nationale, commission d'enquête sur les manquements des politiques de protection de l'enfance, rapport d'avril 2025.
 - Commission indépendante sur l'inceste et les violences sexuelles faites aux enfants (CIIVISE), rapport final, novembre 2023.

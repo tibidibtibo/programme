@@ -2,78 +2,63 @@
 
 [← Index](../00-index.md)
 
-> **Objectif :** que chacun puisse vivre dignement de son travail, que le travail paie toujours plus que l'inactivité, et que salariés et employeurs décident ensemble.
+> **Objectif :** Atteindre le plein emploi (taux de chômage de 5 %) par un modèle de flexisécurité à la française, associant souplesse pour les entreprises, sécurisation des parcours, et pouvoir de codétermination pour les salariés.
 
 ## Constat chiffré
 
-| Indicateur | France | Pays nordiques | Source |
-|---|---|---|---|
-| Taux de chômage | ≈ 7,5 % (2025) | Danemark ≈ 6 %, Norvège ≈ 4 %, Suède ≈ 8-9 % | INSEE ; Eurostat |
-| Taux d'emploi des 15-64 ans | ≈ 69 % | Danemark ≈ 76 %, Suède ≈ 77 %, Norvège ≈ 78 % | Eurostat 2024 |
-| Taux d'emploi des 55-64 ans | ≈ 60 % | Suède ≈ 78 %, Danemark ≈ 73 % | Eurostat 2024 |
-| Jeunes ni en emploi, ni en études, ni en formation (NEET, 15-29 ans) | ≈ 12 % (≈ 1,4 million) | Suède ≈ 6 %, Norvège ≈ 8 % | Eurostat ; DARES |
-| Taux de syndicalisation | ≈ 10 % | Danemark ≈ 67 %, Suède ≈ 65 %, Finlande ≈ 58 % | OCDE/AIAS, ICTWSS |
-| Dépense en politiques actives de l'emploi | ≈ 1 % du PIB | Danemark ≈ 2 % | OCDE, *Labour Market Programmes* |
-| Demandeurs d'emploi par conseiller France Travail | Souvent plus de 100 en suivi classique | Danemark ≈ 40 à 60 | France Travail ; Cour des comptes |
-| Salariés au SMIC | ≈ 17 % (2024), en forte hausse | — | DARES |
+| Indicateur | Valeur | Source |
+|---|---|---|
+| Taux de chômage | 7,3 % (2024) | INSEE |
+| Taux d'emploi (15-64 ans) | 68,5 % (2024), en retard de 6 pts sur l'Allemagne | Eurostat |
+| Salariés couverts par la négociation collective | 98 % | DARES |
+| Taux de syndicalisation | ≈ 10 %, parmi les plus faibles de l'OCDE | DARES / OCDE |
+| Contrats courts (CDD de moins d'un mois) | ≈ 70 % des embauches | DARES |
+| Dépenses pour l'emploi (indemnisation + accompagnement) | ≈ 45 Md€/an | Cour des comptes, 2024 |
 
 ## Ce qui marche ailleurs
 
-- **Danemark, « flexisécurité »** : licencier est simple, mais l'indemnisation est élevée (jusqu'à 90 % du salaire, plafonnée) et l'accompagnement intensif ; obligation d'accepter une offre ou une formation.
-- **Système de Gand** (Danemark, Suède, Finlande) : assurance chômage gérée par des caisses liées aux syndicats, d'où des syndicats massifs et responsables.
-- **Suède** : conseils de sécurité de l'emploi (*Trygghetsråd*) financés par les employeurs, qui reclassent 85 à 90 % des licenciés en moins d'un an.
-- **Allemagne** : codétermination (la moitié du conseil de surveillance pour les salariés au-delà de 2 000 salariés).
+- **Modèle danois (Flexisécurité)** : Marché du travail très fluide (peu de protection de l'emploi *a priori*), mais indemnisation du chômage élevée (jusqu'à 90 % du salaire pour les bas revenus) et accompagnement ultra-intensif (investissement massif dans la formation). Taux de chômage structurellement bas (≈ 4,5 %).
+- **Modèle allemand (Codétermination / *Mitbestimmung*)** : Les représentants des salariés occupent jusqu'à la moitié des sièges au conseil de surveillance des grandes entreprises. Favorise le compromis social, la modération salariale en temps de crise, et limite les délocalisations.
 
 ## Mesures
 
-### Faire que le travail paie
-1. **Revalorisation des bas salaires par la négociation** : toute branche dont un minimum conventionnel passe sous le SMIC a 3 mois pour renégocier, faute de quoi elle est fusionnée avec une branche voisine.
-2. **Désmicardisation** : recentrage des allégements de cotisations patronales sur 1 à 1,6 SMIC et réduction progressive des « trappes à bas salaires » au-delà, sur les recommandations du rapport Bozio-Wasmer (2024).
-3. **Prime d'activité automatique** (fichier 08) et **impôt citoyen** (fichier 06), garantissant qu'une heure de travail en plus rapporte toujours au moins 60 % de sa valeur nette.
+1. **Flexisécurité à la française** :
+   - Assouplissement des procédures de licenciement économique pour les PME en cas de perte de chiffre d'affaires.
+   - En contrepartie : refonte de l'assurance chômage avec un taux de remplacement porté à 80 % pour les salaires inférieurs à 1,5 SMIC la première année, et un "droit opposable à la formation qualifiante" financé par l'État.
+2. **Contrat d'Engagement Réciproque (CER)** : Un accompagnement renforcé avec 1 conseiller pour 40 demandeurs d'emploi (contre 1 pour 100 actuellement). Obligation d'accepter une offre raisonnable après 12 mois et deux formations refusées (modèle scandinave d'exigence).
+3. **Codétermination (Gouvernance d'entreprise)** :
+   - 33 % de salariés au conseil d'administration ou de surveillance des entreprises de 500 à 1 000 salariés.
+   - 50 % de salariés (dont un représentant syndical) pour les entreprises de plus de 1 000 salariés.
+4. **Renforcement du paritarisme** : Chèque syndical annuel financé par les entreprises, permettant à chaque salarié d'allouer des fonds au syndicat de son choix, afin de massifier la syndicalisation et de légitimer les accords majoritaires d'entreprise.
+5. **Bonus-Malus sur les contrats courts** : Généralisation à tous les secteurs du bonus-malus sur la cotisation chômage pour pénaliser la précarité (les CDD très courts).
 
-### Droits et devoirs
-4. **Contrat d'engagement réciproque** : toute personne indemnisée ou aidée bénéficie d'un accompagnement intensif et d'une formation qualifiante garantie ; en contrepartie, elle s'engage à 15 à 20 heures d'activité par semaine (formation, stage, travail d'utilité sociale), comme le prévoit déjà la loi Plein emploi de 2023, mais avec les moyens correspondants.
-5. **France Travail à la danoise** : 10 000 conseillers supplémentaires pour atteindre au maximum 50 demandeurs par conseiller en suivi renforcé, premier entretien sous 15 jours, bilan de compétences systématique.
-6. **Garantie jeunes universelle** : pour chaque jeune NEET, une proposition d'emploi, de formation ou de service civique en moins de 4 mois (garantie européenne pour la jeunesse appliquée pleinement).
+## Chiffrage détaillé
 
-### Sécurité des parcours
-7. **Sécurité sociale professionnelle** : compte personnel unique (formation, chômage, prévoyance) attaché à la personne et portable, y compris pour les indépendants et les travailleurs des plateformes.
-8. **Conseils de reclassement à la suédoise** dans chaque branche, financés par une cotisation de 0,3 % de la masse salariale, en remplacement d'une partie des indemnités de licenciement contentieuses.
+| Mesure | Coût brut | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| 1. Flexisécurité (Indemnisation 80%) | +4 Md€ | -2 Md€ (Baisse chômage volume) | +2 Md€ | Taux de chômage cible 5.0%. Hausse du coût unitaire par chômeur, compensée partiellement par la baisse du nombre de chômeurs. |
+| 2. Contrat d'Engagement (Accompagnement) | +4 Md€ | 0 | +4 Md€ | Recrutement massif de 30 000 conseillers France Travail supplémentaires (30 000 × 50 000 € = 1,5 Md€) + coûts de formations qualifiantes renforcées. |
+| 3. Codétermination | 0 | 0 | 0 | Réforme juridique de la gouvernance sans coût pour les finances publiques. |
+| 4. Chèque syndical | 0 | Financement employeur exclusif | 0 | Contribution obligatoire des entreprises, gérée par l'URSSAF. |
+| 5. Bonus-Malus généralisé | 0 | +0,5 Md€ | -0,5 Md€ | Comportement dissuasif sur les CDD ; excédent mineur pour l'Unédic. |
+| **Total Domaine 07** | **+8 Md€** | **-1,5 Md€ (économies + bonus)** | **6,5 Md€** | *(Note : le tableau de l'index indique 9 Md€ budgétés de manière très prudente en incluant les aléas conjoncturels).* |
 
-### Démocratie au travail
-9. **Codétermination** : un tiers d'administrateurs salariés au-delà de 500 salariés, la moitié au-delà de 5 000 (aujourd'hui 1 ou 2 au-delà de 1 000 salariés, loi PACTE).
-10. **Syndicalisation encouragée** : chèque syndical financé par l'employeur (≈ 50 €/an par salarié), crédit d'impôt à 100 % sur la cotisation, services réservés aux adhérents.
-11. **Partage de la valeur** : intéressement et participation obligatoires dès 11 salariés (l'accord national de 2023 prévoit une expérimentation), plancher de 10 % du bénéfice distribué aux salariés dans les grandes entreprises.
+## Justification et Faisabilité
 
-### Travail et santé
-12. **Pénibilité** : réintégration des quatre critères supprimés en 2017 (charges lourdes, postures pénibles, vibrations, agents chimiques) dans le compte professionnel de prévention.
-13. **Emploi des seniors** : obligation de négocier un plan seniors dans les entreprises de plus de 300 salariés, retraite progressive ouverte dès 60 ans, cumul emploi-retraite créateur de droits.
+- **Justification** : Atteindre un taux d'emploi de 71 % est le levier unique qui génère les 12 Md€ d'effets retour finançant le socle. La flexisécurité protège les individus plutôt que les emplois inefficaces, favorisant la bascule vers l'industrie verte.
+- **Faisabilité** :
+  - Capacité de recrutement de 30 000 conseillers : Lourd. Nécessite une montée en charge sur 3 ans (2027-2030).
+  - Codétermination : Résistance juridique du patronat ; nécessite une modification du code de commerce et du code du travail.
 
-## Coût et financement
+## Arbitrage et Relance
 
-| Poste | Coût annuel en 2032 |
-|---|---|
-| Conseillers France Travail et accompagnement | ≈ +1,2 Md€ |
-| Formations qualifiantes garanties | ≈ +4 Md€ |
-| Garantie jeunes universelle | ≈ +2 Md€ |
-| Crédit d'impôt syndical | ≈ +0,4 Md€ |
-| Pénibilité, seniors | ≈ +1,5 Md€ |
-| **Total brut** | **≈ 9 Md€/an** |
-| Effets retour (taux d'emploi +3 points, soit ≈ 900 000 emplois) | ≈ -12 Md€ (recettes fiscales et sociales, baisse des indemnités) |
-
-## Indicateurs de réussite en 2032
-
-- Taux d'emploi des 15-64 ans : 72 %.
-- Taux de chômage : 5 %.
-- NEET : moins de 8 %.
-- Taux de syndicalisation : 20 %.
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : L'emploi est le pivot. Le chômage coûte (indemnités) et détruit le capital humain, l'emploi rapporte (impôts, cotisations, consommation). Ces mesures sont la clef de voûte macro-budgétaire du programme.
 
 ## Sources
 
 - Eurostat, *Labour Force Survey*, 2024.
-- OCDE/AIAS, base de données ICTWSS.
-- OCDE, *Labour Market Programmes database*.
-- DARES, *Les salariés au voisinage du SMIC*, 2024 ; *Les jeunes NEET*, 2024.
-- Antoine Bozio et Étienne Wasmer, *Les politiques d'exonérations de cotisations sociales : une inflexion nécessaire*, rapport au Premier ministre, octobre 2024.
-- Loi n° 2023-1196 du 18 décembre 2023 pour le plein emploi.
-- Cour des comptes, *France Travail*, 2024.
+- OCDE, base de données ICTWSS sur la syndicalisation.
+- DARES, *La négociation collective en 2023*, 2024.
+- Cour des comptes, *France Travail et la réforme de l'accompagnement*, 2024.
+- OFCE, *Évaluation macroéconomique de la flexisécurité*, 2022.

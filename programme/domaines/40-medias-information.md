@@ -68,8 +68,25 @@ Ce fichier détaille la mesure 10 du [fichier 26](26-institutions-democratie.md)
 - Aucun groupe dépendant de la commande publique propriétaire d'un média d'information.
 - Aucun département sans quotidien ou média d'information locale.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Régulation du marché de l'information et sanctuarisation de l'audiovisuel public.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - États généraux de l'information, rapport final, septembre 2024.
 - Cour des comptes, *Les aides à la presse écrite*, 2023 ; rapports sur France Télévisions.
 - Baromètre Kantar Public-La Croix sur la confiance des Français dans les médias, 2025.

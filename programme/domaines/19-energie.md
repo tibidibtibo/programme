@@ -49,8 +49,25 @@
 - Prix de l'électricité pour l'industrie électro-intensive : sous 70 €/MWh.
 - Précarité énergétique : sous 8 % des ménages.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Un prix de l'énergie compétitif et décarboné est la condition sine qua non de la réindustrialisation.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - RTE, *Bilan électrique 2024*, février 2025 ; *Futurs énergétiques 2050*, 2021.
 - Commission de régulation de l'énergie (CRE), rapports sur les coûts du nucléaire existant, 2023-2024.
 - Cour des comptes, *La filière EPR : une dynamique nouvelle, des risques persistants*, janvier 2025.

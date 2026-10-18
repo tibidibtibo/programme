@@ -65,8 +65,25 @@
 - Confiance interpersonnelle : de 25 % à 35 %.
 - Participation associative : 50 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague (pour l'extension du Service Civique au-delà de 250 000 et Culture à 1%) / 🟢 Socle (pour la phase 1)
+- **Lien avec la relance économique** : La cohésion nationale est le soubassement de la confiance, mais l'investissement massif dans la jeunesse est séquencé.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - European Values Study / World Values Survey, vague 2017-2022.
 - Cour des comptes, *Le service national universel*, septembre 2024.
 - Agence du service civique, rapport d'activité 2024.

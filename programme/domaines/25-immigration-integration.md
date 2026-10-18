@@ -58,8 +58,25 @@
 - Écart de taux d'emploi immigrés/non-immigrés : divisé par 2.
 - Discrimination à l'embauche : divisée par 2 aux testings.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Intégration par le travail pour répondre aux pénuries de main-d'œuvre dans certains secteurs.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - INSEE, *Immigrés et descendants d'immigrés*, édition 2023 et actualisation 2024.
 - Ministère de l'Intérieur, DGEF, *Les chiffres clés de l'immigration 2024*, janvier 2025.
 - OFPRA, *Rapport d'activité 2024*.

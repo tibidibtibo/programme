@@ -48,8 +48,25 @@
 - Densité carcérale : 100 % maximum.
 - Récidive à 5 ans : -15 points.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Régalien indispensable. La sécurité juridique est un prérequis pour le monde des affaires et la confiance économique.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Conseil de l'Europe, CEPEJ, *Systèmes judiciaires européens*, cycle d'évaluation 2024.
 - Ministère de la Justice, statistiques mensuelles de la population détenue, 2025 ; *Chiffres clés de la Justice*.
 - Contrôleur général des lieux de privation de liberté, rapports annuels.

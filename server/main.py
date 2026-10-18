@@ -156,14 +156,14 @@ def trigger_sync():
 # UI Routes
 @app.get("/", response_class=HTMLResponse)
 async def index(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request})
+    return templates.TemplateResponse(request=request, name="index.html")
 
 @app.get("/{path:path}", response_class=HTMLResponse)
 async def catch_all(request: Request, path: str):
     # This enables refreshing on any virtual URL
     if path.startswith("api/") or path.startswith("static/"):
         raise HTTPException(status_code=404)
-    return templates.TemplateResponse("index.html", {"request": request})
+    return templates.TemplateResponse(request=request, name="index.html")
 
 if __name__ == "__main__":
     uvicorn.run("server.main:app", host="127.0.0.1", port=8000, reload=True)

@@ -97,20 +97,25 @@ La lutte contre le narcotrafic (police, justice, saisie des avoirs) est traitée
 
 ## Arbitrage et Relance
 
+- **Fiscalité comportementale tabac et alcool (+1,5 Md€ de recettes nettes)** : 🟢 Socle. Rendement fiscal immédiat et baisse de la morbidité.
+- **Déploiement du modèle islandais Planet Youth (0,2 Md€)** : 🟢 Socle. Prévention précoce chez les adolescents.
+- **Sevrage tabagique, renforcement des CSAPA et réduction des risques (0,3 Md€)** : 🟢 Socle. Soin et accompagnement des personnes dépendantes.
+- **Dépénalisation de l'usage et réorientation policière vers les trafics** : 🟢 Socle. Réforme d'efficacité pénale et policière à coût nul. Total Socle du domaine 42 = -1,0 Md€ (excédent net de 1 Md€ réinjecté dans le financement du programme).
+
 | Mesure | Statut | Nature | Effet retour attendu |
 |---|---|---|---|
-| Fiscalité tabac/alcool | 🟢 Socle | Recette | Baisse de la morbidité (et donc dépenses AM) |
-| Planet Youth et CSAPA | 🟢 Socle | Dépense sociale | Hausse de la productivité, baisse des échecs scolaires |
-| Dépénalisation usage | 🟢 Socle | Normatif (réorganisation) | Efficacité policière et désengorgement judiciaire |
+| Fiscalité tabac/alcool (+1,5 Md€) | 🟢 Socle | Recette de régulation | Baisse de la morbidité et économies Assurance maladie |
+| Planet Youth et CSAPA (0,5 Md€) | 🟢 Socle | Dépense sociale / Prévention | Hausse de la productivité, baisse des décrochages scolaires |
+| Dépénalisation usage (modèle portugais) | 🟢 Socle | Normatif (réorganisation) | Efficacité policière ciblée sur les narcotrafiquants |
 
-*Lien avec la relance* : Domaine pourvoyeur de recettes immédiates (fiscalité) et d'économies massives de long terme pour l'Assurance maladie. Toutes les mesures sont donc inscrites au socle.
+*Lien avec la relance* : Domaine pourvoyeur de recettes immédiates (fiscalité) et d'économies massives de long terme pour l'Assurance maladie. Toutes les mesures sont donc inscrites au socle (excédent net de 1,0 Md€).
 
 ## Sources
 
-- Santé publique France, *Baromètre de Santé publique France 2023* ; *Bulletin épidémiologique hebdomadaire* sur la mortalité attribuable au tabac et à l'alcool.
-- Observatoire français des drogues et des tendances addictives (OFDT), *Drogues et addictions, chiffres clés 2024* ; *Le coût social des drogues*, 2023.
-- Cour des comptes, *La politique de lutte contre les consommations de stupéfiants*, 2023.
-- Inserm, *Évaluation des salles de consommation à moindre risque*, 2021.
-- Public Health Scotland, *Evaluation of Minimum Unit Pricing*, 2023.
-- Planet Youth, *The Icelandic Prevention Model*, 2020.
-- Transform Drug Policy Foundation, *Drug decriminalisation in Portugal*, 2021.
+- Santé publique France, *Baromètre de Santé publique France 2023* et *Bulletin épidémiologique hebdomadaire* sur la mortalité attribuable au tabac et à l'alcool. https://www.santepubliquefrance.fr/
+- Observatoire français des drogues et des tendances addictives (OFDT), *Drogues et addictions, chiffres clés 2024* ; Pierre Kopp, *Le coût social des drogues en France*, 2023. https://www.ofdt.fr/
+- Cour des comptes, *La politique de lutte contre les consommations de stupéfiants*, rapport public thématique, 2023. https://www.ccomptes.fr/
+- Inserm, *Évaluation scientifique des salles de consommation à moindre risque (SCMR)*, 2021. https://www.inserm.fr/
+- Public Health Scotland, *Evaluation of Minimum Unit Pricing for Alcohol in Scotland*, 2023.
+- Planet Youth, *The Icelandic Prevention Model for Substance Use*, 2020. https://planetyouth.org/
+- Transform Drug Policy Foundation, *Drug Decriminalisation in Portugal : Setting the Record Straight*, 2021. https://transformdrugs.org/

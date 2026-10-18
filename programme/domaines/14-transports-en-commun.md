@@ -78,8 +78,8 @@
 
 - **Pass France Mobilités (49 €)** : 🟢 Socle. [Soutien à l'emploi et à l'offre] Choc de demande majeur pour remplir les trains existants, soutien massif au pouvoir d'achat des travailleurs, avec un effet positif sur la mobilité géographique et l'accès à l'emploi.
 - **Régénération du réseau ferré et petites lignes** : 🟢 Socle. [Investissement productif] Investissement productif indispensable, créateur d'emplois dans les travaux publics.
-- **Trains de nuit et SERM** : 🟡 Seconde vague. [Investissement productif] Les temps de réalisation technique (achat de rames, gros travaux métropolitains) étaleront la dépense sur la décennie.
-- **Extension du Versement Mobilité** : 🟢 Socle. [Soutien à l'emploi et à l'offre] Le bénéfice direct du réseau express régional et du car pour les employeurs justifie leur contribution.
+- **Trains de nuit et SERM (0,75 Md€)** : 🟡 Tranche A (Investissement / Relance). [Investissement productif] Les temps de réalisation technique (achat de rames, gros travaux métropolitains) étaleront la dépense sur la décennie.
+- **Extension du Versement Mobilité** : 🟢 Socle. [Soutien à l'emploi et à l'offre] Le bénéfice direct du réseau express régional et du car pour les employeurs justifie leur contribution. Total Socle du domaine 14 = 2,5 Md€ (Tranche A = 0,75 Md€).
 
 **Lien avec la relance** : La régénération du réseau ferroviaire alimente la commande publique (travaux publics, industrie ferroviaire française type Alstom). La réduction du budget voiture des ménages libère du pouvoir d'achat réinvesti dans la consommation locale.
 ## Sources

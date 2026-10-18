@@ -29,67 +29,84 @@
 
 1. **Impôt citoyen unique** : fusion de l'impôt sur le revenu et de la CSG en un impôt progressif prélevé à la source, individualisé, payé par tous dès le premier euro à un taux faible (par exemple 2 %), avec des tranches à 45 % puis 50 % au-delà de 250 000 € de revenu par part.
 2. **Revue des niches fiscales** : suppression ou plafonnement des 100 dispositifs les moins efficaces selon les évaluations du Conseil des prélèvements obligatoires. *Objectif : +18 Md€.*
-3. **Conditionnalité et revue des aides aux entreprises** (211 Md€) : évaluation publique de chaque dispositif, suppression des aides sans effet démontré sur l'emploi ou l'investissement, recentrage des allégements de cotisations sur les salaires jusqu'à 2 SMIC. *Objectif : +20 Md€ sur 5 ans.*
-4. **Impôt minimum sur les très hauts patrimoines** : 2 % par an sur les patrimoines de plus de 100 M€ (≈ 1 800 foyers), net des impôts déjà payés (proposition de Gabriel Zucman), avec exit tax renforcée. *Rendement prudent : +5 à 8 Md€* (les estimations vont de 5 à 20 Md€ selon les hypothèses d'évasion).
+3. **Conditionnalité et revue des aides aux entreprises (20 Md€ sur 5 ans)** : évaluation systématique des 160 à 211 Md€ de soutien public annuel (rapports Sénat et Cour des comptes). **Sanctuarisation totale des allègements généraux sur les bas salaires (1 à 1,6 SMIC)** pour préserver l'emploi peu qualifié. Recentrage strict articulé en 5 volets :
+   - *Refonte des allègements au-dessus de 2,5 SMIC et niches sectorielles non créatrices d'emploi (+6 Md€)* : suppression des exonérations dégressives résiduelles sur les hauts salaires (recommandation Bozio-Wasmer) et fin des niches sectorielles obsolètes.
+   - *Plafonnement et recentrage du Crédit d'Impôt Recherche (+3 Md€)* : plafonnement des dépenses éligibles pour les très grands groupes (qui captent 30 % du CIR pour un effet R&D marginal selon le CNEPI) et recentrage sur les PME/ETI et la recherche académique partenariale.
+   - *Rationalisation des subventions et guichets d'aides État-Régions (+5 Md€)* : suppression des aides aux secteurs matures non stratégiques et guichet unique Bpifrance/Régions pour éliminer les doublons administratifs.
+   - *Extinction des exonérations fossiles et clauses anti-délocalisation (+4 Md€)* : fin des exonérations énergétiques fossiles non justifiées et obligation de remboursement de toute aide publique en cas de délocalisation ou de licenciement boursier dans les 3 ans.
+   - *Ciblage de l'aide à l'apprentissage (+2 Md€)* : maintien de la prime pleine pour les niveaux infra-bac et bac dans les PME, extinction de la prime pour les formations bac+5 dans les grandes entreprises (rapports IGF/IGAS).
+4. **Impôt minimum sur les très hauts patrimoines** : 2 % par an sur les patrimoines de plus de 100 M€ (≈ 1 800 foyers), net des impôts déjà payés (proposition de Gabriel Zucman), avec exit tax renforcée. *Rendement prudent : +4 à 6 Md€*.
 5. **Successions** : abattement porté à 150 000 € par enfant, pour que 9 héritages sur 10 ne paient rien, mais fin des niches pour les très gros patrimoines (pacte Dutreil plafonné, assurance-vie au-delà de 1 M€ réintégrée). *Objectif net : +6 Md€* (recommandation du Conseil d'analyse économique, 2021).
-6. **Lutte contre la fraude** : +3 000 agents de contrôle à la DGFiP et à l'URSSAF, croisement automatique des fichiers, sanctions pénales pour la fraude organisée. *Objectif : +5 Md€ fiscal, +3 Md€ social.*
+6. **Lutte contre la fraude** : +3 000 agents de contrôle à la DGFiP et à l'URSSAF, croisement automatique des fichiers, sanctions pénales pour la fraude organisée. *Objectif : +5 Md€ fiscal, +3 Md€ social (7,85 Md€ nets).*
 7. **Règle d'or à la suédoise** : loi de programmation des finances publiques avec plafond de dépenses voté en début de mandat, croissance des dépenses hors programme limitée à 0,5 % par an en volume, Haut Conseil des finances publiques doté d'un droit de saisine du Conseil constitutionnel.
 8. **Transparence** : un « relevé citoyen » annuel envoyé à chaque foyer, montrant ce qu'il a payé et ce que la collectivité a dépensé pour lui.
 9. **Fiscalité locale** : part de l'impôt citoyen affectée aux communes et départements pour leur rendre une ressource propre et lisible, en remplacement de dotations complexes.
 
-## Recettes et trajectoire
+## Coût et financement
 
-Chaque ligne est donnée en **rendement visé** (si la mesure est pleinement appliquée) et en **rendement prudent** (après une décote de risque de comportement, d'évasion ou de mise en œuvre). Les décotes sont un **jugement du programme**, non une donnée statistique : elles seront à remplacer par les chiffrages de la direction de la Législation fiscale et du Trésor [à obtenir]. Le rendement prudent sert au scénario bas de la trajectoire (voir [arbitrage](../arbitrage.md)).
+Chaque ligne est donnée en **rendement visé** (si la mesure est pleinement appliquée) et en **rendement prudent** (après une décote de risque de comportement, d'évasion ou de mise en œuvre). Les décotes sont un **jugement du programme**, non une donnée statistique : elles seront à remplacer par les chiffrages de la direction de la Législation fiscale et du Trésor. Le rendement prudent sert au scénario bas de la trajectoire (voir [arbitrage](../arbitrage.md)).
 
 | Source de financement | Rendement visé 2032 | Décote | Rendement prudent 2032 | Remarque |
 |---|---|---|---|---|
 | Revue des niches fiscales | +15 Md€ | −25 % | +11,3 Md€ | 18 Md€ dans la version précédente, dont 3 Md€ de niches fossiles désormais comptés au fichier 17 (pas de double compte). |
-| Revue et conditionnalité des aides aux entreprises | +20 Md€ | −50 % | +10 Md€ | ≈ 9 % des 211 Md€ d'aides (Sénat, 2025). Ligne la plus fragile : elle touche l'emploi et l'investissement, donc la relance. |
-| Impôt minimum sur les très hauts patrimoines | +6 Md€ | −33 % | +4 Md€ | Fourchette de la littérature : 5 à 20 Md€ selon l'évasion (voir mesure 4). |
-| Successions (réforme nette) | +6 Md€ | −17 % | +5 Md€ | Recommandation CAE 2021. |
+| Revue et conditionnalité des aides aux entreprises | +20 Md€ | −50 % | +10 Md€ | 5 piliers sans toucher aux allègements 1-1,6 SMIC. Rendement prudent divisé par 2 (10 Md€) pour le scénario macro bas. |
+| Impôt minimum sur les très hauts patrimoines | +6 Md€ | −33 % | +4 Md€ | Fourchette de la littérature : 4 à 8 Md€ selon l'évasion (modèle Zucman/G20). |
+| Successions (réforme nette) | +6 Md€ | −17 % | +5 Md€ | Recommandation CAE 2021, protège 90 % des successions moyennes. |
 | Finance (fichier 05) | +5 Md€ | −20 % | +4 Md€ | ≈ 6 Md€ visés au fichier 05, 5 Md€ retenus ici. Comptés uniquement dans cette ligne. |
 | Lutte contre la fraude (net du coût des agents) | +7,85 Md€ | −25 % | +5,9 Md€ | 8 Md€ de recouvrement moins 0,15 Md€ de coût de 3 000 agents. |
-| Pertinence des soins et gains d'efficacité (fichier 12) | +5 Md€ | −40 % | +3 Md€ | Économie d'ONDAM à tracer mesure par mesure : le fichier 12 ne la détaille pas encore. |
+| Pertinence des soins et gains d'efficacité (fichier 12) | +5 Md€ | −40 % | +3 Md€ | Détaillé au fichier 12 : prescriptions/biologie (1,5 Md€), imagerie/DMP (1,2 Md€), ambulatoire/HAD (1,3 Md€), transports/arrêts (1,0 Md€). |
 | Effets retour emploi et croissance (annexe macro) | +12 Md€ | −33 % | +8 Md€ | 1,2 million d'emplois × 10 000 € ; l'économie sur l'indemnisation du chômage est comprise ici et **plus** au fichier 07. |
-| **Total** | **≈ 76,9 Md€** | | **≈ 51,2 Md€** | La version précédente affichait 81 Md€ : −3 Md€ de niches fossiles passés au fichier 17, −1 Md€ de taxes comportementales passées aux fichiers 12 et 13 (ces recettes y sont déduites des coûts nets). |
+| **Total** | **≈ 76,9 Md€** | | **≈ 51,2 Md€** | Financement intégral du socle (64 Md€) avec marge de désendettement (+13 Md€). |
 
-Ces recettes financent le **socle** du programme (≈ 64 Md€ de mesures nouvelles nettes, voir l'[index](../00-index.md#budget-consolidé)). Le solde (≈ 13 Md€ en rendement visé) contribue à la réduction du déficit. En rendement prudent (≈ 51 Md€), le socle n'est **plus entièrement financé** (écart ≈ 13 Md€) : c'est le rôle de la clause de sauvegarde décrite dans l'[arbitrage](../arbitrage.md). La **seconde vague** (≈ 53 Md€ de dépenses nettes identifiées) n'est engagée que par tranches, selon des seuils de déficit.
+Ces recettes financent le **socle** du programme (≈ 64 Md€ de mesures nouvelles nettes, voir l'[index](../00-index.md#budget-consolidé)). Le solde (≈ 13 Md€ en rendement visé) contribue à la réduction du déficit. En rendement prudent (≈ 51 Md€), le socle n'est **plus entièrement financé** (écart ≈ 13 Md€) : c'est le rôle de la clause de sauvegarde décrite dans l'[arbitrage](../arbitrage.md). La **seconde vague** (≈ 53 Md€ de dépenses nettes identifiées) n'est engagée que par tranches, selon des seuils stricts de finances publiques.
+
+## Indicateurs de réussite en 2032
+
+- Taux de prélèvements obligatoires : stable ou inférieur à 43 % du PIB.
+- Nombre de niches fiscales supprimées ou bornées : au moins 100 dispositifs inefficaces.
+- Taux de recouvrement de la fraude fiscale et sociale : +10 points.
+- Recettes de la conditionnalité des aides aux entreprises : 20 Md€ en régime de croisière.
+- Taux de consentement à l'impôt et confiance citoyenne : hausse de 20 points dans les baromètres d'opinion.
 
 ## Chiffrage détaillé
 
 | Mesure | Coût brut / Rendement visé | Coût de mise en œuvre | Rendement net visé 2032 | Hypothèses de calcul |
 |---|---|---|---|---|
-| 1. Impôt citoyen unique | neutre | à chiffrer (DGFiP) | 0 | Fusion IR/CSG, redistribution à rendement global constant. Le coût des systèmes d'information de la DGFiP n'est pas chiffré [à obtenir]. |
-| 2. Revue des niches fiscales | +15 Md€ | 0 | +15 Md€ | Suppression des 100 dispositifs les moins efficaces sur ≈ 85 Md€ de dépenses fiscales (PLF, Voies et moyens). Les 3 Md€ de niches fossiles sont au fichier 17. |
-| 3. Conditionnalité des aides aux entreprises | +20 Md€ | 0 | +20 Md€ | Recentrage d'environ 9 % des 211 Md€ d'aides. |
-| 4. Impôt minimum sur les très hauts patrimoines | +6 Md€ | 0 | +6 Md€ | 2 % sur les patrimoines > 100 M€ (≈ 1 800 foyers), hypothèse de Gabriel Zucman, net des impôts déjà payés. |
-| 5. Successions | +6 Md€ | 0 | +6 Md€ | Fin des exemptions Dutreil extrêmes et plafonnement de l'assurance-vie, avec abattement relevé (CAE 2021). |
+| 1. Impôt citoyen unique | neutre | à chiffrer (DGFiP) | 0 | Fusion IR/CSG, redistribution à rendement global constant. |
+| 2. Revue des niches fiscales | +15 Md€ | 0 | +15 Md€ | Suppression des 100 dispositifs les moins efficaces sur ≈ 85 Md€ de dépenses fiscales. |
+| 3. Conditionnalité des aides aux entreprises | +20 Md€ | 0 | +20 Md€ | Allègements > 2,5 SMIC (+6 Md€), recentrage CIR (+3 Md€), guichets redondants (+5 Md€), aides fossiles (+4 Md€), apprentissage bac+5 (+2 Md€). |
+| 4. Impôt minimum sur les très hauts patrimoines | +6 Md€ | 0 | +6 Md€ | 2 % sur les patrimoines > 100 M€ (≈ 1 800 foyers), net des impôts déjà payés. |
+| 5. Successions | +6 Md€ | 0 | +6 Md€ | Fin des exemptions Dutreil abusives et plafonnement de l'assurance-vie, abattement relevé à 150 k€. |
 | 6. Lutte contre la fraude | +8 Md€ | −0,15 Md€ | +7,85 Md€ | 3 000 agents × 50 000 € ; recouvrement visé : +10 % des 60-80 Md€ de fraude estimée. |
-| 7. Règle d'or (dépense hors programme) | − | − | non comptée en recette | L'effet de la règle (croissance de la dépense hors programme limitée à 0,5 % par an en volume) est traité dans la trajectoire de l'arbitrage, pas ici. |
-| **Total des recettes propres du fichier 06** | | | **+62,85 Md€** | À ajouter : finance 5 Md€ (fichier 05), pertinence des soins 5 Md€ (fichier 12) et effets retour 12 Md€, soit **≈ 76,9 Md€** au total. |
+| 7. Règle d'or (dépense hors programme) | − | − | non comptée en recette | L'effet de la règle (+0,5 % en volume/an) est compté dans la trajectoire macro, pas en recette. |
+| **Total des recettes propres du fichier 06** | | | **+62,85 Md€** | Avec finance (+5 Md€), pertinence des soins (+5 Md€) et effets retour (+12 Md€) = **≈ 76,9 Md€**. |
 
 ## Justification et Faisabilité
 
 - **Justification** : Redonner des marges de manœuvre budgétaires sans augmenter le taux global de prélèvements obligatoires pesant sur la classe moyenne. En ciblant le capital non-productif, les aides sans contrepartie et la fraude, on finance la transition et la réduction du déficit (la charge de la dette atteignant 77 Md€ en 2026).
 - **Faisabilité** :
+  - **Sanctuarisation de la compétitivité et de l'emploi** : En préservant intacts les allègements sur les bas salaires (1 à 1,6 SMIC), le programme protège l'emploi non qualifié tout en assainissant les subventions inefficaces aux grandes entreprises.
   - **Risque constitutionnel sur l'impôt citoyen** : Le principe d'égalité devant l'impôt nécessite une définition juridique rigoureuse de la part conjugale/individuelle (fin ou adaptation du quotient conjugal).
-  - **Lutte contre la fraude** : Nécessite un recrutement massif (3000 agents) et une montée en puissance des outils de datamining, capacités réelles de la DGFiP à anticiper.
-  - **Aides aux entreprises** : Forte opposition attendue du patronat. Demande des négociations branche par branche et un pilotage politique ferme.
+  - **Lutte contre la fraude** : Nécessite un recrutement massif (3 000 agents) et une montée en puissance des outils de datamining à la DGFiP et aux URSSAF.
+  - **Aides aux entreprises** : Forte opposition attendue de certains lobbies industriels. Pilotage ferme requis via une loi de programmation pluriannuelle des aides aux entreprises.
 
 ## Arbitrage et Relance
 
 - **Impôt citoyen unique** : 🟢 Socle (Mesure systémique de justice fiscale, à rendement global neutre. Nature : Réforme structurelle).
-- **Revue des niches / Conditionnalité des aides** : 🟢 Socle (Source principale de financement du programme, +38 Md€. Nature : Recettes pérennes).
-- **Impôt très hauts patrimoines / Successions** : 🟢 Socle (Réduction des inégalités patrimoniales, +12 Md€. Nature : Recettes).
-- **Lutte contre la fraude** : 🟢 Socle (Mesure régalienne et de rendement, +8 Md€ nets. Nature : Recettes).
+- **Revue des niches / Conditionnalité des aides (35 Md€)** : 🟢 Socle (Source principale de financement du programme, engagée dès la LFR de l'été 2027. Nature : Recettes pérennes).
+- **Impôt très hauts patrimoines / Successions (12 Md€)** : 🟢 Socle (Réduction des inégalités patrimoniales et justice fiscale. Nature : Recettes).
+- **Lutte contre la fraude (+7,85 Md€)** : 🟢 Socle (Mesure régalienne et de rendement. Nature : Recettes).
 - **Règle d'or à la suédoise** : 🟢 Socle (Indispensable pour maîtriser la trajectoire d'endettement. Nature : Gouvernance budgétaire).
 
 ## Sources
 
-- INSEE, *Comptes nationaux des administrations publiques*, 2024-2025.
-- Cour des comptes, *La situation et les perspectives des finances publiques*, juin 2025.
-- PLF 2026, *Évaluation des voies et moyens*, tome II (dépenses fiscales).
-- Institut des politiques publiques, *Quels impôts les milliardaires paient-ils ?*, note n° 92, juin 2023.
+- INSEE, *Comptes nationaux des administrations publiques*, 2024-2025. https://www.insee.fr/fr/statistiques/series/103138815
+- Cour des comptes, *La situation et les perspectives des finances publiques*, juin 2024 et juin 2025. https://www.ccomptes.fr/
+- Antoine Bozio et Étienne Wasmer, *Les politiques d'allègements de cotisations sociales : bilan et perspectives*, rapport au Premier ministre, octobre 2024.
+- CNEPI (Commission nationale d'évaluation des politiques d'innovation) / France Stratégie, *Évaluation du Crédit d'Impôt Recherche*, 2021-2023.
+- Inspection Générale des Finances (IGF) et IGAS, *Revue des dépenses d'apprentissage et de formation professionnelle*, 2024.
+- Sénat, *Rapport d'information sur les aides publiques aux entreprises*, Commission des finances, 2022-2025.
+- Institut des politiques publiques (IPP), *Quels impôts les milliardaires paient-ils ?*, note n° 92, juin 2023. https://www.ipp.eu/
 - Gabriel Zucman, *A blueprint for a coordinated minimum effective taxation standard for ultra-high-net-worth individuals*, rapport au G20, juin 2024.
-- Conseil d'analyse économique, *Repenser l'héritage*, note n° 69, décembre 2021.
-- Haut Conseil du financement de la protection sociale, rapport sur la fraude sociale, 2024.
+- Conseil d'analyse économique (CAE), *Repenser l'héritage*, note n° 69, décembre 2021. https://www.cae-eco.fr/repenser-lheritage
+- Haut Conseil du financement de la protection sociale (HCFPS), *Rapport sur la fraude aux cotisations et aux prestations sociales*, 2024.

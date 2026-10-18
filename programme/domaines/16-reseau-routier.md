@@ -32,7 +32,7 @@
 6. **Pas de nouvelle autoroute** sauf exception justifiée par le désenclavement, priorité à l'entretien et à la sécurité des routes existantes.
 7. **Bornes de recharge** : une station de recharge rapide tous les 60 km sur l'ensemble du réseau national d'ici 2028 (déjà tous les 60 km sur le réseau européen principal selon le règlement AFIR).
 
-## Coût et recettes
+## Coût et financement
 
 | Poste | Effet annuel en 2032 |
 |---|---|

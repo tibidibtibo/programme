@@ -96,8 +96,8 @@
 
 - **Délais de paiement à 30 jours** : 🟢 Socle (Gain immédiat de trésorerie pour les PME sans coût pour l'État. Nature : Régulation).
 - **Garanties Bpifrance / Prêts d'honneur** : 🟢 Socle (Soutien direct à l'investissement et à la création d'entreprise. Nature : Soutien à l'offre).
-- **Assurance chômage indépendants / Protection sociale** : 🟡 Seconde vague (Complexité de la fusion des régimes et montée en charge. Nature : Dépense sociale).
-- **Taxe petits colis / Foncières** : 🟢 Socle (Recettes finançant la revitalisation commerciale locale. Nature : Fiscalité / Aménagement).
+- **Assurance chômage des indépendants (0,2 Md€)** : 🟡 Tranche A (Soutien aux indépendants / Relance). Montée en charge progressive conditionnée aux recettes de l'emploi. Total Tranche A = 0,2 Md€ (Socle net = 0,1 Md€, total net domaine 34 = 0,3 Md€).
+- **Taxe petits colis / Foncières de centre-ville** : 🟢 Socle (Recettes finançant la revitalisation commerciale locale). Total Socle du domaine 34 = 0,1 Md€.
 
 ## Sources
 

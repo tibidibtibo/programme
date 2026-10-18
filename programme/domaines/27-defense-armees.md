@@ -104,9 +104,9 @@
 
 ## Arbitrage et Relance
 
-- **1. Défense à 2,5 % du PIB (et LPM en cours)** : 🟢 Socle. Raison : Base de souveraineté indispensable face à la haute intensité (Priorité 2). Nature : Investissement productif et fonctionnement. Effet retour : Commandes à l'industrie française.
-- **1 (suite). Passage de 2,5 % à 3 % du PIB** : 🟡 Seconde vague. Raison : L'effort supplémentaire de 8 Md€ dépendra de la réalisation des recettes macroéconomiques. Nature : Investissement productif. Effet retour : R&D duale.
-- **4 à 21. Dissuasion, Effectifs, Garde nationale** : 🟢 Socle. Raison : Composantes clés de la résilience (Priorité 2). Nature : Investissement et fonctionnement. Effet retour : Nul financièrement, majeur stratégiquement.
+- **1. Défense à 2,5 % du PIB (et LPM en cours) (3,0 Md€)** : 🟢 Socle. Raison : Base de souveraineté indispensable face à la haute intensité (Priorité 2). Nature : Investissement productif et fonctionnement. Effet retour : Commandes directes à l'industrie française (BITD).
+- **1 (suite). Passage de 2,5 % à 3 % du PIB (8,0 Md€)** : 🟡 Tranche A (Régalien prioritaire). Raison : L'effort supplémentaire de 8 Md€ est engagé dès que le déficit est ≤ 3,5 % et la croissance ≥ 1,5 %. Nature : Investissement productif de défense et R&D duale.
+- **4 à 21. Dissuasion, Effectifs, Garde nationale** : 🟢 Socle. Raison : Composantes clés de la résilience nationale. Total Socle du domaine 27 = 3,0 Md€ (Tranche A = 8,0 Md€).
 
 ## Sources
 

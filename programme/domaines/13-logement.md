@@ -78,8 +78,8 @@
 - **150 000 logements sociaux et fin de la RLS** : 🟢 Socle. [Investissement productif] Mesure d'investissement productif soutenant fortement l'activité du BTP, avec un fort effet retour sur les recettes publiques (TVA sur la construction, cotisations sociales).
 - **Logement d'abord** : 🟢 Socle. [Dépense sociale] Dépense sociale à forte efficience (réduction structurelle des coûts de l'hébergement d'urgence).
 - **Loi SRU stricte et encadrement des loyers** : 🟢 Socle. [Soutien à l'emploi et à l'offre] Mesures réglementaires à coût nul.
-- **Foncier public et accession populaire** : 🟡 Seconde vague. [Investissement productif] La montée en puissance dépendra des capacités de financement du pôle bancaire public (CDC).
-- **Mobilisation des logements vacants (taxation)** : 🟢 Socle. [Soutien à l'emploi et à l'offre] Rendement fiscal immédiat.
+- **Foncier public et accession populaire (0,7 Md€)** : 🟡 Tranche A (Investissement / Relance). La montée en puissance dépendra des capacités de financement du pôle bancaire public (CDC) et des seuils d'activité macroéconomique.
+- **Mobilisation des logements vacants (taxation)** : 🟢 Socle. [Soutien à l'emploi et à l'offre] Rendement fiscal immédiat. Total Socle du domaine 13 = 4,2 Md€ (Tranche A = 0,7 Md€).
 
 **Lien avec la relance** : La construction de logements est un des secteurs à plus fort effet multiplicateur (estimé à 1,1). Chaque logement neuf construit génère en moyenne 1,5 à 2 emplois dans le bâtiment sur un an.
 ## Sources

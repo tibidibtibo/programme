@@ -104,10 +104,10 @@ Ce fichier est transversal. Il fixe la méthode et les outils communs ; les mesu
 
 ## Arbitrage et Relance
 
-- **Stocks stratégiques (Médicaments, Métaux)** : 🟢 Socle (Mesure de sécurité nationale et de continuité économique. Nature : Dépense de souveraineté).
-- **Fonds métaux critiques** : 🟢 Socle (Apport en capital extra-budgétaire, levier pour la réindustrialisation. Nature : Investissement productif).
-- **Supercalculateurs publics / Cloud souverain** : 🟡 Seconde vague (Projets lourds technologiquement, financement reporté après consolidation des bases. Nature : Investissement technologique).
-- **Haut-commissariat / Lois de blocage** : 🟢 Socle (Coût faible, impact direct de protection juridique. Nature : Régalien).
+- **Stocks stratégiques (Médicaments, Métaux) (0,7 Md€)** : 🟢 Socle. Mesure de sécurité nationale et de continuité économique.
+- **Pharmacie publique et relocalisation (0,3 Md€)** : 🟢 Socle. Sécurité sanitaire.
+- **Haut-commissariat et agence anti-extraterritorialité (0,1 Md€)** : 🟢 Socle. Régalien et protection des entreprises. Total Socle du domaine 28 = 1,1 Md€.
+- **Supercalculateurs publics et cloud souverain (0,3 Md€)** : 🟡 Tranche A (Investissement / Relance). Investissement technologique lourd déclenché par les critères macroéconomiques. Total Tranche A = 0,3 Md€ (total domaine 28 = 1,4 Md€).
 
 ## Sources
 

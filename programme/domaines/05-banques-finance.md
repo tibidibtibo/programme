@@ -54,7 +54,7 @@
 14. **Actionnariat salarié et coopératives** : droit de préemption des salariés en cas de cession d'entreprise de moins de 250 salariés, prêts à taux zéro de la Bpifrance pour les reprises en SCOP (≈ 4 500 SCOP et SCIC aujourd'hui, objectif 10 000 en 2032), exonération des droits de succession pour toute transmission d'entreprise à ses salariés.
 15. **Fonds Initiative France** : capital de départ jusqu'à 50 000 € pour les créateurs d'entreprise sans patrimoine, sous forme de prêts d'honneur garantis par le pôle public.
 
-## Coût et recettes
+## Coût et financement
 
 | Poste | Effet annuel |
 |---|---|

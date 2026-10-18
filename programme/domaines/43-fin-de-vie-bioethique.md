@@ -83,20 +83,24 @@
 
 ## Arbitrage et Relance
 
+- **Droit opposable aux soins palliatifs et unités dédiées (0,5 Md€)** : 🟢 Socle. Dignité humaine et égalité républicaine d'accès à la fin de vie sans douleur.
+- **Loi sur l'aide active à mourir strictement encadrée** : 🟢 Socle. Réforme sociétale issue de la Convention citoyenne, coût budgétaire nul.
+- **PMA universelle et plan national de don d'organes (0,1 Md€)** : 🟢 Socle. Économies majeures induites pour l'Assurance maladie par la baisse des dialyses. Total Socle du domaine 43 = 0,6 Md€ (seconde vague = 0 Md€).
+
 | Mesure | Statut | Nature | Effet retour attendu |
 |---|---|---|---|
-| Droit aux soins palliatifs | 🟢 Socle | Fonctionnement | Dignité et équité |
-| Loi aide à mourir | 🟢 Socle | Normatif (coût nul) | Liberté individuelle |
-| PMA et organes | 🟢 Socle | Santé publique | Économies indirectes (greffes) |
+| Droit aux soins palliatifs (0,5 Md€) | 🟢 Socle | Fonctionnement / Soins | Dignité et équité territoriale |
+| Loi aide à mourir | 🟢 Socle | Normatif (coût nul) | Liberté et autodétermination |
+| PMA et greffes d'organes (0,1 Md€) | 🟢 Socle | Santé publique | Économies indirectes massives (baisse des dialyses) |
 
-*Lien avec la relance* : Le coût modeste (0,6 Md€) justifie l'intégration au socle. Le renforcement des greffes (don d'organes) génère d'importantes économies pour l'Assurance maladie (arrêt des dialyses).
+*Lien avec la relance* : Le coût modeste (0,6 Md€) justifie l'intégration intégrale au socle. Le renforcement des greffes (don d'organes) génère d'importantes économies pour l'Assurance maladie (arrêt des dialyses chroniques).
 
 ## Sources
 
-- Cour des comptes, *Les soins palliatifs : une offre de soins à renforcer*, juillet 2023.
-- Conseil économique, social et environnemental, *Rapport de la Convention citoyenne sur la fin de vie*, avril 2023.
-- Comité consultatif national d'éthique, avis 139, septembre 2022.
-- Assemblée nationale, proposition de loi relative au droit à l'aide à mourir, adoptée en première lecture le 27 mai 2025.
-- Agence de la biomédecine, rapports médical et scientifique, 2024.
-- Commission fédérale de contrôle et d'évaluation de l'euthanasie (Belgique), rapports ; Oregon Health Authority, *Death with Dignity Act Annual Report*.
-- Organización Nacional de Trasplantes (Espagne).
+- Cour des comptes, *Les soins palliatifs : une offre de soins à renforcer*, rapport public thématique, juillet 2023. https://www.ccomptes.fr/
+- Conseil économique, social et environnemental (CESE), *Rapport de la Convention citoyenne sur la fin de vie*, avril 2023. https://www.lecese.fr/
+- Comité consultatif national d'éthique (CCNE), *Avis 139 : Questions éthiques relatives aux situations de fin de vie*, septembre 2022. https://www.ccne-ethique.fr/
+- Assemblée nationale, *Proposition de loi relative au droit à l'aide à mourir*, travaux parlementaires 2024-2025. https://www.assemblee-nationale.fr/
+- Agence de la biomédecine, *Rapport annuel médical et scientifique sur le prélèvement et la greffe*, 2024. https://www.agence-biomedecine.fr/
+- Commission fédérale de contrôle et d'évaluation de l'euthanasie (Belgique), rapports biennaux ; Oregon Health Authority, *Death with Dignity Act Annual Report*.
+- Organización Nacional de Trasplantes (ONT, Espagne), modèle d'organisation du don d'organes. https://www.ont.es/

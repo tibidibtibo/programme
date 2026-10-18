@@ -88,7 +88,8 @@
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Mixte (0,2 Md€ en 🟢 Socle pour les abattoirs, la vidéosurveillance et les refuges ; 0,2 Md€ en 🟡 Seconde vague pour le financement massif de la transition des bâtiments agricoles).
+- **Vidéosurveillance des abattoirs, contrôles vétérinaires et refuges (0,15 Md€)** : 🟢 Socle. Contrôles sanitaires et protection animale d'urgence.
+- **Accompagnement de la transition des bâtiments et fin des cages (0,2 Md€)** : 🟡 Tranche A (Transition agricole / Relance). Aide aux investissements productifs des éleveurs. Total Socle du domaine 44 = 0,15 Md€ (Tranche A = 0,2 Md€, total net = 0,35 Md€).
 - **Nature** : Aides à l'investissement productif (bâtiments) et dépenses de contrôle (État).
 - **Lien avec la relance** : La montée en gamme (mode d'élevage étiqueté) permet aux éleveurs français de valoriser leurs produits à un meilleur prix face aux importations low-cost.
 

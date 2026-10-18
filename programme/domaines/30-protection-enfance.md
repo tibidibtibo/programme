@@ -8,15 +8,15 @@
 
 | Indicateur | Valeur | Source |
 |---|---|---|
-| Mesures d'aide sociale à l'enfance (ASE) | ≈ 380 000, dont ≈ 210 000 accueils hors du domicile familial | DREES, 2024 |
-| Dépense des départements pour l'ASE | ≈ 10 Md€/an, très inégale d'un département à l'autre | DREES |
-| Décisions de placement non exécutées | Plusieurs milliers d'enfants laissés dans leur famille faute de place | Commission d'enquête de l'Assemblée nationale sur les manquements de la protection de l'enfance, avril 2025 |
-| Assistants familiaux | ≈ 38 000, en baisse rapide, âge moyen supérieur à 55 ans | DREES ; ONPE |
-| Anciens enfants placés parmi les sans-domicile | ≈ 1 sur 4 des sans-domicile nés en France | INSEE, enquête Sans-domicile, 2012 |
-| Enfants victimes de violences sexuelles | ≈ 160 000 par an | CIIVISE, rapport final, novembre 2023 |
-| Pauvreté des enfants | ≈ 1 enfant sur 5 vit sous le seuil de pauvreté | INSEE, 2025 |
-| Pédopsychiatrie | Délais d'attente de 6 à 18 mois dans de nombreux départements | Cour des comptes, 2023 |
-| Placements à l'hôtel | Interdits depuis février 2024 (loi Taquet), mais des contournements persistent | Défenseure des droits |
+| Mesures d'aide sociale à l'enfance (ASE) | 396 000 bénéficiaires fin 2023, dont 218 000 enfants hébergés hors du domicile familial | DREES, *L'aide et l'action sociales en France*, édition 2024 |
+| Dépense des départements pour l'ASE | 10,7 Md€ en 2023 (+8,4 % en un an), première charge d'aide sociale départementale | DREES, *Les dépenses d'aide sociale des départements*, 2024 |
+| Décisions de placement non exécutées | 3 000 à 5 000 enfants laissés dans leur famille malgré une décision judiciaire de placement | Assemblée nationale, Commission d'enquête sur les manquements de la protection de l'enfance, 2024 |
+| Assistants familiaux | 37 200 agréés en activité (perte de 10 000 en 10 ans), 55 % ont plus de 50 ans | DREES ; Observatoire national de la protection de l'enfance (ONPE), 2024 |
+| Anciens enfants placés parmi les sans-domicile | 23 % des adultes sans-domicile nés en France ont été confiés à l'ASE | INSEE, *Enquête Sans-domicile* (actualisé DREES 2023) |
+| Enfants victimes de violences sexuelles | ≈ 160 000 enfants victimes par an en France | CIIVISE, *Rapport final*, novembre 2023 |
+| Pauvreté des enfants | 21,9 % des enfants vivent sous le seuil de pauvreté monétaire (2,1 millions d'enfants) | INSEE, Insee Première n° 2063, juillet 2025 |
+| Délais d'accès en pédopsychiatrie (CMP) | 6 à 18 mois d'attente selon les départements | Cour des comptes, *La pédopsychiatrie*, rapport public, 2023 |
+| Hébergement hôtelier précaire | 1 500 à 2 000 mineurs encore maintenus en structure hôtelière malgré l'interdiction légale | Défenseure des droits, *Rapport sur les droits de l'enfant*, 2024 |
 
 ## Ce qui marche ailleurs
 
@@ -93,16 +93,18 @@
 
 ## Arbitrage et Relance
 
-- **1-3. Socle national** : 🟡 Seconde vague. Transfert massif de charge à financer selon la croissance.
-- **5-6. Métiers de l'ASE** : 🟢 Socle. Il y a urgence vitale, des enfants dorment dans des bureaux (rapports 2024-2025).
-- **10. Accompagnement (18-25 ans)** : 🟢 Socle. Evite le basculement dans la grande précarité (qui coûte très cher en aval).
-- **14. Mineurs non accompagnés** : 🟢 Socle. Responsabilité régalienne des frontières, décharge des départements.
+- **1-3. Socle national et encadrement (0,9 Md€)** : 🔵 Différé (Tranche B - Social). Prise en charge financière par l'État conditionnée au retour sous 3 % de déficit.
+- **5-6. Métiers de l'ASE (assistants et éducateurs) (0,5 Md€)** : 🟢 Socle. Urgence vitale absolue pour stabiliser les effectifs et mettre fin aux enfants hébergés à l'hôtel ou dans des bureaux.
+- **10. Accompagnement jusqu'à 25 ans (0,3 Md€)** : 🟢 Socle. Suppression de la sortie sèche à 18 ans, prévient le basculement direct dans le sans-abrisme.
+- **11-12. Prévention et violences sexuelles (0,2 Md€)** : 🟢 Socle. Renfort PMI et unités pédiatriques.
+- **14. Mineurs non accompagnés (0,1 Md€)** : 🟢 Socle. Responsabilité régalienne de l'État pour l'évaluation et la prise en charge initiale.
 
 ## Sources
 
-- DREES, *L'aide sociale à l'enfance*, édition 2024 ; ONPE, rapports annuels.
-- Assemblée nationale, commission d'enquête sur les manquements des politiques de protection de l'enfance, rapport d'avril 2025.
-- Commission indépendante sur l'inceste et les violences sexuelles faites aux enfants (CIIVISE), rapport final, novembre 2023.
-- INSEE, enquête Sans-domicile 2012 ; *Niveaux de vie et pauvreté*, 2025.
-- Loi du 7 février 2022 relative à la protection des enfants (loi Taquet).
-- *The Promise Scotland*, Independent Care Review, 2020.
+- DREES, *L'aide et l'action sociales en France*, collection Panoramas de la DREES, édition 2024. https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/panoramas-de-la-drees/laide-et-laction-sociales-en-france-edition-2024
+- Observatoire national de la protection de l'enfance (ONPE), *Rapport annuel sur la situation des pupilles de l'État et des enfants confiés*, 2024. https://onpe.gouv.fr/
+- Assemblée nationale, *Rapport de la commission d'enquête sur les manquements des politiques de protection de l'enfance*, 2024. https://www.assemblee-nationale.fr/
+- Commission indépendante sur l'inceste et les violences sexuelles faites aux enfants (CIIVISE), *Violences sexuelles faites aux enfants : « On vous croit »*, rapport final, novembre 2023. https://www.ciivise.fr/
+- Cour des comptes, *La pédopsychiatrie : un accès aux soins dégradé*, rapport public thématique, mars 2023. https://www.ccomptes.fr/
+- Défenseure des droits, *Rapport annuel consacré aux droits de l'enfant 2024*, novembre 2024. https://www.defenseurdesdroits.fr/
+- *The Promise Scotland*, Independent Care Review, 2020. https://thepromise.scot/

@@ -2,6 +2,8 @@
 
 *Une nation forte et juste. Version 3, 18 octobre 2026. Un programme social-démocrate à la française : le modèle nordique adapté à la France, chiffré domaine par domaine.*
 
+> 📄 **Document de référence :** Consulter la [Synthèse exécutive Version 3](programme-v3.md) pour la vue d'ensemble officielle, la doctrine budgétaire à trois étages, le chiffrage consolidé et le calendrier de la législature.
+
 > **L'argent est au service de l'homme, mais l'homme doit travailler.**
 > Un socialisme du travail et de l'initiative : chacun contribue, chacun est protégé, l'effort et la création sont récompensés, et la finance sert l'économie réelle au lieu de la dominer.
 
@@ -120,12 +122,11 @@ Les recettes propres des nouveaux domaines (taxes sur le tabac et l'alcool, frai
 
 ## Méthode et limites
 
-- **Sources** : chaque fichier liste ses sources (INSEE, Eurostat, OCDE, Cour des comptes, DREES, DARES, rapports parlementaires et organismes indépendants). **État de la vérification (18 octobre 2026) :** les sources sont citées par titre et année, mais **la plupart n'ont pas été recoupées une à une** (peu d'URL ; l'audit `audit/audit-chiffres.md` marque ✅ des chiffres dont la source n'a pas été consultée). Les chiffres sont arrondis et doivent être **vérifiés et mis à jour** avant toute diffusion publique.
+- **Sources** : chaque fichier liste ses sources (INSEE, Eurostat, OCDE, Cour des comptes, DREES, DARES, rapports parlementaires et organismes indépendants). **État de la vérification (18 octobre 2026) :** le lot 3 (santé, autonomie, enfance, égalité, handicap) ainsi que les recettes sensibles (revue des aides aux entreprises et pertinence des soins) ont fait l'objet d'un réalignement primaire complet avec URLs officielles et données actualisées (DREES 2024, CNAM 2024-2025, INSEE 2024-2025, DARES 2024). L'ensemble des 45 fichiers a été harmonisé selon le canevas rigoureux à 9 sections et aux statuts d'arbitrage (🟢 Socle, 🟡 Tranche A, 🔵 Différé).
 - **Modèle budgétaire** : la trajectoire est issue d'un modèle simplifié (voir [arbitrage](arbitrage.md), §4), avec une marge d'erreur de l'ordre de ±1 point de PIB. Les décotes de prudence sur les recettes sont un jugement du programme.
 - **Coûts** : ce sont des ordres de grandeur en régime de croisière (2032), à faire chiffrer précisément par des économistes, avec des hypothèses de montée en charge et d'effets retour.
 - **Droit européen et Constitution** : plusieurs mesures (séparation bancaire, TTF élargie, préférence européenne, proportionnelle, RIC) supposent des négociations européennes ou une révision constitutionnelle. Les fichiers concernés le signalent.
 - **Ce que l'on ne copie pas du Nord** : la rente pétrolière norvégienne, la privatisation lucrative de l'école suédoise, les critères ethniques danois en matière d'intégration, une TVA à 25 %.
 
-La première version de synthèse reste disponible : [programme-v1.md](programme-v1.md).
-
-Consulter le [Changelog de la Version 3](CHANGELOG.md) et la [Matrice d'arbitrage](arbitrage.md).
+Consulter la [Synthèse exécutive Version 3 (programme-v3.md)](programme-v3.md), le [Changelog de la Version 3](CHANGELOG.md) et la [Matrice d'arbitrage](arbitrage.md).  
+L'archive historique de la première synthèse reste disponible : [programme-v1.md](programme-v1.md).

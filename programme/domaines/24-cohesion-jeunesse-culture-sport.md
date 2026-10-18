@@ -85,21 +85,28 @@
 
 ## Arbitrage et Relance
 
+- **Service civique renforcé (palier socle à 200 000 - 250 000 jeunes) (2,6 Md€)** : 🟢 Socle. Doublement de l'existant, utilité publique et brassage social.
+- **Écoles populaires de la Nation (0,3 Md€)** : 🟢 Socle. Modèle danois des *folkehøjskoler*, internats de citoyenneté.
+- **Vie associative et crédit d'impôt (0,5 Md€)** : 🟢 Socle. Soutien direct au tissu associatif local.
+- **Sport pour tous et équipements de proximité (0,5 Md€)** : 🟢 Socle. Prévention santé et inclusion par le sport. Total Socle du domaine 24 = 3,9 Md€.
+- **Généralisation du service civique universel (250 000 jeunes supplémentaires) (2,6 Md€)** : 🔵 Différé (Tranche B - Social). Conditionné à la validation constitutionnelle et au retour sous 3 % de déficit.
+- **Budget de la Culture porté à 1 % de l'État (+1,5 Md€)** : 🔵 Différé (Tranche B - Social). Total différé = 4,1 Md€.
+
 | Mesure | Statut | Nature | Effet retour attendu |
 |---|---|---|---|
-| Service civique (250 000 jeunes) | 🟢 Socle (2,6 Md€) | Investissement social | Lien social, insertion, utilité publique |
-| Service civique (les 250 000 suivants) | 🟡 Seconde vague (2,6 Md€) | Investissement social | Cohésion nationale |
-| Culture à 1 % | 🟡 Seconde vague | Dépense sociale | Attractivité territoriale |
-| Écoles pop. et associations | 🟢 Socle | Dépense sociale | Capital social |
-| Sport | 🟢 Socle | Investissement social | Santé publique (prévention) |
+| Service civique socle (2,6 Md€) | 🟢 Socle | Investissement social | Lien social, insertion, utilité publique |
+| Écoles populaires et associations (0,8 Md€) | 🟢 Socle | Dépense sociale | Capital social et vie démocratique |
+| Sport pour tous (0,5 Md€) | 🟢 Socle | Investissement social | Santé publique et prévention |
+| Service civique universel complet (2,6 Md€) | 🔵 Différé (Tranche B) | Investissement social | Cohésion nationale |
+| Budget de la Culture à 1 % (1,5 Md€) | 🔵 Différé (Tranche B) | Dépense sociale | Rayonnement et attractivité territoriale |
 
-*Lien avec la relance* : Le coût du Service civique universel (5,2 Md€) est très lourd pour un impact économique indirect. Il est donc scindé : un doublement de l'existant (jusqu'à 250 000 jeunes) est financé dans le socle, la généralisation à toute la classe d'âge attendra les marges de manœuvre de la seconde vague.
+*Lien avec la relance* : Le coût du Service civique universel (5,2 Md€) est lourd pour un impact économique indirect. Il est donc scindé : le palier socle (200 000 à 250 000 jeunes avec le sport et les associations, soit 3,9 Md€) est sanctuarisé dans le socle, tandis que la généralisation à toute la classe d'âge et la culture à 1 % (4,1 Md€) sont différées en Tranche B.
 
 ## Sources
 
-- European Values Study / World Values Survey, vague 2017-2022 (Confiance interpersonnelle).
-- Cour des comptes, *Le service national universel*, septembre 2024 (Coût et inefficacité du SNU).
-- Agence du service civique, rapport d'activité 2024 (80 000 volontaires).
-- INJEP, *Les chiffres clés du sport*, 2024 ; *Les chiffres clés de la vie associative*, 2023.
-- Yann Algan, Pierre Cahuc, *La société de défiance*, 2007.
-- Folkehøjskolernes Forening i Danmark, statistiques 2024 (Écoles populaires).
+- World Values Survey / European Values Study, vague 2017-2022 (Confiance interpersonnelle). https://www.worldvaluessurvey.org/
+- Cour des comptes, *Le service national universel (SNU) : un dispositif incertain au coût disproportionné*, rapport public, septembre 2024. https://www.ccomptes.fr/
+- Agence du Service Civique, *Rapport d'activité annuel 2024*. https://www.service-civique.gouv.fr/
+- Institut national de la jeunesse et de l'éducation populaire (INJEP), *Les chiffres clés du sport 2024* et *Chiffres clés de la vie associative 2023*. https://injep.fr/
+- Yann Algan et Pierre Cahuc, *La société de défiance : comment le modèle social français s'autodétruit*, Éditions Rue d'Ulm, 2007.
+- Folkehøjskolernes Forening i Danmark, *Danish Folk High Schools statistics*, 2024. https://danishfolkhighschools.com/

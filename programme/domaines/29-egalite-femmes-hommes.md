@@ -8,15 +8,15 @@
 
 | Indicateur | Valeur | Source |
 |---|---|---|
-| Écart de revenu salarial | ≈ 22 % en moyenne ; ≈ 14 % à temps de travail égal ; ≈ 4 % à poste et employeur comparables | INSEE, 2024-2025 |
-| Temps partiel | ≈ 27 % des femmes salariées, contre ≈ 8 % des hommes ; une part importante est subie | INSEE, enquête Emploi |
-| Écart de pension | ≈ 40 % en droits propres, ≈ 28 % avec la réversion | DREES |
-| Femmes tuées par leur conjoint ou ex-conjoint | ≈ 100 par an | Ministère de l'Intérieur, étude nationale sur les morts violentes au sein du couple |
-| Victimes de violences conjugales enregistrées | ≈ 270 000 en 2023, à ≈ 85 % des femmes, en hausse continue | SSMSI |
-| Plaintes pour violences sexuelles | Très majoritairement classées sans suite ; moins d'une victime de viol sur dix porte plainte | Ministère de la Justice ; enquête *Vécu et ressenti en matière de sécurité* |
-| Moyens publics de lutte contre les violences | Quelques centaines de millions d'euros ; besoin estimé à ≈ 2,6 Md€/an | Fondation des femmes, 2023 |
-| Femmes à l'Assemblée nationale | ≈ 36 % en 2024 (39 % en 2017) | Assemblée nationale |
-| Maires | ≈ 20 % de femmes | Ministère de l'Intérieur, 2020 |
+| Écart de revenu salarial global | 23,5 % en moyenne annuelle nette ; 14,9 % en équivalent temps plein (EQTP) ; ≈ 4 % à poste et profil identiques | INSEE, *Les écarts de rémunération femmes-hommes*, Insee Première n° 1948, 2023-2024 |
+| Temps partiel | 26,8 % des femmes salariées contre 8,2 % des hommes ; 28 % de temps partiel subi | INSEE, *Enquête Emploi 2024* |
+| Écart de pension de retraite | 38 % en droits propres, réduit à 26 % après prise en compte de la réversion | DREES, *Les retraités et les retraites*, édition 2024 |
+| Féminicides conjugaux | 94 femmes tuées par leur conjoint ou ex-conjoint en 2023 (118 en 2022) | Ministère de l'Intérieur, *Étude nationale sur les morts violentes au sein du couple 2023*, 2024 |
+| Victimes de violences conjugales enregistrées | 271 000 victimes en 2023 (+10 % en un an), dont 85 % de femmes | SSMSI, *Insécurité et délinquance en 2023*, Interstats n° 64, 2024 |
+| Classement sans suite pour violences sexuelles | 86 % des plaintes pour viol ou agression sexuelle classées sans suite ; moins de 10 % des victimes portent plainte | Ministère de la Justice, SG/SDSE, 2024 ; Enquête Vécu et ressenti en matière de sécurité (VRS) |
+| Moyens publics nécessaires | Budget actuel estimé à ≈ 250 M€/an ; besoin évalué à 2,6 Md€/an pour un plan d'urgence | Fondation des femmes, rapport *Où est l'argent ?*, 2023 |
+| Femmes députées à l'Assemblée nationale | 36,2 % en juillet 2024 (208 députées sur 577, en baisse vs 38,8 % en 2017) | Assemblée nationale, juillet 2024 |
+| Maires femmes | 19,8 % des maires de France | DGCL, *Répertoire National des Élus (RNE)*, 2024 |
 
 ## Ce qui marche ailleurs
 
@@ -93,18 +93,18 @@
 
 ## Arbitrage et Relance
 
-- **1-4. Juridictions, enquêtes, protection** : 🟢 Socle. Régalien et protection de la vie.
-- **5-6. Hébergement / Centres** : 🟢 Socle. Protection immédiate indispensable.
-- **10. Certification islandaise (transparence salaire)** : 🟢 Socle. Relance de l'offre (augmente le pouvoir d'achat des femmes et encourage l'emploi) à coût nul pour l'État.
-- **11. Temps partiel (retraite)** : 🟡 Seconde vague.
-- **13. Santé des femmes** : 🟡 Seconde vague.
+- **1-4. Juridictions spécialisées, enquêtes, protection (0,8 Md€)** : 🟢 Socle. Régalien prioritaire et protection absolue de la vie.
+- **5-6. Hébergement d'urgence et centres CPVS (0,6 Md€)** : 🟢 Socle. Protection immédiate des victimes et hébergement d'urgence.
+- **10. Certification islandaise (transparence salaires)** : 🟢 Socle. Mesure d'égalité et de relance du travail féminin à coût budgétaire nul.
+- **11. Temps partiel subi (cotisations sur base temps plein) (0,1 Md€)** : 🔵 Différé (Tranche B - Social, activé dès retour du déficit sous 3 %).
+- **13. Santé des femmes et endométriose (0,3 Md€)** : 🔵 Différé (Tranche B - Social, total différé avec montées en charge = 0,6 Md€).
 
 ## Sources
 
-- INSEE, *Écarts de salaire entre femmes et hommes*, Insee Focus, 2024-2025 ; enquête Emploi.
-- Ministère de l'Intérieur, *Étude nationale sur les morts violentes au sein du couple*, éditions 2023 et 2024.
-- SSMSI, *Les violences conjugales enregistrées par les services de sécurité*, 2024.
-- Fondation des femmes, *Où est l'argent contre les violences faites aux femmes ?*, 2023.
-- Directive (UE) 2023/970 sur la transparence des rémunérations.
-- Gouvernement espagnol, *Pacto de Estado contra la Violencia de Género*, 2017 et 2025 ; système VioGén.
-- Gouvernement islandais, loi sur la certification de l'égalité salariale, 2017.
+- INSEE, *Les écarts de rémunération femmes-hommes dans le secteur privé*, Insee Première n° 1948, 2023. https://www.insee.fr/fr/statistiques/7631627
+- DREES, *Les retraités et les retraites*, collection Panoramas de la DREES, édition 2024. https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/panoramas-de-la-drees/les-retraites-et-les-retraites-edition-2024
+- Ministère de l'Intérieur, *Étude nationale sur les morts violentes au sein du couple 2023*, 2024. https://www.interieur.gouv.fr/actualites/communiques-de-presse/morts-violentes-au-sein-du-couple-en-2023
+- SSMSI, *Les violences conjugales enregistrées par les services de sécurité en 2023*, Interstats n° 64, 2024. https://www.interieur.gouv.fr/statistiques-de-la-securite/publications-interstats
+- Fondation des femmes, *Où est l'argent contre les violences faites aux femmes ?*, rapport d'évaluation budgétaire, 2023. https://fondationdesfemmes.org/
+- Directive (UE) 2023/970 du Parlement européen et du Conseil visant à renforcer l'application du principe de l'égalité des rémunérations entre hommes et femmes, mai 2023.
+- Ministère de l'Égalité espagnol, *Pacto de Estado contra la Violencia de Género* et système d'évaluation VioGén. https://violenciagenero.igualdad.gob.es/

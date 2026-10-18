@@ -88,20 +88,25 @@
 
 ## Arbitrage et Relance
 
+- **Testing public et sanctions des discriminations (0,05 Md€)** : 🟢 Socle. Soutien de l'offre de travail et égalité républicaine d'accès à l'emploi.
+- **Récépissé de contrôle d'identité et caméras-piétons (0,05 Md€)** : 🟢 Socle. Rétablissement de la confiance police-population.
+- **Moyens doublés pour le Défenseur des droits et magistrats spécialisés (0,05 Md€)** : 🟢 Socle. Effectivité des voies de recours.
+- **Conseil national de la laïcité et formations des agents (0,05 Md€)** : 🟢 Socle. Cohésion républicaine et respect strict de la loi de 1905. Total Socle du domaine 41 = 0,2 Md€ (seconde vague = 0 Md€).
+
 | Mesure | Statut | Nature | Effet retour attendu |
 |---|---|---|---|
-| Testing public / Sanctions | 🟢 Socle | Normatif | Inclusion sur le marché du travail (emploi) |
-| Récépissé et caméras | 🟢 Socle | Fonctionnement | Baisse des tensions, confiance |
-| Défenseur des droits (doublé) | 🟢 Socle | Fonctionnement | Accès au droit |
-| Conseil de la laïcité | 🟢 Socle | Fonctionnement | Cohésion sociale |
+| Testing public / Sanctions (0,05 Md€) | 🟢 Socle | Normatif / Régulation | Inclusion sur le marché du travail (emploi) |
+| Récépissé et caméras (0,05 Md€) | 🟢 Socle | Fonctionnement | Baisse des tensions, confiance républicaine |
+| Défenseur des droits et justice (0,05 Md€) | 🟢 Socle | Fonctionnement | Accès effectif au droit |
+| Conseil de la laïcité (0,05 Md€) | 🟢 Socle | Fonctionnement | Cohésion républicaine et apaisement |
 
 *Lien avec la relance* : Le budget de 0,2 Md€ est intégré au socle. Le testing et la lutte contre les discriminations à l'embauche participent directement à la relance de l'emploi en réintégrant des profils écartés du marché du travail.
 
 ## Sources
 
-- DARES et ISM Corum, *Discrimination à l'embauche selon l'origine : que nous apprend le testing auprès des grandes entreprises ?*, 2021.
-- Défenseur des droits, *Enquête sur l'accès aux droits : relations police/population*, 2017 ; rapports annuels.
-- Conseil d'État, décision du 11 octobre 2023 sur les contrôles d'identité discriminatoires.
-- CNCDH, *Rapport sur la lutte contre le racisme, l'antisémitisme et la xénophobie*, 2024.
-- SSMSI, *Les atteintes à caractère raciste et anti-LGBT+ enregistrées*, 2024-2025.
-- Loi du 9 décembre 1905 concernant la séparation des Églises et de l'État ; loi du 24 août 2021.
+- DARES et ISM Corum, *Discrimination à l'embauche selon l'origine : que nous apprend le testing auprès des grandes entreprises ?*, 2021. https://dares.travail-emploi.gouv.fr/
+- Défenseur des droits, *Enquête sur l'accès aux droits : relations police/population*, 2017 et rapports annuels 2024. https://www.defenseurdesdroits.fr/
+- Conseil d'État, décision d'assemblée du 11 octobre 2023 relative aux contrôles d'identité dits « au faciès ». https://www.conseil-etat.fr/
+- Commission nationale consultative des droits de l'homme (CNCDH), *Rapport sur la lutte contre le racisme, l'antisémitisme et la xénophobie 2023-2024*, La Documentation française, 2024. https://www.cncdh.fr/
+- SSMSI, *Les atteintes à caractère raciste, xénophobe et anti-LGBT+ enregistrées par les services de sécurité*, Interstats, 2024.
+- Loi du 9 décembre 1905 concernant la séparation des Églises et de l'État.

@@ -91,7 +91,8 @@
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Mixte (0,8 Md€ en 🟢 Socle pour les avions et le fonds Barnier, 0,4 Md€ en 🟡 Seconde vague pour la réserve et l'extension massive de la formation).
+- **Pompiers volontaires, Canadairs et Fonds Barnier (0,8 Md€)** : 🟢 Socle. Dépense régalienne d'urgence face au réchauffement climatique et garantie d'assurabilité des communes.
+- **Réserve citoyenne et extension de la formation aux premiers secours (0,4 Md€)** : 🟡 Tranche A (Sécurité civile / Relance). Déclenchée selon les seuils d'activité macro. Total Socle du domaine 38 = 0,8 Md€ (Tranche A = 0,4 Md€, total net = 1,2 Md€).
 - **Nature** : Dépense régalienne (sécurité civile) et investissements d'adaptation climatique.
 - **Lien avec la relance** : La réparation préventive des infrastructures et l'assurabilité des collectivités sont des garanties de la poursuite de l'activité économique (PME) sur tout le territoire (les zones inondables abritent une part massive de la production nationale).
 

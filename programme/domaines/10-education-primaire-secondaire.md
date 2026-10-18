@@ -93,21 +93,28 @@
 
 ## Arbitrage et Relance
 
+- **Deuxième adulte en CP/CE1 et soutien ciblé (1,2 Md€)** : 🟢 Socle. Investissement productif réduisant l'échec scolaire précoce.
+- **Pré-recrutement des enseignants dès la L3 (1,0 Md€)** : 🟢 Socle. Réponse d'urgence à la crise des concours et reconstitution du vivier.
+- **Mixité sociale et conditionnalité du financement privé sous contrat** : 🟢 Socle. Réforme normative à coût nul.
+- **Socle de revalorisation ciblée (1,0 Md€)** : 🟢 Socle. Mesure d'attractivité immédiate pour les zones REP+. Total Socle du domaine 10 = 3,2 Md€.
+- **Revalorisation générale (+20 %) (4,5 Md€)** : 🔵 Différé (Tranche B - Social). Mesure lourde conditionnée au respect des critères de finances publiques (déficit ≤ 3 %).
+- **Généralisation des classes de 20 élèves et aides (2,3 Md€)** : 🔵 Différé (Tranche B - Social). Total différé = 6,8 Md€.
+
 | Mesure | Statut | Nature | Effet retour attendu |
 |---|---|---|---|
-| Revalorisation (+20 %) | 🟡 Seconde vague | Dépense sociale | Maintien du service public |
-| Deuxième adulte et soutien | 🟢 Socle | Investissement productif | Baisse de l'échec scolaire, gain de productivité à long terme |
-| Classes à 20 | 🟢 Socle | Dépense sociale | Profite de la baisse démographique |
-| Pré-recrutement | 🟢 Socle | Investissement | Résolution de la crise des concours |
+| Deuxième adulte et soutien (1,2 Md€) | 🟢 Socle | Investissement productif | Baisse de l'échec scolaire, gain de productivité à long terme |
+| Pré-recrutement (1,0 Md€) | 🟢 Socle | Investissement | Résolution de la crise des concours |
+| Revalorisation ciblée REP+ (1,0 Md€) | 🟢 Socle | Maintien du service public | Attractivité dans les zones prioritaires |
 | Mixité et financement privé | 🟢 Socle | Normatif (coût nul) | Cohésion et égalité des chances |
-| Cantines, internats, aides | 🟡 Seconde vague | Dépense sociale | Lutte contre la pauvreté infantile |
+| Revalorisation générale (+20 %) (4,5 Md€) | 🔵 Différé (Tranche B) | Dépense sociale | Maintien du service public |
+| Classes de 20 et cantines/aides (2,3 Md€) | 🔵 Différé (Tranche B) | Dépense sociale | Lutte contre la pauvreté infantile |
 
-*Lien avec la relance* : L'amélioration du capital humain est le premier moteur de la croissance de long terme. Cependant, en raison de son coût (10 Md€ nets), la revalorisation générale de 20 % est conditionnée aux recettes de la Seconde vague (cf. `arbitrage.md`), pour ne pas dégrader le déficit immédiat. Le soutien immédiat et le pré-recrutement, moins coûteux et vitaux, sont garantis dans le Socle.
+*Lien avec la relance* : L'amélioration du capital humain est le premier moteur de la croissance de long terme. Cependant, en raison de son coût (10 Md€ nets), la revalorisation générale de 20 % et les classes de 20 sont différées en seconde vague (Tranche B, cf. `arbitrage.md`), pour ne pas dégrader le déficit immédiat. Le soutien immédiat, le pré-recrutement et l'amorce ciblée (3,2 Md€) sont sanctuarisés dans le Socle.
 
 ## Sources
 
-- OCDE, *PISA 2022 Results (Volume I)*, décembre 2023 (Score mathématiques France : 474).
-- OCDE, *Regards sur l'éducation 2024* (Écarts de salaires et taille des classes).
-- DEPP, *Repères et références statistiques 2024* (Sorties sans diplôme, baisse démographique projetée).
-- Cour des comptes, *L'enseignement privé sous contrat*, juin 2023 (Recommandation sur la modulation des moyens selon l'IPS).
-- Yann Algan, Pierre Cahuc, Andrei Shleifer, « Teaching Practices and Social Capital », *AEJ: Applied Economics*, 2013.
+- OCDE, *PISA 2022 Results (Volume I)*, décembre 2023. https://www.oecd.org/pisa/
+- OCDE, *Regards sur l'éducation 2024 (Education at a Glance)*, 2024. https://www.oecd.org/education/education-at-a-glance/
+- DEPP, *Repères et références statistiques 2024*, Ministère de l'Éducation nationale. https://www.education.gouv.fr/reperes-et-references-statistiques-2024-415448
+- Cour des comptes, *L'enseignement privé sous contrat*, rapport public thématique, juin 2023. https://www.ccomptes.fr/
+- Yann Algan, Pierre Cahuc, Andrei Shleifer, « Teaching Practices and Social Capital », *American Economic Journal: Applied Economics*, 2013.

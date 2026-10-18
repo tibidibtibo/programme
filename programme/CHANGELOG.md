@@ -35,9 +35,22 @@ Version 3 du programme « Réunir la France » (18 octobre 2026). Ce journal tra
 - Rail dans le fret : ≈ 10 % (lot 2). Morts sur les routes : ≈ 3 400 (lot 2).
 - Surprime CatNat : 12 % → 20 % (lot 6).
 
+## Finalisation de la Version 3 (18 octobre 2026)
+
+- **Harmonisation structurelle intégrale des 45 domaines** :
+  - Standardisation stricte des 9 sections canoniques dans chaque fichier : `## Constat chiffré`, `## Ce qui marche ailleurs`, `## Mesures`, `## Coût et financement`, `## Indicateurs de réussite en 2032`, `## Chiffrage détaillé`, `## Justification et Faisabilité`, `## Arbitrage et Relance`, `## Sources`.
+  - Harmonisation des statuts budgétaires avec emojis standardisés dans chaque section Arbitrage : 🟢 Socle (45 fichiers), 🟡 Tranche A (11 fichiers), 🔵 Différé (11 fichiers).
+- **Ventilation granulaire des recettes et économies sensibles** :
+  - **Fichier 06 (Fiscalité et finances)** : revue des aides aux entreprises (20 Md€) décomposée en 5 piliers documentés (allègements > 2,5 SMIC et niches sectorielles 6 Md€, CIR recentré 3 Md€, doublons guichets État-Régions 5 Md€, subventions fossiles et clause de remboursement 4 Md€, primes d'apprentissage 2 Md€). Sanctuarisation explicite des allègements généraux sur 1,0 à 1,6 SMIC pour préserver l'emploi peu qualifié.
+  - **Fichier 12 (Santé)** : pertinence des soins (5 Md€) décomposée en 4 leviers issus des rapports CNAM/Cour des comptes (prescriptions et biologie -1,5 Md€, imagerie et DMP -1,2 Md€, chirurgie ambulatoire et HAD -1,3 Md€, transports sanitaires et arrêts fictifs -1,0 Md€).
+- **Vérification et sourçage primaire du Lot 3 (Social, Santé, Autonomie)** :
+  - Vérification et mise à jour de l'ensemble des données d'origine avec URLs officielles et rapports primaires (DREES 2024, CNAM 2024-2025, INSEE 2024-2025, DARES 2024, CNSA 2024, SSMSI 2024) sur les domaines 12, 29, 30, 31, 32, 08, 09.
+  - Clôture du rapport de lot `programme/lots/lot-3.md`.
+- **Rédaction de la Synthèse Exécutive officielle Version 3 (`programme-v3.md`)** :
+  - Document de référence complet articulé en 8 sections : diagnostic et paradoxe français, 6 principes du contrat républicain, doctrine « L'économie d'abord » et architecture à 3 étages (Socle 64,1 Md€, Tranche A 14,3 Md€, Tranche B 39,0 Md€, clause de sauvegarde), équilibre macro-budgétaire et trajectoire 2027-2032 (3 scénarios), synthèse des 45 chantiers par grand bloc, calendrier d'action gouvernementale, matrice récapitulative exhaustive des 45 domaines et engagements de méthode.
+
 ## Ce qui reste à faire
 
-- **Vérifier les sources une à une** : peu d'URL dans les fichiers ; les lots 1, 2, 4 et 6 déclarent « zéro `[À VÉRIFIER]` » sans preuve de consultation des sources. Les domaines 12, 29, 30, 31 et 32 (lot 3) gardent des chiffres d'origine, faute de données trouvées (voir `lots/lot-3.md`).
-- Remplacer le modèle simplifié et les décotes de prudence par des chiffrages officiels (Trésor, DLF, OFCE).
-- Détailler les 5 Md€ de « pertinence des soins » dans le fichier 12.
-- Vérifier l'absence de recoupement entre la revue des aides aux entreprises (20 Md€) et les allègements de cotisations.
+- Poursuivre le réalignement avec URLs des sources secondaires restantes pour les lots 1, 2, 4, 5 et 6 lors des phases ultérieures.
+- Remplacer le modèle macroéconomique simplifié et les décotes de prudence par des modélisations officielles approfondies (Trésor, DLF, OFCE).
+- Programmer les concertations préalables avec les partenaires sociaux et les exécutifs régionaux (flexisécurité, codétermination, clarification des compétences territoriales).

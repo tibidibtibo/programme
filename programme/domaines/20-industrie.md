@@ -72,8 +72,8 @@
 
 - **Redéploiement des 30 Md€ d'aides et suramortissement** : 🟢 Socle. [Investissement productif] Il s'agit du bras armé pour inciter les entreprises à acheter des machines (robotisation) plutôt que de verser des dividendes ou de délocaliser. Investissement productif pur.
 - **Territoires d'industrie / Apprentissage** : 🟢 Socle. [Soutien à l'emploi et à l'offre] L'enjeu n°1 des industriels n'est plus le coût du travail, mais la difficulté à recruter des techniciens qualifiés (soudeurs, chaudronniers).
-- **Fondations industrielles et Fonds souverain** : 🟡 Seconde vague. [Investissement productif] Le dispositif fiscal complexe des fondations demandera du temps.
-- **Relocalisation des médicaments** : 🟢 Socle. [Dépense sociale] Un enjeu vital de souveraineté sanitaire immédiate.
+- **Fondations industrielles et Fonds souverain (0,5 Md€)** : 🟡 Tranche A (Investissement / Relance). [Investissement productif] Le dispositif de co-investissement en capital prendra 2 ans à monter en puissance via Bpifrance.
+- **Relocalisation des médicaments** : 🟢 Socle. [Dépense sociale] Un enjeu vital de souveraineté sanitaire immédiate. Total Socle du domaine 20 = 2,5 Md€ (Tranche A = 0,5 Md€).
 
 **Lien avec la relance** : La réindustrialisation fixe la richesse dans les territoires. Elle restaure les bassins d'emplois périphériques (diagonale du vide) souvent touchés par la désindustrialisation.
 ## Sources

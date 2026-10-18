@@ -89,7 +89,8 @@
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Mixte. Le reboisement et la transition 4 saisons des stations sont en 🟢 Socle. Le recrutement massif à l'ONF est en 🟡 Seconde vague (mais la dotation de maintien est garantie).
+- **Plan de reboisement forêt-climat, DFCI et pastoralisme (0,4 Md€)** : 🟢 Socle. Adaptation climatique et préservation de la filière bois.
+- **Renforcement complet de l'ONF et transition lourde des stations (0,3 Md€)** : 🟡 Tranche A (Transition écologique / Relance). Total Socle du domaine 45 = 0,4 Md€ (Tranche A = 0,3 Md€, total net = 0,7 Md€).
 - **Nature** : Investissement dans l'infrastructure naturelle et reconversion économique.
 - **Lien avec la relance** : La relocalisation de la transformation du bois réduit un déficit commercial de 7 Md€ (filière bois). La reconversion des stations permet de maintenir de l'activité touristique toute l'année, stabilisant l'emploi local.
 

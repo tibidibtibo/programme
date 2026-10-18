@@ -85,20 +85,26 @@ Ce fichier détaille la mesure 10 du [fichier 26](26-institutions-democratie.md)
 
 ## Arbitrage et Relance
 
+- **Loi anti-concentration et indépendance des rédactions** : 🟢 Socle. Réforme législative normative à coût budgétaire nul.
+- **Financement pérenne de l'audiovisuel public (0,2 Md€)** : 🟢 Socle. Ressource affectée garantissant l'indépendance de France Télévisions et Radio France.
+- **Fonds pour l'information locale et indépendante (0,05 Md€)** : 🟢 Socle. Vitalité démocratique locale et pluralisme de la presse.
+- **Lutte contre les ingérences et Viginum (0,05 Md€)** : 🟢 Socle. Souveraineté de l'information et sécurité démocratique. Total Socle du domaine 40 = 0,3 Md€ (seconde vague = 0 Md€).
+
 | Mesure | Statut | Nature | Effet retour attendu |
 |---|---|---|---|
 | Loi anti-concentration | 🟢 Socle | Normatif (coût nul) | Qualité du débat public |
-| Audiovisuel public garanti | 🟢 Socle | Fonctionnement | Stabilité du secteur |
-| Fonds information locale | 🟢 Socle | Investissement | Vitalité démocratique locale |
+| Audiovisuel public garanti (0,2 Md€) | 🟢 Socle | Fonctionnement | Stabilité du secteur |
+| Fonds information locale (0,05 Md€) | 🟢 Socle | Investissement | Vitalité démocratique locale |
+| Viginum et cybersécurité (0,05 Md€) | 🟢 Socle | Régalien | Souveraineté informationnelle |
 
 *Lien avec la relance* : Le coût budgétaire de ce domaine est marginal (0,3 Md€). Son impact est d'abord démocratique. L'ensemble des mesures est financé dans le socle incompressible.
 
 ## Sources
 
-- États généraux de l'information, rapport final, septembre 2024.
-- Cour des comptes, *Les aides à la presse écrite*, 2023.
-- Baromètre Kantar Public-La Croix sur la confiance des Français dans les médias, 2025.
-- Reporters sans frontières, *Classement mondial de la liberté de la presse*, 2024.
-- SGDSN-Viginum, rapports sur les campagnes de désinformation, 2023-2024.
-- Conseil d'État, décision du 13 février 2024 sur le pluralisme (CNews).
-- Directive (UE) 2024/1069 sur les procédures-bâillons ; règlement européen sur la liberté des médias (EMFA), 2024.
+- États généraux de l'information, *Rapport final et propositions pour le droit à l'information*, septembre 2024.
+- Cour des comptes, *Les aides à la presse écrite*, 2023. https://www.ccomptes.fr/
+- Baromètre Kantar Public - La Croix sur la confiance des Français dans les médias, 2025.
+- Reporters sans frontières (RSF), *Classement mondial de la liberté de la presse*, 2024. https://rsf.org/
+- SGDSN-Viginum, rapports sur les campagnes de désinformation numérique, 2023-2024. https://www.sgdsn.gouv.fr/
+- Conseil d'État, décision du 13 février 2024 sur le pluralisme et l'indépendance de l'information.
+- Règlement européen (UE) 2024/1083 sur la liberté des médias (*European Media Freedom Act* - EMFA), 2024.

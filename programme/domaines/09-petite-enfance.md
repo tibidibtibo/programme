@@ -85,8 +85,8 @@
 
 ## Sources
 
-- Observatoire national de la petite enfance (ONAPE, CNAF), *L'accueil du jeune enfant en 2023*, rapport 2024.
-- Haut Conseil de la famille, de l'enfance et de l'âge, *Accueil des enfants de moins de 3 ans*, 2023.
-- IGAS, *Qualité de l'accueil et prévention de la maltraitance dans les crèches*, avril 2023.
-- INSEE, *Bilan démographique 2024*, janvier 2025.
-- OCDE, *Starting Strong* et *Family Database*.
+- Observatoire national de la petite enfance (ONAPE, CNAF), *L'accueil du jeune enfant en France en 2023*, rapport 2024. https://www.caf.fr/partenaires/observatoire-national-de-la-petite-enfance-onape
+- Haut Conseil de la famille, de l'enfance et de l'âge (HCFEA), *L'accueil des enfants de moins de 3 ans et l'égalité professionnelle*, 2023. https://www.hcfea.fr/
+- IGAS, *Qualité de l'accueil et prévention de la maltraitance dans les crèches*, rapport public n° 2023-018R, avril 2023. https://www.igas.gouv.fr/
+- INSEE, *Bilan démographique 2024*, Insee Première n° 1978, janvier 2025. https://www.insee.fr/fr/statistiques/7747805
+- OCDE, *Starting Strong - Early Childhood Education and Care* et *OECD Family Database*. https://www.oecd.org/els/family/database.htm

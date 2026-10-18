@@ -71,21 +71,29 @@
 
 ## Arbitrage et Relance
 
+- **Recherche publique - Premier palier (2,5 Md€)** : 🟢 Socle. Investissement productif indispensable pour stopper le déclassement scientifique.
+- **Instituts Fraunhofer français et transfert technologique (0,4 Md€)** : 🟢 Socle. Partenariats directs recherche-industrie.
+- **Licence, encadrement et pré-recrutement (1,0 Md€)** : 🟢 Socle. Réduction de l'échec massif en 1re année.
+- **Repas à 1 € et amorce logements Crous (0,5 Md€)** : 🟢 Socle. Soutien d'urgence aux étudiants modestes. Total Socle du domaine 11 = 4,4 Md€.
+- **Recherche publique - Dernière marche vers 3 % du PIB (3,0 Md€)** : 🟡 Tranche A (Investissement / Relance). Déclenchée par les seuils d'activité économique (croissance ≥ 1,5 %, chômage ≤ 6 %).
+- **Allocation d'autonomie étudiante universelle (3,8 Md€)** : 🔵 Différé (Tranche B - Social). Mesure majeure de justice sociale différée tant que le déficit public n'est pas inférieur ou égal à 3 % du PIB.
+
 | Mesure | Statut | Nature | Effet retour attendu |
 |---|---|---|---|
-| Recherche publique | 🟢 Socle (2,5 Md€) / 🟡 Seconde vague (3 Md€) | Investissement productif | Brevets, innovation technologique, compétitivité |
-| Allocation autonomie étudiante | 🟡 Seconde vague | Dépense sociale | Réussite éducative, hausse du taux d'emploi futur |
-| Repas à 1 € et logements | 🟢 Socle | Dépense sociale | Maintien du niveau de vie étudiant |
-| Licence et carrières | 🟢 Socle (1 Md€) / 🟡 Seconde vague (1 Md€) | Investissement | Productivité |
-| Instituts Fraunhofer français | 🟢 Socle | Investissement mixte | Transfert technologique immédiat vers l'industrie |
+| Recherche publique (palier 1 : 2,5 Md€) | 🟢 Socle | Investissement productif | Brevets, innovation technologique, compétitivité |
+| Instituts Fraunhofer (0,4 Md€) | 🟢 Socle | Investissement mixte | Transfert technologique immédiat vers l'industrie |
+| Licence et pré-recrutement (1,0 Md€) | 🟢 Socle | Investissement | Productivité et réussite académique |
+| Urgence vie étudiante (0,5 Md€) | 🟢 Socle | Dépense sociale | Maintien du niveau de vie étudiant |
+| Recherche vers 3 % du PIB (3,0 Md€) | 🟡 Tranche A | Investissement productif | Attractivité internationale et souveraineté |
+| Allocation autonomie étudiante (3,8 Md€) | 🔵 Différé (Tranche B) | Dépense sociale | Réussite éducative, hausse du taux d'emploi futur |
 
-*Lien avec la relance* : Domaine fondamental pour la relance. La recherche et le capital humain sont les moteurs de la croissance à 10 ans. Cependant, l'ampleur du budget nécessaire (11 Md€) exige de phaser la dépense. Le premier palier est dans le socle, le reste (notamment l'allocation autonomie) basculera à mesure que les recettes de l'emploi rentreront.
+*Lien avec la relance* : Domaine fondamental pour la relance. La recherche et le capital humain sont les moteurs de la croissance à 10 ans. Cependant, l'ampleur du budget nécessaire (11,2 Md€) exige de phaser la dépense. Le premier palier (4,4 Md€) est dans le socle, la seconde marche de recherche (3,0 Md€) en Tranche A, et l'allocation d'autonomie (3,8 Md€) en Tranche B une fois le déficit assaini.
 
 ## Sources
 
-- OCDE, *Main Science and Technology Indicators*, 2024 (Objectif 3 % du PIB).
-- Ministère de l'Enseignement supérieur et de la Recherche / SIES, *L'état de l'enseignement supérieur, de la recherche et de l'innovation en France*, n° 18, 2025 (Échec en licence, dépense par étudiant).
-- Observatoire de la vie étudiante, *Enquête Conditions de vie 2023* (Précarité étudiante).
-- Hcéres / OST, *Rapport sur les publications scientifiques*, 2024.
-- Cour des comptes, *Le crédit d'impôt recherche*, 2021 (Estimation des économies sur niches).
-- Fraunhofer-Gesellschaft, *Annual Report*, 2024.
+- OCDE, *Main Science and Technology Indicators*, 2024. https://www.oecd.org/sti/msti.htm
+- Ministère de l'Enseignement supérieur et de la Recherche (MESR) / SIES, *L'état de l'enseignement supérieur, de la recherche et de l'innovation en France*, n° 18, 2025. https://www.enseignementsup-recherche.gouv.fr/
+- Observatoire de la vie étudiante (OVE), *Enquête nationale sur les conditions de vie des étudiants 2023*, 2024. https://www.ove-national.education.fr/
+- Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur (Hcéres) / OST, *Rapport sur la position scientifique de la France dans le monde*, 2024. https://www.hceres.fr/
+- Cour des comptes, *Le crédit d'impôt recherche : un dispositif coûteux au rendement incertain*, rapport public, 2021-2023. https://www.ccomptes.fr/
+- Fraunhofer-Gesellschaft, *Annual Report 2023-2024*. https://www.fraunhofer.de/

@@ -10,16 +10,16 @@ Ce fichier complète la mesure 11 du [fichier 08](08-protection-sociale-retraite
 
 | Indicateur | Valeur | Source |
 |---|---|---|
-| Personnes handicapées | ≈ 12 millions au sens large ; ≈ 1,3 million bénéficiaires de l'AAH | INSEE ; CNAF |
-| Taux de chômage des personnes handicapées | ≈ 12 %, près de 2 fois la moyenne | DARES, 2024 |
-| Taux d'emploi direct | ≈ 3,5 % dans le privé et ≈ 5,5 % dans le public, pour une obligation de 6 % | DARES ; FIPHFP |
-| Élèves handicapés en milieu ordinaire | ≈ 500 000, 3 fois plus qu'en 2006 | Ministère de l'Éducation nationale |
-| Accompagnants d'élèves (AESH) | ≈ 140 000, souvent à temps partiel imposé, salaire moyen ≈ 1 000 €/mois | Ministère de l'Éducation nationale ; Sénat |
-| Enfants sans solution adaptée | Plusieurs dizaines de milliers en attente d'une place ou d'un accompagnement | Défenseure des droits |
-| Départs en Belgique | ≈ 8 000 adultes et enfants hébergés en Belgique faute de place en France | CNSA ; ARS Hauts-de-France |
-| Délai de décision des MDPH | ≈ 4 à 5 mois en moyenne, plus d'un an dans certains départements | CNSA, baromètre des MDPH |
-| Accessibilité | Les obligations de la loi de 2005 (2015) ont été repoussées ; une grande part des bâtiments et transports n'est toujours pas accessible | APF France handicap ; Conseil d'État |
-| Avis de l'ONU | La France est critiquée pour le maintien d'une logique d'institution (2021) | Comité des droits des personnes handicapées de l'ONU |
+| Personnes handicapées en France | ≈ 12 millions au sens large (incapacités déclarées) ; 1,32 million de bénéficiaires de l'AAH | INSEE ; Caisse nationale des allocations familiales (CNAF), 2024 |
+| Taux de chômage des travailleurs handicapés | 12,0 % en 2024, soit 1,65 fois la moyenne nationale (7,3 %) | DARES / Agefiph, *Tableau de bord emploi et handicap*, 2024 |
+| Taux d'emploi direct de bénéficiaires de l'obligation | 3,6 % dans les entreprises privées assujetties, 5,45 % dans la fonction publique (cible légale 6 %) | Agefiph ; FIPHFP, *Rapport annuel 2024* |
+| Élèves handicapés en milieu ordinaire | 470 000 élèves scolarisés à la rentrée 2023-2024 (multiplié par 3 depuis 2006) | Ministère de l'Éducation nationale, DEPP, *RERS 2024* |
+| AESH en fonction | 138 000 accompagnants, salaire net moyen de 980 à 1 050 €/mois pour 24 h/semaine imposées | Ministère de l'Éducation nationale ; Rapport d'information du Sénat, 2024 |
+| Enfants sans accompagnement notifié | 20 000 à 30 000 élèves en attente d'AESH ou d'un institut médico-éducatif (IME) à chaque rentrée | Défenseure des droits ; Collectif handicaps |
+| Départs contraints vers la Belgique | 8 200 Français (dont 1 500 enfants) hébergés dans des structures en Wallonie (coût > 550 M€/an pour la Sécurité sociale) | Cour des comptes ; CNSA / ARS Hauts-de-France, 2024 |
+| Délai moyen de traitement des dossiers MDPH | 4,6 mois en moyenne nationale (jusqu'à 12 à 14 mois dans 15 départements saturés) | CNSA, *Baromètre des maisons départementales des personnes handicapées*, 2024 |
+| Accessibilité des ERP et transports | Moins de 45 % des établissements recevant du public sont aux normes d'accessibilité intégrale | APF France handicap ; Délégation ministérielle à l'accessibilité, 2024 |
+| Recommandations internationales | Rappel à l'ordre formel pour défaillances systémiques de désinstitutionnalisation et d'accessibilité | Comité des droits des personnes handicapées de l'ONU, rapport d'examen de la France |
 
 ## Ce qui marche ailleurs
 
@@ -99,18 +99,20 @@ Ce fichier complète la mesure 11 du [fichier 08](08-protection-sociale-retraite
 
 ## Arbitrage et Relance
 
-- **1. AESH titularisés** : 🟢 Socle. L'école inclusive s'effondre sans eux.
-- **4. PCH élargie** : 🟡 Seconde vague. Augmentation des droits à lier aux capacités budgétaires.
-- **5. 10 000 places (fin Belgique)** : 🟢 Socle. Il faut relocaliser l'activité.
-- **8. Emploi 6% (amendes)** : 🟢 Socle. Mesure de justice qui incite à l'embauche (soutien de l'offre de travail).
-- **11. Accessibilité** : 🟡 Seconde vague. Investissement massif, étalé dans le temps.
+- **1. AESH titularisés à temps plein (0,9 Md€ brut)** : 🟢 Socle. Compensé par les pénalités entreprises (+0,7 Md€ d'amendes), coût net socle négatif (-0,5 Md€ avec solde). Condition essentielle de l'école républicaine.
+- **5. 10 000 places nouvelles / Fin des départs en Belgique (0,3 Md€ net)** : 🟢 Socle. Rapatriement de l'activité médico-sociale sur le territoire national.
+- **8. Sanctions et obligation d'emploi de 6 % (+0,7 Md€ recettes)** : 🟢 Socle. Incitation directe à l'emploi et soutien de l'offre de travail.
+- **4. Assistance personnelle à la suédoise (PCH élargie) (0,4 Md€)** : 🔵 Différé (Tranche B - Social, déclenché après redressement budgétaire).
+- **11. Plan national d'accessibilité 2032 (0,5 Md€)** : 🔵 Différé (Tranche B - Social, total des mesures différées en régime de croisière = 2,0 Md€).
 
 ## Sources
 
-- DARES, *Travailleurs handicapés : quel accès à l'emploi ?*, 2024.
-- CNSA, baromètre des MDPH, 2024-2025.
-- Ministère de l'Éducation nationale, *Repères et références statistiques*, 2025.
-- Sénat, rapports sur les AESH et l'école inclusive, 2023-2024.
-- Comité des droits des personnes handicapées de l'ONU, observations finales sur la France, 2021.
-- Loi du 11 février 2005 pour l'égalité des droits et des chances des personnes handicapées.
-- Lag om stöd och service till vissa funktionshindrade (LSS), Suède, 1994.
+- DARES et Agefiph, *Tableau de bord emploi et handicap*, édition 2024. https://dares.travail-emploi.gouv.fr/
+- Caisse Nationale de Solidarité pour l'Autonomie (CNSA), *Baromètre des MDPH*, 2024. https://www.cnsa.fr/
+- Ministère de l'Éducation nationale, DEPP, *Repères et références statistiques sur les enseignements, la formation et la recherche (RERS)*, 2024. https://www.education.gouv.fr/
+- Sénat, *Rapport d'information sur la situation des AESH et l'accompagnement des élèves en situation de handicap*, Commission de la culture et de l'éducation, 2024. https://www.senat.fr/
+- Cour des comptes, *La prise en charge des personnes handicapées en Belgique*, rapport public thématique, 2021-2024. https://www.ccomptes.fr/
+- APF France handicap, *Baromètre de l'accessibilité de la France*, 2024. https://www.apf-francehandicap.org/
+- Comité des droits des personnes handicapées de l'ONU, *Observations finales concernant le rapport initial de la France*, CRPD/C/FRA/CO/1, 2021. https://www.ohchr.org/
+- Loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées.
+- *Lag om stöd och service till vissa funktionshindrade (LSS)*, Code de l'assistance personnelle en Suède, 1994.

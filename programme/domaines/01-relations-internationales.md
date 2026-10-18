@@ -62,8 +62,8 @@
 
 ## Arbitrage et Relance
 
-- **1. APD à 0,55 %** : 🟡 Seconde vague. Raison : L'augmentation dépend des marges macroéconomiques. Nature : Dépense de solidarité internationale. Effet retour : Investissement d'influence, peu d'effet fiscal direct à court terme en France.
-- **2 à 7. Diplomatie, Médiation, Francophonie** : 🟢 Socle. Raison : Effort de souveraineté immédiat, coût net modéré (+0,5 Md€). Nature : Fonctionnement de l'État. Effet retour : Soutien indirect au commerce extérieur via le réseau AEFE et Campus France.
+- **1. APD à 0,55 % (3,0 Md€)** : 🔵 Différé (Tranche B - Solidarité internationale). Raison : L'augmentation de l'APD au-delà du niveau actuel est subordonnée au retour du déficit sous 3 % et à la stabilisation de la dette constatés par le HCFP. Nature : Dépense de solidarité internationale.
+- **2 à 7. Diplomatie, Médiation, Francophonie (0,5 Md€)** : 🟢 Socle. Raison : Effort régalien et de souveraineté immédiat, coût net modéré (+0,5 Md€). Nature : Fonctionnement de l'État. Effet retour : Soutien indirect au commerce extérieur via le réseau AEFE et Campus France.
 
 ## Sources
 

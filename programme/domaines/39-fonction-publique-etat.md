@@ -74,28 +74,29 @@ Les revalorisations sectorielles (enseignants, soignants, justice, armées) sont
 
 | Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
 |---|---|---|---|---|
-| 1. Garantie pouvoir d'achat (indexation) | +3 Md€ | 0 | +3 Md€ | Compensation intégrale de l'inflation estimée au-delà du glissement vieillesse-technicité. En seconde vague. |
-| 3. Titularisation / Résorption précarité | +0,3 Md€ | 0 | +0,3 Md€ | Coût de titularisation sur le CAS pensions et harmonisation des primes. |
-| 4. Logement des agents publics | +0,2 Md€ | 0 | +0,2 Md€ | Subventions et réservations de contingents en zones tendues. |
-| 5. Baisse cabinets de conseil | 0 | -0,5 Md€ | -0,5 Md€ | Baisse de 50% du milliard d'euros annuel. |
-| 6. Rationalisation agences / État | 0 | -0,5 Md€ | -0,5 Md€ | Mutualisation fonctions support (budget global des agences ≈ 80 Md€). |
-| **Total Domaine 39** | | | **+2,5 Md€ (dont 3 Md€ en seconde vague et -1 Md€ socle)** | Le solde final net est de +2,5 Md€. |
+| 1. Garantie pouvoir d'achat (indexation) | +3,5 Md€ | 0 | +3,5 Md€ | Compensation de l'inflation au-delà du GVT. Mesure en Tranche B (différée). |
+| 3. Titularisation / Résorption précarité | +0,3 Md€ | 0 | +0,3 Md€ | Titularisation ciblée et harmonisation des régimes indemnitaires. |
+| 4. Logement des agents publics | +0,2 Md€ | 0 | +0,2 Md€ | Réservations de contingents et aides d'installation en zones chères. |
+| 5. Baisse cabinets de conseil | 0 | -0,5 Md€ | -0,5 Md€ | Division par 2 des dépenses de conseil externe de l'État. |
+| 6. Rationalisation agences / État | 0 | -1,0 Md€ | -1,0 Md€ | Mutualisation fonctions support et réduction des doublons d'opérateurs. |
+| **Total Domaine 39** | | | **+2,5 Md€ (-1,0 Md€ socle et +3,5 Md€ différé)** | Solde net = +2,5 Md€. |
 
 ## Justification et Faisabilité
 
-- **Justification** : Redonner du sens et de l'attractivité au service public. L'effondrement des candidatures aux concours (-30 à -50% dans l'enseignement et le soin) nécessite un signal fort sur les rémunérations. La baisse du recours aux cabinets de conseil redonne des capacités intellectuelles à l'État (souveraineté interne).
+- **Justification** : Redonner du sens et de l'attractivité au service public. L'effondrement des candidatures aux concours (-30 à -50 % dans l'enseignement et le soin) nécessite un signal fort sur les rémunérations. La baisse du recours aux cabinets de conseil redonne des capacités intellectuelles et d'action directe à l'État (souveraineté interne).
 - **Faisabilité** :
-  - **Indexation** : Extrêmement coûteuse (d'où son report en seconde vague). Risque budgétaire si l'inflation dérape.
-  - **Rationalisation des agences** : Résistances administratives locales et ministérielles fortes, nécessite une loi de simplification d'ampleur.
+  - **Indexation** : Extrêmement coûteuse (d'où son classement en Tranche B différée). Conditionnée au respect de la règle d'or et à la stabilisation de la dette.
+  - **Rationalisation des agences** : Résistances administratives ministérielles fortes, nécessite une loi de simplification d'ampleur dès l'année 1.
 
 ## Arbitrage et Relance
 
-- **Baisse des cabinets de conseil / Rationalisation agences** : 🟢 Socle (Économies structurelles immédiates. Nature : Réforme de l'État).
-- **Titularisation / Logement des agents** : 🟢 Socle (Mesures d'attractivité ciblées et réalisables rapidement. Nature : Dépense RH).
-- **Indexation du point d'indice (+3 Md€)** : 🟡 Seconde vague (Coût très lourd, conditionné au retour de la croissance et des recettes fiscales. Nature : Dépense courante).
+- **Baisse des cabinets de conseil et rationalisation des agences (-1,5 Md€ d'économies)** : 🟢 Socle. Économies structurelles immédiates dès l'été 2027.
+- **Titularisation et logement des agents (+0,5 Md€)** : 🟢 Socle. Mesures ciblées d'attractivité. Total Socle net = -1,0 Md€ (excédentaire en socle).
+- **Indexation générale du point d'indice (+3,5 Md€)** : 🔵 Différé (Tranche B - Fonction publique). Mesure majeure mais différée tant que le déficit public n'est pas inférieur ou égal à 3 % du PIB et la dette stabilisée.
 
 ## Sources
 
-- DGAFP, *Rapport annuel sur l'état de la fonction publique*, édition 2024.
-- Sénat, commission d'enquête sur l'influence croissante des cabinets de conseil, rapport 2022.
-- Défenseure des droits, *Dématérialisation des services publics*, 2022.
+- DGAFP, *Rapport annuel sur l'état de la fonction publique*, édition 2024. https://www.fonction-publique.gouv.fr/
+- Sénat, *Un phénomène tentaculaire : l'influence croissante des cabinets de conseil sur les politiques publiques*, rapport de commission d'enquête n° 578, 2022. https://www.senat.fr/
+- Cour des comptes, *Les dépenses de rémunération des agents publics et l'impact du point d'indice*, note thématique, 2024. https://www.ccomptes.fr/
+- Défenseure des droits, *Dématérialisation et inégalités d'accès aux services publics*, rapport public, 2022-2024. https://www.defenseurdesdroits.fr/

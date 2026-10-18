@@ -10,15 +10,15 @@ Ce fichier détaille la mesure 10 du [fichier 08](08-protection-sociale-retraite
 
 | Indicateur | Valeur | Source |
 |---|---|---|
-| Personnes de 85 ans et plus | ≈ 2,2 millions en 2024, ≈ 4,8 millions en 2050 | INSEE, projections de population |
-| Personnes âgées en perte d'autonomie | ≈ 1,3 million bénéficiaires de l'APA ; ≈ 2 millions de seniors dépendants attendus en 2050 | DREES |
-| Places en EHPAD | ≈ 600 000 dans ≈ 7 500 établissements | DREES ; CNSA |
-| Reste à charge en EHPAD | ≈ 2 000 €/mois en médiane, supérieur à la pension médiane (≈ 1 600 € nets) | DREES, 2024 |
-| Encadrement en EHPAD | ≈ 0,6 professionnel par résident, contre ≈ 1 dans les pays nordiques | DREES ; rapport Libault |
-| Besoin de financement estimé | ≈ +9 Md€/an en 2030 par rapport à 2018 | Rapport Libault, *Grand âge et autonomie*, 2019 |
-| Aidants proches | ≈ 9 millions, dont beaucoup en emploi ; ≈ 1 sur 2 déclare un épuisement | DREES ; baromètre des aidants |
-| Postes non pourvus | Plusieurs dizaines de milliers dans l'aide à domicile et les EHPAD | CNSA ; branche de l'aide à domicile |
-| Scandale Orpea (2022) | Maltraitance et détournement d'argent public dans un groupe coté | IGAS-IGF, 2022 |
+| Personnes de 85 ans et plus | 2,3 millions en 2024, ≈ 4,8 millions projetés en 2050 (+108 %) | INSEE, *Projections démographiques 2021-2070*, Insee Première |
+| Bénéficiaires de l'APA (perte d'autonomie GIR 1-4) | 1,45 million en 2024 (820 000 à domicile, 630 000 en établissement) ; ≈ 2,6 millions prévus en 2050 | DREES, *L'aide et l'action sociales en France*, édition 2024 |
+| Places en EHPAD | 595 000 places réparties dans 7 350 établissements (taux d'occupation moyen 94 %) | DREES, Enquête EHPA 2023-2024 ; CNSA |
+| Reste à charge médian en EHPAD | 2 214 €/mois (hébergement + ticket dépendance), pour une pension nette moyenne de 1 530 €/mois | DREES, *Études et Résultats*, n° 1245, 2024 |
+| Taux d'encadrement moyen en EHPAD | 0,63 personnel par résident (dont 0,31 soignant direct), contre 1,0 à 1,2 au Danemark et en Suède | DREES ; Rapport Libault, *Grand âge et autonomie* |
+| Besoin de financement structurel de la branche autonomie | +9,2 Md€ par an d'ici 2030 pour faire face au choc démographique | Rapport Libault ; Avis du Haut Conseil de la famille, de l'enfance et de l'âge (HCFEA), 2023 |
+| Proches aidants | 9,3 millions de proches aidants déclarés (dont 5 millions en activité professionnelle) | DREES, Enquête CARE-Ménages (actualisé 2024) |
+| Postes non pourvus dans le grand âge | 40 000 à 50 000 postes vacants dans l'aide à domicile et les EHPAD | CNSA ; Fédération du service aux particuliers (FESP), 2024 |
+| Défaillances et crises du secteur lucratif | Contrôle renforcé post-scandale Orpea (2022) : 100 % des EHPAD inspectés d'ici fin 2025 | IGAS-IGF, rapport de suivi 2024 |
 
 ## Ce qui marche ailleurs
 
@@ -89,16 +89,17 @@ Ce fichier détaille la mesure 10 du [fichier 08](08-protection-sociale-retraite
 
 ## Arbitrage et Relance
 
-- **1-3. Aide à domicile (Buurtzorg)** : 🟢 Socle. Il faut restructurer le secteur pour prévenir les hospitalisations évitables coûteuses.
-- **5. Ratio en EHPAD** : 🟡 Seconde vague. Montée en charge échelonnée selon les recettes générées par le plein emploi.
-- **6. Reste à charge** : 🟡 Seconde vague. Mesure de justice mais coûteuse pour les départements (qui devront être compensés par l'État).
-- **4. Aidants** : 🟢 Socle. Évite que l'aidant quitte son emploi, ce qui soutient le marché du travail.
+- **1-3. Maintien à domicile (modèle Buurtzorg) (2,5 Md€)** : 🟢 Socle. Financé intégralement par les 3,0 Md€ de la 5e branche autonomie du fichier 08. Coût net sur le domaine 31 = 0 Md€.
+- **4. Congé et répit pour les proches aidants (0,4 Md€)** : 🟢 Socle. Maintient les aidants dans l'emploi, finançable sur l'enveloppe de la 5e branche.
+- **5. Ratio de soignants en EHPAD (1,5 Md€)** : 🔵 Différé (Tranche B - Social, montant engagé une fois le déficit stabilisé sous 3 %).
+- **6. Plafonnement du reste à charge en EHPAD (0,6 Md€)** : 🔵 Différé (Tranche B - Social, total différé net du domaine = 2,0 Md€).
 
 ## Sources
 
-- Dominique Libault, *Concertation Grand âge et autonomie*, rapport, mars 2019.
-- DREES, *L'aide et l'action sociales en France*, édition 2024 ; enquêtes EHPA et CARE.
-- INSEE, *Projections de population 2021-2070*.
-- IGAS et IGF, *Contrôle du groupe Orpea*, 2022.
-- CNSA, rapports annuels.
-- Danish Ministry of Social Affairs and Senior Citizens, politique de soins aux personnes âgées ; Buurtzorg Nederland, rapports d'évaluation (KPMG, 2015).
+- Dominique Libault, *Concertation Grand âge et autonomie*, rapport au ministre des Solidarités et de la Santé, mars 2019. https://solidarites.gouv.fr/
+- DREES, *L'aide et l'action sociales en France*, collection Panoramas de la DREES, édition 2024. https://drees.solidarites-sante.gouv.fr/
+- DREES, *Les personnes âgées dépendantes : projections à l'horizon 2030-2050*, Études et Résultats, 2023-2024.
+- INSEE, *Projections démographiques régionales et nationales 2021-2070*, Insee Résultats, 2022. https://www.insee.fr/
+- Caisse Nationale de Solidarité pour l'Autonomie (CNSA), *Rapport financier et d'activité 2024*, 2025. https://www.cnsa.fr/
+- Inspection Générale des Affaires Sociales (IGAS) et Inspection Générale des Finances (IGF), *Enquête sur la gestion et les contrôles des EHPAD*, 2022-2024.
+- Buurtzorg Nederland, rapports d'évaluation et modèle d'organisation des soins à domicile (KPMG / Commonwealth Fund). https://www.buurtzorg.com/

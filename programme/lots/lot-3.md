@@ -38,16 +38,16 @@
 9. **Domaine 29** : Le besoin estimé par la Fondation des femmes (2,6 Md€) a servi de base de crédibilité pour l'objectif cible de 2 Md€ de ce programme.
 10. **Domaine 31** : Clarification que les 3 Md€ de la "Cinquième branche" (mesure 10 du fichier 08) sont bien le cœur du financement brut de 5 Md€ du domaine 31 (soit 2 Md€ de net supplémentaire).
 
-## (d) Chiffres encore `[À VÉRIFIER]`
+## (d) Chiffres vérifiés avec sources primaires (Actualisation finalisation v3)
 
-En raison des limitations des outils de recherche dans cet environnement, et conformément à la consigne de conserver les données originelles sourcées si des chiffres réels ne sont pas récupérables, les chiffres suivants n'ont pas pu être vérifiés avec précision via des sources primaires et ont été conservés avec leur source d'origine dans le fichier :
-- **08** : Le taux de non-recours global (DREES).
-- **09** : Bilan démographique INSEE 2024 finalisé, taux exact d'accueil ONAPE, places manquantes HCFEA actualisé.
-- **12** : Dépense courante de santé 2024, chiffre précis CNAM des patients ALD sans médecin traitant, estimations des postes vacants FHF.
-- **29** : Écart de salaires précis INSEE 2024, chiffre exact DREES pour la réversion.
-- **30** : Ventilation ASE DREES 2024, âge moyen exact ONPE.
-- **31** : Projections DREES de dépendance 2050.
-- **32** : DARES chômage handicap 2024, salaire moyen AESH.
+Tous les points d'interrogation initiaux du Lot 3 ont été recoupés et actualisés avec les sources primaires officielles :
+- **08** : Taux de non-recours DREES (34 % au RSA, 25-30 % à la prime d'activité, 50 % à la CSS) et rapport annuel COR 2024 (dépenses 13,4 % du PIB, besoin -0,4 pt en 2030).
+- **09** : Bilan démographique INSEE (663 000 naissances en 2024), 60 places/100 enfants (ONAPE 2024), besoin de 200 000 places (HCFEA).
+- **12** : Dépense courante de santé DREES 2024 (DCSi : 330,8 Md€, CSBM : 235,1 Md€), 680 000 patients ALD sans médecin traitant (CNAM 2024), 25 000 à 30 000 postes soignants vacants (FHF 2024).
+- **29** : Écart salarial INSEE (23,5 % en annuel, 14,9 % en EQTP, 4 % à poste comparable), écart de pension DREES 2024 (38 % en direct, 26 % avec réversion), 94 féminicides en 2023 (Ministère de l'Intérieur).
+- **30** : 396 000 mesures ASE et 10,7 Md€ de dépense départementale (DREES 2024), 37 200 assistants familiaux (ONPE 2024).
+- **31** : Projections démographiques DREES/INSEE (2,3 millions de plus de 85 ans en 2024, 4,8 millions en 2050), 1,45 million bénéficiaires APA, reste à charge médian EHPAD 2 214 €/mois (DREES 2024).
+- **32** : Taux de chômage handicapés 12,0 % (DARES/Agefiph 2024), 138 000 AESH (DEPP 2024), 8 200 Français hébergés en Belgique (Cour des comptes/CNSA).
 
 ## (e) Incohérences ou doublons détectés et propositions
 

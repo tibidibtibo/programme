@@ -86,16 +86,17 @@
 
 ## Arbitrage et Relance
 
-- **1. Allocation sociale unique** : 🟢 Socle. Mesure de justice immédiate et levier pour la reprise d'activité (suppression des effets de seuil). Soutien à l'emploi. Effet retour attendu : intégration de 100 000 personnes sur le marché du travail.
-- **4. Allocations familiales 1er enfant** : 🟡 Seconde vague. Dépense sociale pure, relance la consommation mais à reporter si les recettes manquent.
-- **5. Régime universel de retraite** : 🟢 Socle. Réforme structurelle indispensable pour l'équité et le plein emploi.
-- **7. Minimum de pension (85%)** : 🟡 Seconde vague. Dépense sociale de solidarité nationale.
-- **10. Autonomie** : 🟡 Seconde vague. Investissement en partie productif (emplois locaux) mais très coûteux (voir domaine 31).
+- **1. Allocation sociale unique automatique (3,5 Md€)** : 🟢 Socle. Mesure de justice immédiate et levier pour la reprise d'activité (suppression des effets de seuil et du non-recours). Effet retour attendu : intégration de 100 000 personnes sur le marché du travail.
+- **5. Régime universel de retraite (principe)** : 🟢 Socle. Préparation et vote de la réforme structurelle suédoise (coût immédiat nul).
+- **4. Allocations familiales dès le premier enfant (1,5 Md€)** : 🔵 Différé (Tranche B - Social). Conditionné au respect de la trajectoire de déficit.
+- **7. Minimum de pension à 85 % du SMIC (2,0 Md€)** : 🔵 Différé (Tranche B - Social).
+- **10. Cinquième branche autonomie (3,0 Md€)** : 🔵 Différé (Tranche B - Social). Montée en charge progressive finançant le maintien à domicile du domaine 31. Total de la seconde vague sociale différée = 6,5 Md€.
 
 ## Sources
 
-- INSEE, *Niveaux de vie et pauvreté en 2023*, Insee Première, juillet 2025.
-- DREES, *La protection sociale en France et en Europe en 2024*, édition 2025 ; *Le non-recours aux prestations sociales*, 2022.
-- Conseil d'orientation des retraites, *Rapport annuel*, juin 2025.
-- Cour des comptes, *Situation financière et perspectives du système de retraite*, février 2025.
-- Pensionsmyndigheten (Agence suédoise des pensions), *Orange Report*, 2024.
+- INSEE, *Niveaux de vie et pauvreté en 2023*, Insee Première n° 2063, juillet 2025. https://www.insee.fr/fr/statistiques/8233379
+- DREES, *La protection sociale en France et en Europe en 2023*, collection Panoramas de la DREES, édition 2024. https://drees.solidarites-sante.gouv.fr/
+- DREES, *Mesurer le non-recours aux prestations sociales*, Dossiers de la DREES, 2022-2024.
+- Conseil d'Orientation des Retraites (COR), *Rapport annuel sur les évolutions et perspectives des retraites en France*, juin 2024. https://www.cor-retraites.fr/
+- Cour des comptes, *La situation financière et les perspectives du système de retraite*, rapport thématique, 2024. https://www.ccomptes.fr/
+- Pensionsmyndigheten (Agence suédoise des pensions), *Orange Report : Annual Report of the Swedish Pension System*, 2024. https://www.pensionsmyndigheten.se/

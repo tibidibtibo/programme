@@ -67,8 +67,8 @@
 
 - **Contribution poids lourds et soutien au rail** : 🟢 Socle. [Investissement productif] La mise en place de la recette conditionne les investissements (affectation de la taxe aux infrastructures alternatives). C'est le pilier du transfert modal.
 - **Plan ports-fleuves** : 🟢 Socle. [Investissement productif] L'investissement dans l'hinterland portuaire est une condition vitale pour la relance industrielle et la réappropriation des flux logistiques aujourd'hui captés par Anvers et Rotterdam.
-- **Opérateur public de fret (SIEG)** : 🟡 Seconde vague. [Investissement productif] La négociation avec la Commission européenne pour sécuriser le SIEG prendra du temps.
-- **Contrôle du cabotage** : 🟢 Socle. [Soutien à l'emploi et à l'offre] Mesure d'équité concurrentielle immédiate et peu coûteuse.
+- **Opérateur public de fret ferroviaire et autoroutes ferroviaires (0,4 Md€)** : 🟡 Tranche A (Investissement / Relance). [Investissement productif] La négociation avec la Commission européenne pour sécuriser le SIEG et la commande des wagons spécialisés étaleront l'investissement.
+- **Contrôle du cabotage** : 🟢 Socle. [Soutien à l'emploi et à l'offre] Mesure d'équité concurrentielle immédiate et peu coûteuse. Total Socle du domaine 15 = -0,45 Md€ (Tranche A = +0,4 Md€, solde net = -0,05 Md€).
 
 **Lien avec la relance** : Ces investissements logistiques massifs soutiennent directement les entreprises du BTP et relocalisent l'activité de transit portuaire sur le territoire français.
 ## Sources

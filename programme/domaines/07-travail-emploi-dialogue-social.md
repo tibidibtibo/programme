@@ -32,6 +32,24 @@
 4. **Renforcement du paritarisme** : Chèque syndical annuel financé par les entreprises, permettant à chaque salarié d'allouer des fonds au syndicat de son choix, afin de massifier la syndicalisation et de légitimer les accords majoritaires d'entreprise.
 5. **Bonus-Malus sur les contrats courts** : Généralisation à tous les secteurs du bonus-malus sur la cotisation chômage pour pénaliser la précarité (les CDD très courts).
 
+## Coût et financement
+
+| Poste | Coût annuel net en 2032 |
+|---|---|
+| Flexisécurité (indemnisation à 80 % et formation qualifiante) | ≈ +4,0 Md€ |
+| Contrat d'Engagement Réciproque (30 000 conseillers et formation) | ≈ +4,0 Md€ |
+| Bonus-malus sur les contrats courts (recettes Unédic) | ≈ -0,5 Md€ |
+| Codétermination et chèque syndical | 0 Md€ (normatif / financement employeur) |
+| **Total Domaine 07** | **≈ +7,5 Md€/an** |
+
+## Indicateurs de réussite en 2032
+
+- Taux d'emploi des 15-64 ans : 71 % (contre 68,5 % en 2024, soit +1,2 million d'emplois).
+- Taux de chômage au sens du BIT : 5,0 % (plein emploi technique).
+- Part des contrats très courts (CDD de moins d'un mois) dans les embauches : -30 %.
+- Taux de syndicalisation : doublé à 20 % grâce au chèque syndical.
+- Ratio d'accompagnement : 1 conseiller France Travail pour 40 demandeurs d'emploi.
+
 ## Chiffrage détaillé
 
 | Mesure | Coût brut | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
@@ -52,12 +70,19 @@
 
 ## Arbitrage et Relance
 
-- **Flexisécurité (Indemnisation 80%)** : 🟢 Socle (Contrepartie indispensable à la flexibilité, sécurise les parcours. Nature : Dépense sociale à fort rendement indirect).
-- **Contrat d'Engagement (Accompagnement)** : 🟢 Socle (Levier clé pour atteindre le plein emploi et les recettes de retour. Nature : Investissement dans le capital humain).
-- **Codétermination** : 🟡 Seconde vague (Complexité juridique, nécessite un consensus social préalable. Nature : Réforme structurelle).
-- **Chèque syndical / Bonus-Malus** : 🟢 Socle (Mesures à coût nul ou positif renforçant le dialogue social. Nature : Régulation).
+- **Flexisécurité (Indemnisation 80 % et formation)** : 🟢 Socle. Contrepartie indispensable à la flexibilité, sécurise les parcours. Nature : Investissement dans l'offre et l'emploi (+4,0 Md€).
+- **Contrat d'Engagement Réciproque (Accompagnement renforcé)** : 🟢 Socle. Levier clé pour atteindre le plein emploi et générer les recettes de retour macro (+4,0 Md€).
+- **Codétermination et gouvernance** : 🟢 Socle. Réforme structurelle votée en année 2, sans coût budgétaire.
+- **Chèque syndical / Bonus-Malus généralisé** : 🟢 Socle. Mesures régulatrices à excédent net (-0,5 Md€). Total Socle du domaine 07 = 7,5 Md€ (seconde vague = 0 Md€).
 
 ## Sources
+
+- DARES, *Les demandeurs d'emploi et l'accompagnement vers l'emploi*, données trimestrielles 2024-2025. https://dares.travail-emploi.gouv.fr/
+- INSEE, *Taux de chômage et taux d'emploi au sens du BIT*, Informations Rapides, 2024-2025. https://www.insee.fr/
+- Unédic, *Perspectives financières de l'Assurance chômage 2024-2027*, prévisions de solde, 2024. https://www.unedic.org/
+- France Travail, *Rapport annuel d'activité et ratios d'accompagnement*, 2024.
+- OCDE, *Employment Outlook 2024 : The Net-Zero Transition and the Labour Market*. https://www.oecd.org/employment/outlook/
+- Conseil d'analyse économique (CAE), *Démocratie sociale et codétermination*, note de politique économique. https://www.cae-eco.fr/
 
 - Eurostat, *Labour Force Survey*, données 2024.
 - Insee, *Enquête Emploi en continu*, bilan 2024.

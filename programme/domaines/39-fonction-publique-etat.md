@@ -12,10 +12,10 @@
 | Contractuels | ≈ 1,3 million (≈ 22 %), en forte hausse | DGAFP |
 | Pouvoir d'achat du point d'indice | ≈ -15 à -20 % depuis 2010, malgré les hausses de 2022 et 2023 | DGAFP ; INSEE |
 | Attractivité | Concours d'enseignants, d'infirmiers et de magistrats en manque de candidats ; postes vacants dans de nombreux services | Cour des comptes |
-| Cabinets de conseil | ≈ 1 Md€ de dépenses de l'État en 2021 | Sénat, commission d'enquête, 2022 |
+| Cabinets de conseil | 893,9 M€ pour les ministères, dépassant 1 Md€ avec les opérateurs en 2021 (plus que doublé depuis 2018) | Sénat, commission d'enquête, 2022 |
 | Agences et opérateurs de l'État | ≈ 430 agences et ≈ 1 200 organismes, ≈ 80 Md€ de dépenses | Sénat, commission d'enquête sur les agences, 2025 |
 | Démarches dématérialisées | Exclusion d'une partie des usagers ; ≈ 1 Français sur 3 en difficulté avec le numérique | Défenseure des droits ; INSEE |
-| Coût d'une hausse de 1 % du point d'indice | ≈ 2 à 2,5 Md€ pour les trois fonctions publiques | DGAFP |
+| Coût d'une hausse de 1 % du point d'indice | ≈ 2,2 Md€ pour les trois versants de la fonction publique (État, territoriale, hospitalière) | DGAFP |
 
 ## Ce qui marche ailleurs
 
@@ -74,24 +74,30 @@ Les revalorisations sectorielles (enseignants, soignants, justice, armées) sont
 
 | Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
 |---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| 1. Garantie pouvoir d'achat (indexation) | +3 Md€ | 0 | +3 Md€ | Compensation intégrale de l'inflation estimée au-delà du glissement vieillesse-technicité. En seconde vague. |
+| 3. Titularisation / Résorption précarité | +0,3 Md€ | 0 | +0,3 Md€ | Coût de titularisation sur le CAS pensions et harmonisation des primes. |
+| 4. Logement des agents publics | +0,2 Md€ | 0 | +0,2 Md€ | Subventions et réservations de contingents en zones tendues. |
+| 5. Baisse cabinets de conseil | 0 | -0,5 Md€ | -0,5 Md€ | Baisse de 50% du milliard d'euros annuel. |
+| 6. Rationalisation agences / État | 0 | -0,5 Md€ | -0,5 Md€ | Mutualisation fonctions support (budget global des agences ≈ 80 Md€). |
+| **Total Domaine 39** | | | **+2,5 Md€ (dont 3 Md€ en seconde vague et -1 Md€ socle)** | Le solde final net est de +2,5 Md€. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Redonner du sens et de l'attractivité au service public. L'effondrement des candidatures aux concours (-30 à -50% dans l'enseignement et le soin) nécessite un signal fort sur les rémunérations. La baisse du recours aux cabinets de conseil redonne des capacités intellectuelles à l'État (souveraineté interne).
+- **Faisabilité** :
+  - **Indexation** : Extrêmement coûteuse (d'où son report en seconde vague). Risque budgétaire si l'inflation dérape.
+  - **Rationalisation des agences** : Résistances administratives locales et ministérielles fortes, nécessite une loi de simplification d'ampleur.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague (pour l'indexation) / 🟢 Socle (pour la baisse des cabinets de conseil)
-- **Lien avec la relance économique** : La maîtrise de la dépense courante est la condition de la relance. L'indexation massive relève du séquencement.
+- **Baisse des cabinets de conseil / Rationalisation agences** : 🟢 Socle (Économies structurelles immédiates. Nature : Réforme de l'État).
+- **Titularisation / Logement des agents** : 🟢 Socle (Mesures d'attractivité ciblées et réalisables rapidement. Nature : Dépense RH).
+- **Indexation du point d'indice (+3 Md€)** : 🟡 Seconde vague (Coût très lourd, conditionné au retour de la croissance et des recettes fiscales. Nature : Dépense courante).
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - DGAFP, *Rapport annuel sur l'état de la fonction publique*, édition 2024.
-- Sénat, commission d'enquête sur l'influence croissante des cabinets de conseil, rapport de mars 2022.
-- Sénat, commission d'enquête sur les missions des agences, opérateurs et organismes consultatifs de l'État, rapport de juillet 2025.
-- Cour des comptes, rapports sur l'attractivité de la fonction publique, 2023-2024.
-- Défenseure des droits, *Dématérialisation des services publics : trois ans après*, 2022.
-- Statskontoret (Suède), rapports sur la gouvernance des agences.
+- Sénat, commission d'enquête sur l'influence croissante des cabinets de conseil, rapport 2022.
+- Défenseure des droits, *Dématérialisation des services publics*, 2022.

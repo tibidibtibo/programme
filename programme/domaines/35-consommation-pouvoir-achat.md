@@ -11,7 +11,7 @@
 | Hausse des prix 2021-2024 | ≈ +13 % au total, dont ≈ +20 % pour l'alimentation | INSEE |
 | Marges de l'industrie agroalimentaire | Taux de marge à un niveau historiquement élevé en 2023, au-dessus de son niveau d'avant 2021 | INSEE, *Note de conjoncture*, 2023 |
 | Dépenses contraintes | ≈ 30 % du revenu des ménages modestes pour le logement et l'énergie | INSEE ; DREES |
-| Dossiers de surendettement | ≈ 135 000 par an | Banque de France, 2024 |
+| Dossiers de surendettement | ≈ 134 800 déposés en 2024 (hausse de 10,8 % sur un an) | Banque de France, Typologie 2025 (données 2024) |
 | Agents de la DGCCRF | ≈ 2 800, en baisse de ≈ 15 % en 15 ans | Cour des comptes, 2023 |
 | Démarchage téléphonique | Première source de plaintes ; interdit sauf consentement préalable à partir d'août 2026 | Loi de juin 2025 |
 | Réduflation (« shrinkflation ») | Affichage obligatoire en magasin depuis juillet 2024 | Arrêté de 2024 |
@@ -71,24 +71,34 @@
 
 | Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
 |---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| 4. Renforcement DGCCRF | +0,07 Md€ | 0 | +0,07 Md€ | +1 000 agents × ≈70 000 € chargés sur 5 ans. |
+| 6. Médiateur public | +0,02 Md€ | 0 | +0,02 Md€ | Création de la structure et équipes juridiques. |
+| 1. Observatoire des prix et marges | +0,01 Md€ | 0 | +0,01 Md€ | Fonctionnement de la structure et moyens d'enquête. |
+| 10. TVA à 5,5% réparation / Fonds | +0,15 Md€ | 0 | +0,15 Md€ | Estimation du manque à gagner de TVA + subventions. |
+| Amendes DGCCRF (Lutte marge abusive, fraude) | 0 | -0,05 Md€ | -0,05 Md€ | Hausse du produit des amendes proportionnelles au CA. |
+| **Total Domaine 35** | | | **+0,20 Md€** | Financement d'un "bouclier des dépenses contraintes" et de régulation. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Redonner du pouvoir d'achat directement aux ménages par la régulation des marges abusives, la baisse des prix et la durée de vie des produits, avec un coût public dérisoire (0,2 Md€). L'impact social sur les dépenses contraintes (logement, énergie, alimentation) est très fort pour les ménages modestes.
+- **Faisabilité** :
+  - **DGCCRF et Observatoire** : Faisable immédiatement par voie réglementaire et LFI.
+  - **TVA à 5,5%** : Compatible avec la directive européenne sur les taux de TVA révisée en 2022 (possibilité d'appliquer un taux réduit pour la réparation).
+  - **Garantie 5 ans** : Nécessite un débat européen pour étendre la directive garanties, mais une surtransposition nationale est envisageable avec précaution pour l'import.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Régulation des marges et pouvoir d'achat au bénéfice direct des ménages sans peser sur les finances publiques.
+- **Observatoire des prix / DGCCRF renforcée** : 🟢 Socle (Mesures peu coûteuses à fort impact de protection du pouvoir d'achat. Nature : Régalien / Contrôle).
+- **TVA réparation / Fonds réparation** : 🟢 Socle (Bénéfice écologique et économique direct pour les ménages. Nature : Incitation fiscale).
+- **Garantie 5 ans / Action de groupe** : 🟡 Seconde vague (Nécessite une harmonisation juridique européenne. Nature : Régulation).
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- INSEE, indices des prix à la consommation ; *Note de conjoncture*, décembre 2023.
-- Observatoire de la formation des prix et des marges des produits alimentaires, rapport au Parlement 2025.
-- Banque de France, *Enquête typologique sur le surendettement*, 2024.
+- INSEE, séries sur l'inflation et note de conjoncture 2023-2024.
+- Observatoire de la formation des prix et des marges des produits alimentaires, rapport 2025.
+- Banque de France, *Enquête typologique sur le surendettement* (données 2024 parues début 2025).
 - Cour des comptes, *La DGCCRF*, 2023.
 - ADEME, *Allongement de la durée de vie des produits*, 2024.
 - Forbrukerkjøpsloven (Norvège), loi sur les achats des consommateurs.

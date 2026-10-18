@@ -11,9 +11,9 @@ Ce fichier est transversal. Il fixe la méthode et les outils communs ; les mesu
 | Indicateur | Valeur | Source |
 |---|---|---|
 | Déficit commercial (biens) | ≈ 81 Md€ en 2024, après un record de 164 Md€ en 2022 | Douanes, *Le chiffre du commerce extérieur* |
-| Facture énergétique | ≈ 64 Md€ en 2024 (117 Md€ en 2022) : pétrole et gaz presque entièrement importés | SDES |
+| Facture énergétique | ≈ 57,7 Md€ en 2024 (126,2 Md€ en 2022) : pétrole et gaz presque entièrement importés | SDES, 2025 |
 | Terres rares et métaux critiques | La Chine raffine ≈ 90 % des terres rares et ≈ 60 à 70 % du lithium et du cobalt mondiaux | AIE, *Global Critical Minerals Outlook*, 2025 |
-| Médicaments | ≈ 60 à 80 % des principes actifs fabriqués hors d'Europe ; ≈ 5 000 signalements de ruptures ou tensions en 2023 | ANSM ; Sénat, commission d'enquête sur les pénuries, 2023 |
+| Médicaments | ≈ 60 à 80 % des principes actifs fabriqués hors d'Europe ; hausse de 30% des signalements de ruptures ou tensions en 2023 | ANSM, 2024 ; Sénat, 2023 |
 | Cloud | Amazon, Microsoft et Google détiennent ≈ 70 % du marché européen ; acteurs européens ≈ 15 % | Synergy Research Group, 2024 |
 | Paiements par carte | ≈ 2/3 des paiements par carte en zone euro passent par Visa ou Mastercard (la France résiste grâce au réseau CB) | BCE, 2024 |
 | Semi-conducteurs | Europe ≈ 10 % de la production mondiale ; objectif européen 20 % en 2030 (Chips Act), jugé hors d'atteinte | Cour des comptes européenne, 2025 |
@@ -87,25 +87,36 @@ Ce fichier est transversal. Il fixe la méthode et les outils communs ; les mesu
 
 | Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
 |---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| 3. Stocks stratégiques nationaux (métaux, etc.) | +0,7 Md€ | 0 | +0,7 Md€ | Constitution amortie sur 10 ans. Dont 0,3 Md€ en 2nde vague. |
+| 4. Pharmacie publique et stocks médicaments | +0,3 Md€ | 0 | +0,3 Md€ | 50 MITM relocalisés et stockés. |
+| 5. Fonds métaux critiques | +1,5 Md€ (Capitalisation) | N/A | 0 Md€ | Capital apporté par CDC/Bpifrance hors budget général de l'État. |
+| 9. Supercalculateurs publics | +0,3 Md€ | 0 | +0,3 Md€ | 2 nouveaux supercalculateurs pour IA / recherche. |
+| 1. Haut-commissariat souveraineté | +0,1 Md€ | 0 | +0,1 Md€ | Agence avec moyens humains et techniques de cartographie. |
+| **Total Domaine 28** | | | **+1,4 Md€ (dont 0,3 Md€ seconde vague)** | Total proche de l'objectif annoncé de 1,5 Md€ dans l'index. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Réduire la vulnérabilité de la France face aux chocs géopolitiques (facture énergétique, médicaments, composants). La perte de souveraineté économique ampute la croissance et le bien-être de la population. Les 1,4 Md€ budgétés agissent comme une assurance indispensable.
+- **Faisabilité** :
+  - **Fonds de souveraineté et subventions ciblées** : Nécessite des dérogations ou une adaptation des règles de l'UE sur les aides d'État (en lien avec un *Buy European Act*).
+  - **Pharmacie publique** : Faisable, calqué sur des établissements type EFS ou AGEPS.
+  - **Supercalculateurs** : Dépend de la capacité technique européenne à fournir les composants nécessaires.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Sécurisation des chaînes de valeur (métaux critiques, stocks) indispensable à la résilience industrielle.
+- **Stocks stratégiques (Médicaments, Métaux)** : 🟢 Socle (Mesure de sécurité nationale et de continuité économique. Nature : Dépense de souveraineté).
+- **Fonds métaux critiques** : 🟢 Socle (Apport en capital extra-budgétaire, levier pour la réindustrialisation. Nature : Investissement productif).
+- **Supercalculateurs publics / Cloud souverain** : 🟡 Seconde vague (Projets lourds technologiquement, financement reporté après consolidation des bases. Nature : Investissement technologique).
+- **Haut-commissariat / Lois de blocage** : 🟢 Socle (Coût faible, impact direct de protection juridique. Nature : Régalien).
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - Direction générale des douanes, *Le chiffre du commerce extérieur*, bilan 2024.
-- SDES, *Bilan énergétique de la France*, 2024.
-- Agence internationale de l'énergie, *Global Critical Minerals Outlook*, 2025.
-- Sénat, commission d'enquête sur la pénurie de médicaments, rapport de juillet 2023 ; ANSM, bilan des ruptures 2023.
+- SDES, *Bilan énergétique de la France en 2024*, 2025.
+- Agence internationale de l'énergie, *Global Critical Minerals Outlook*, 2024.
+- Sénat, commission d'enquête sur la pénurie de médicaments, rapport de juillet 2023 ; ANSM, bilans de ruptures 2023-2024.
 - Règlement européen sur les matières premières critiques (*Critical Raw Materials Act*), 2024.
 - Assemblée nationale, rapport Gauvain, *Rétablir la souveraineté de la France et de l'Europe et protéger nos entreprises des lois et mesures à portée extraterritoriale*, 2019.
 - Synergy Research Group, parts de marché du cloud en Europe, 2024 ; BCE, rapports sur les paiements.

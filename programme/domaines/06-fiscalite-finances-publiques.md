@@ -10,9 +10,9 @@
 |---|---|---|
 | Prélèvements obligatoires | ≈ 43 % du PIB (2024), parmi les trois plus élevés de l'OCDE | INSEE ; OCDE, *Revenue Statistics* |
 | Dépenses publiques | ≈ 57 % du PIB (2024), record de l'UE | INSEE ; Eurostat |
-| Dette publique | ≈ 3 350 Md€ au milieu de 2025, ≈ 115 % du PIB | INSEE |
-| Charge d'intérêts de la dette | ≈ 55 à 60 Md€ en 2025, en hausse rapide | PLF 2026 ; Cour des comptes |
-| Déficit public | 5,8 % du PIB en 2024, ≈ 5,4 % en 2025 | INSEE |
+| Dette publique | ≈ 3 460 Md€ fin 2025, ≈ 115,6 % du PIB | INSEE, 2026 |
+| Charge d'intérêts de la dette | ≈ 74 à 77 Md€ en 2026 pour l'ensemble des APU, en hausse rapide | PLF 2026 ; Cour des comptes, 2026 |
+| Déficit public | 5,8 % du PIB en 2024, 5,1 % du PIB en 2025 | INSEE, 2026 |
 | Dépenses fiscales (« niches ») | ≈ 85 Md€/an, plus de 450 dispositifs | PLF, *Voies et moyens tome II* |
 | Foyers soumis à l'impôt sur le revenu | ≈ 45 % | DGFiP |
 | Taux d'imposition effectif des 0,0002 % les plus riches | ≈ 27 %, inférieur à celui des cadres supérieurs (≈ 46 % tous prélèvements compris) | Institut des politiques publiques, 2023 |
@@ -58,26 +58,32 @@ Ces recettes financent l'essentiel du **socle** du programme (≈ 81 Md€ de me
 
 | Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
 |---|---|---|---|---|
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
 | 1. Impôt citoyen unique | Neutre macroéconomiquement | Fusion IR/CSG | 0 | Redistribution intra-déciles. Maintien du taux global de prélèvement sur les revenus. |
 | 2. Revue des niches fiscales | +18 Md€ (Recette) | N/A | -18 Md€ | Suppression des 100 niches inefficaces (sur 85 Md€ existants). |
-| 3. Conditionnalité aides entreprises | +20 Md€ (Recette) | N/A | -20 Md€ | Recentrage de 10% des 211 Md€ d'aides. |
+| 3. Conditionnalité aides entreprises | +20 Md€ (Recette) | N/A | -20 Md€ | Recentrage d'environ 10% des 211 Md€ d'aides. |
 | 4. Impôt très hauts patrimoines | +6 Md€ (Recette) | N/A | -6 Md€ | 2% sur patrimoines > 100 M€ (approx 1800 foyers). Hypothèse de Gabriel Zucman. |
-| 5. Successions | +6 Md€ (Recette) | N/A | -6 Md€ | Fin des exemptions Dutreil / Assurance vie extrêmes (reco CAE). |
-| 6. Lutte fraude (agents) | +150 M€ (Coût agents) | +8 Md€ (Recouvrement) | -7,85 Md€ | 3000 agents × 50 000 €. Recouvrement estimé à +10% des 80 Md€ de fraude. |
-| 7. Règle d'or (économies courantes) | N/A | +40 Md€ cumulés | -40 Md€ (sur déficit) | Cadrage pluriannuel, croissance dépenses volume plafonnée à 0.5% hors inflation. |
+| 5. Successions | +6 Md€ (Recette) | N/A | -6 Md€ | Fin des exemptions Dutreil extrêmes et Assurance vie (reco CAE). |
+| 6. Lutte fraude (agents) | -150 M€ (Coût agents) | +8 Md€ (Recouvrement) | -7,85 Md€ | 3000 agents × 50 000 €. Recouvrement estimé à +10% des 80 Md€ de fraude. |
+| 7. Règle d'or (économies courantes) | N/A | +40 Md€ cumulés | -40 Md€ (sur déficit) | Cadrage pluriannuel, croissance dépenses volume plafonnée à 0.5% hors inflation, contribuant à la réduction du déficit. |
+| **Total Recettes Nouvelles 2032** | | | **-57,85 Md€ (pour le financement du socle, hors économies structurelles)** | (Le total de l'index 81 Md€ inclut les retours emploi, fraude sociale, finance, et économies). |
 
 ## Justification et Faisabilité
 
-- **Justification** : Redonner des marges de manœuvre budgétaires sans augmenter le taux de prélèvement obligatoire pesant sur la classe moyenne, en ciblant le capital non-productif, les aides sans contrepartie et la fraude.
+- **Justification** : Redonner des marges de manœuvre budgétaires sans augmenter le taux global de prélèvements obligatoires pesant sur la classe moyenne. En ciblant le capital non-productif, les aides sans contrepartie et la fraude, on finance la transition et la réduction du déficit (la charge de la dette atteignant 77 Md€ en 2026).
 - **Faisabilité** :
-  - Risque Constitutionnel sur l'impôt citoyen (principe d'égalité devant l'impôt) : Nécessite une définition juridique rigoureuse de la part conjugale/individuelle.
-  - Lutte contre la fraude : Capacités de recrutement réelles de la DGFiP à anticiper. Faisabilité technique très élevée via datamining.
-  - Aides aux entreprises : Forte opposition du patronat, nécessite des négociations branche par branche.
+  - **Risque constitutionnel sur l'impôt citoyen** : Le principe d'égalité devant l'impôt nécessite une définition juridique rigoureuse de la part conjugale/individuelle (fin ou adaptation du quotient conjugal).
+  - **Lutte contre la fraude** : Nécessite un recrutement massif (3000 agents) et une montée en puissance des outils de datamining, capacités réelles de la DGFiP à anticiper.
+  - **Aides aux entreprises** : Forte opposition attendue du patronat. Demande des négociations branche par branche et un pilotage politique ferme.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle (Toutes les recettes sont indispensables au reste du programme).
-- **Lien avec la relance économique** : L'orientation de la fiscalité (taxation des rentes et des patrimoines dormants) permet d'alléger la pression sur le travail (impôt citoyen indolore pour 90% des actifs) et finance l'investissement public et social indispensable à la croissance (multiplicateur de 1.1 sur l'investissement).
+- **Impôt citoyen unique** : 🟢 Socle (Mesure systémique de justice fiscale, à rendement global neutre. Nature : Réforme structurelle).
+- **Revue des niches / Conditionnalité des aides** : 🟢 Socle (Source principale de financement du programme, +38 Md€. Nature : Recettes pérennes).
+- **Impôt très hauts patrimoines / Successions** : 🟢 Socle (Réduction des inégalités patrimoniales, +12 Md€. Nature : Recettes).
+- **Lutte contre la fraude** : 🟢 Socle (Mesure régalienne et de rendement, +8 Md€ nets. Nature : Recettes).
+- **Règle d'or à la suédoise** : 🟢 Socle (Indispensable pour maîtriser la trajectoire d'endettement. Nature : Gouvernance budgétaire).
 
 ## Sources
 

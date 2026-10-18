@@ -8,11 +8,11 @@
 
 | Indicateur | Valeur | Source |
 |---|---|---|
-| Bilan cumulé des banques françaises | ≈ 9 000 à 10 000 Md€, soit ≈ 3 fois le PIB | ACPR, Banque de France |
+| Bilan cumulé des 6 principaux groupes bancaires français | ≈ 8 800 Md€, soit ≈ 3 fois le PIB | ACPR, rapport annuel 2024 |
 | Banques d'importance systémique mondiale | 4 (BNP Paribas, Crédit Agricole, Société Générale, BPCE) | Conseil de stabilité financière |
 | Activités filialisées par la loi bancaire de 2013 | Moins de 1 à 2 % du produit net bancaire des grandes banques | Cour des comptes ; rapports parlementaires |
-| Dividendes et rachats d'actions du CAC 40 | ≈ 100 Md€ en 2024 (record) | Vernimmen / Janus Henderson |
-| Aides publiques aux entreprises | ≈ 211 Md€ en 2023, sans évaluation d'ensemble ni contreparties systématiques | Sénat, commission d'enquête, juillet 2025 |
+| Dividendes et rachats d'actions du CAC 40 | 97,1 Md€ en 2023 (record historique) | Lettre Vernimmen, 2024 |
+| Aides publiques aux entreprises | ≈ 211 Md€ en 2023, sans évaluation d'ensemble ni contreparties systématiques | Sénat, commission d'enquête, juillet 2024 |
 | Épargne réglementée (Livret A + LDDS) | ≈ 600 Md€, dont ≈ 60 % centralisés à la Caisse des dépôts | Banque de France, 2025 |
 | Assurance-vie | ≈ 2 000 Md€, majoritairement placés en obligations souveraines et d'entreprises | France Assureurs |
 | Taxe sur les transactions financières (TTF) | 0,4 % sur les achats d'actions de grandes entreprises françaises, rendement ≈ 2 Md€ ; le trading intrajournalier en est exclu | Loi de finances 2025 |
@@ -77,23 +77,35 @@
 
 | Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
 |---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Taxe sur les rachats d'actions (8 %) | +2 Md€ (Rendement) | N/A | -2 Md€ | Estimation prudente basée sur environ 30 Md€ de rachats annuels. |
+| TTF élargie (intrajournalier, dérivés) | +3 Md€ (Rendement) | N/A | -3 Md€ | Taux de 0,1% avec anticipation de baisse des volumes (délocalisation). |
+| Contribution systémique | +1 Md€ (Rendement) | N/A | -1 Md€ | Assiette sur les risques portés par les 6 grands groupes. |
+| Conditionnalité des aides | (voir domaine 06) | (voir domaine 06) | 0 Md€ | Inclus dans les +20 Md€ du domaine 06. |
+| Livret Industrie-Climat, fonds Initiative, SCOP | -0,5 Md€ (Coût) | 0 | +0,5 Md€ | Prêts d'honneur, bonification et garanties publiques. |
+| **Total** | **N/A** | **N/A** | **-5,5 Md€ (Excédent versé au socle)** | Différence mineure avec les +5 à 6 Md€ annoncés dans le corps du texte. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Justification** : Rediriger l'épargne vers l'investissement productif pour la transition écologique et l'emploi, tout en pénalisant la distribution excessive de capital (rachats d'actions). Le bilan des grandes banques (≈ 3 fois le PIB) présente un risque systémique justifiant une contribution accrue.
+- **Faisabilité** :
+  - **Séparation bancaire / TTF** : Fort risque de délocalisation des activités de marché vers Londres ou Francfort si fait isolément. Nécessite une coordination européenne pour être pleinement efficace.
+  - **Taxe rachats d'actions** : Faisable immédiatement (précédent de l'Inflation Reduction Act aux USA), risque de report vers le versement de dividendes classiques.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Régulation financière visant à orienter l'épargne vers l'économie réelle (investissement productif).
+- **Séparation bancaire** : 🟢 Socle (Mesure réglementaire sans coût, essentielle pour sécuriser l'épargne. Nature : Régulation).
+- **Pôle public bancaire / Fléchage épargne** : 🟢 Socle (Catalyseur de l'investissement industriel. Nature : Investissement productif).
+- **Conditionnalité des aides / Rachats d'actions** : 🟢 Socle (Fournit les recettes nécessaires au bouclage macro. Nature : Recettes).
+- **TTF et Contribution systémique** : 🟡 Seconde vague (Dépend d'une coordination européenne pour éviter les fuites de capitaux. Nature : Recettes conditionnées).
+- **Aides SCOP / Fonds Initiative** : 🟢 Socle (Soutien direct à l'emploi et l'entrepreneuriat de base. Nature : Soutien à l'emploi).
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- ACPR, *Chiffres du marché français de la banque et de l'assurance*, 2024.
-- Sénat, *Aides publiques aux grandes entreprises*, rapport de la commission d'enquête, juillet 2025.
+- ACPR, *La situation des grands groupes bancaires français*, rapport 2024 (données 2023).
+- Sénat, *Rapport de la commission d'enquête sur l'utilisation des aides publiques aux grandes entreprises*, tome I, juillet 2024.
+- Vernimmen.net, *La lettre Vernimmen*, n°214, 2024 (chiffres CAC 40 de 2023).
 - Loi n° 2013-672 du 26 juillet 2013 de séparation et de régulation des activités bancaires.
 - Independent Commission on Banking (Vickers), *Final Report*, 2011.
 - Banque de France, *Rapport annuel de l'Observatoire de l'épargne réglementée*, 2024.

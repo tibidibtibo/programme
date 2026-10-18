@@ -65,8 +65,25 @@
 - Rénovations globales : 700 000 par an ; moins de 2 millions de passoires thermiques.
 - Facture d'importations fossiles : divisée par 2.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Investissement dans la rénovation thermique : création d'emplois locaux non délocalisables.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Citepa, *Rapport Secten* et *Baromètre des émissions*, 2025.
 - Haut Conseil pour le climat, *Rapport annuel*, 2025.
 - Jean Pisani-Ferry et Selma Mahfouz, *Les incidences économiques de l'action pour le climat*, France Stratégie, mai 2023.

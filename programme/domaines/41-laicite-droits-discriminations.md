@@ -69,8 +69,25 @@
 - Faits racistes, antisémites, antimusulmans et anti-LGBT+ enregistrés : -30 % (à taux de plainte constant).
 - Récépissé délivré pour 100 % des contrôles d'identité.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Mesures d'égalité républicaine à coût quasi-nul pour renforcer la confiance citoyenne.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - DARES et ISM Corum, *Discrimination à l'embauche selon l'origine : que nous apprend le testing auprès des grandes entreprises ?*, 2021.
 - Défenseur des droits, *Enquête sur l'accès aux droits : relations police/population*, 2017 ; rapports annuels.
 - Conseil d'État, décision du 11 octobre 2023 sur les contrôles d'identité discriminatoires.

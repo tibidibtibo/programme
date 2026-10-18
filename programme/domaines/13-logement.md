@@ -55,8 +55,25 @@
 - Personnes sans domicile : divisé par 2 ; aucun enfant à la rue.
 - Taux d'effort des ménages modestes du parc privé : sous 30 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Soutien direct au secteur de la construction (forte intensité en main-d'œuvre) et à la mobilité géographique des travailleurs.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Union sociale pour l'habitat, *Les HLM en chiffres*, 2024.
 - Fondation pour le logement des défavorisés, *L'état du mal-logement en France*, rapport 2025.
 - SDES, *Construction de logements*, résultats 2024.

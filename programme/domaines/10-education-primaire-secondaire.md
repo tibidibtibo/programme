@@ -72,8 +72,25 @@
 - Sorties sans diplôme : sous 40 000 par an.
 - Plus aucun poste non pourvu aux concours.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague (pour les créations de postes massives) / 🟢 Socle (pour le soutien)
+- **Lien avec la relance économique** : L'élévation du niveau général est la condition de la compétitivité à long terme, mais son coût nécessite de suivre la trajectoire macro.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - OCDE, *PISA 2022 Results (Volumes I et II)*, décembre 2023.
 - OCDE, *Regards sur l'éducation 2024*.
 - DEPP, *Repères et références statistiques 2025* ; évaluations nationales 6e.

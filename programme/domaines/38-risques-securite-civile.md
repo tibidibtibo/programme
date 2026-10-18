@@ -72,8 +72,25 @@
 - Population formée aux premiers secours : 65 % en 2032, 80 % en 2035.
 - Communes sans assureur : zéro.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague (pour l'extension des effectifs) / 🟢 Socle (pour le plan d'urgence)
+- **Lien avec la relance économique** : Adaptation au changement climatique (incendies, inondations), financement séquencé.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Ministère de l'Intérieur, DGSCGC, *Les statistiques des services d'incendie et de secours*, édition 2024.
 - Sénat, rapport sur la sécurité civile face aux feux de forêt, 2023.
 - France Assureurs, bilans annuels des catastrophes naturelles.

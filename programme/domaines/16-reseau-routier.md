@@ -48,8 +48,25 @@
 - Ponts en état préoccupant : divisés par 2.
 - Calendrier de reprise publique des autoroutes voté.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Maintien des infrastructures vitales pour la chaîne d'approvisionnement nationale.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Autorité de régulation des transports, *Rapport sur l'économie des concessions autoroutières*, 2023-2024.
 - Inspection générale des finances, *Modèle économique des sociétés concessionnaires d'autoroutes*, 2021.
 - Sénat, *Contrôle, régulation et évolution des concessions autoroutières*, commission d'enquête, septembre 2020.

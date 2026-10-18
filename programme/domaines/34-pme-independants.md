@@ -73,8 +73,25 @@
 - Vacance commerciale en centre-ville : sous 8 %.
 - Revenu moyen des micro-entrepreneurs actifs : +30 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Amélioration de la trésorerie des PME (délais de paiement) pour soutenir l'investissement local.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - INSEE, *Les entreprises en France*, édition 2024.
 - Banque de France, *Observatoire des délais de paiement*, rapport annuel 2024 ; statistiques de défaillances.
 - URSSAF, *Les auto-entrepreneurs*, bilans annuels.

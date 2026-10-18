@@ -68,8 +68,25 @@ Ce fichier détaille la mesure 10 du [fichier 08](08-protection-sociale-retraite
 - Reste à charge médian en EHPAD : inférieur à la pension médiane.
 - Postes non pourvus dans l'aide à domicile : divisés par 2.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague
+- **Lien avec la relance économique** : Mesure sociale différée ou échelonnée en fonction des recettes constatées de la relance.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Dominique Libault, *Concertation Grand âge et autonomie*, rapport, mars 2019.
 - DREES, *L'aide et l'action sociales en France*, édition 2024 ; enquêtes EHPA et CARE.
 - INSEE, *Projections de population 2021-2070*.

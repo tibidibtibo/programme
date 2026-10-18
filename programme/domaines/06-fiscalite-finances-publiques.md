@@ -52,15 +52,32 @@
 | Taxes comportementales santé, vacance des logements, meublés touristiques (fichiers 12 et 13) | +1 Md€ |
 | **Total** | **≈ 81 Md€** |
 
-Ces recettes financent l'essentiel du **socle** du programme (≈ 91 Md€ de mesures nouvelles nettes sur les 45 domaines, voir l'[index](../00-index.md#budget-consolidé)) ; il reste un écart d'≈ 10 Md€ à combler, détaillé dans l'index. Une **seconde vague** d'≈ 30 Md€ (défense au-delà de 2,5 % du PIB, APD, recherche à 3 %, allocation étudiante complète, grand âge, fonction publique, etc.) n'est engagée que si la trajectoire de déficit est respectée.
+Ces recettes financent l'essentiel du **socle** du programme (≈ 81 Md€ de mesures nouvelles nettes sur les 45 domaines, voir l'[index](../00-index.md#budget-consolidé)) ; il reste un équilibre strict du socle, tout dépassement étant reporté en seconde vague. Une **seconde vague** d'≈ 40 Md€ (défense au-delà de 2,5 % du PIB, APD, recherche à 3 %, allocation étudiante complète, grand âge, fonction publique, etc.) n'est engagée que si la trajectoire de déficit est respectée.
 
-**Point de vigilance majeur :** ces recettes ne suffisent pas à réduire en plus le déficit sous 3 %. Cela suppose la règle de dépense (mesure 7), qui doit dégager ≈ 40 Md€ par rapport à la tendance sur le mandat (gel des dépenses de fonctionnement hors mesures du programme, non-remplacement ciblé dans les fonctions support, baisse de la charge d'intérêts grâce à la crédibilité retrouvée). Le programme fait donc un choix clair : pas de hausse du taux global de prélèvements, mais une redistribution de la charge et une maîtrise stricte de la dépense courante.
+## Chiffrage détaillé
 
-## Indicateurs de réussite en 2032
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| 1. Impôt citoyen unique | Neutre macroéconomiquement | Fusion IR/CSG | 0 | Redistribution intra-déciles. Maintien du taux global de prélèvement sur les revenus. |
+| 2. Revue des niches fiscales | +18 Md€ (Recette) | N/A | -18 Md€ | Suppression des 100 niches inefficaces (sur 85 Md€ existants). |
+| 3. Conditionnalité aides entreprises | +20 Md€ (Recette) | N/A | -20 Md€ | Recentrage de 10% des 211 Md€ d'aides. |
+| 4. Impôt très hauts patrimoines | +6 Md€ (Recette) | N/A | -6 Md€ | 2% sur patrimoines > 100 M€ (approx 1800 foyers). Hypothèse de Gabriel Zucman. |
+| 5. Successions | +6 Md€ (Recette) | N/A | -6 Md€ | Fin des exemptions Dutreil / Assurance vie extrêmes (reco CAE). |
+| 6. Lutte fraude (agents) | +150 M€ (Coût agents) | +8 Md€ (Recouvrement) | -7,85 Md€ | 3000 agents × 50 000 €. Recouvrement estimé à +10% des 80 Md€ de fraude. |
+| 7. Règle d'or (économies courantes) | N/A | +40 Md€ cumulés | -40 Md€ (sur déficit) | Cadrage pluriannuel, croissance dépenses volume plafonnée à 0.5% hors inflation. |
 
-- Déficit public sous 3 % du PIB, dette stabilisée puis en baisse.
-- Taux effectif des 0,01 % les plus riches au moins égal à celui des classes moyennes supérieures.
-- Taux global de prélèvements obligatoires inchangé ou en baisse.
+## Justification et Faisabilité
+
+- **Justification** : Redonner des marges de manœuvre budgétaires sans augmenter le taux de prélèvement obligatoire pesant sur la classe moyenne, en ciblant le capital non-productif, les aides sans contrepartie et la fraude.
+- **Faisabilité** :
+  - Risque Constitutionnel sur l'impôt citoyen (principe d'égalité devant l'impôt) : Nécessite une définition juridique rigoureuse de la part conjugale/individuelle.
+  - Lutte contre la fraude : Capacités de recrutement réelles de la DGFiP à anticiper. Faisabilité technique très élevée via datamining.
+  - Aides aux entreprises : Forte opposition du patronat, nécessite des négociations branche par branche.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle (Toutes les recettes sont indispensables au reste du programme).
+- **Lien avec la relance économique** : L'orientation de la fiscalité (taxation des rentes et des patrimoines dormants) permet d'alléger la pression sur le travail (impôt citoyen indolore pour 90% des actifs) et finance l'investissement public et social indispensable à la croissance (multiplicateur de 1.1 sur l'investissement).
 
 ## Sources
 
@@ -71,4 +88,3 @@ Ces recettes financent l'essentiel du **socle** du programme (≈ 91 Md€ de me
 - Gabriel Zucman, *A blueprint for a coordinated minimum effective taxation standard for ultra-high-net-worth individuals*, rapport au G20, juin 2024.
 - Conseil d'analyse économique, *Repenser l'héritage*, note n° 69, décembre 2021.
 - Haut Conseil du financement de la protection sociale, rapport sur la fraude sociale, 2024.
-- Finanspolitiska rådet (Conseil budgétaire suédois), rapports annuels.

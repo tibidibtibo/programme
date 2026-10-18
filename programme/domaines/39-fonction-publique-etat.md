@@ -70,8 +70,25 @@ Les revalorisations sectorielles (enseignants, soignants, justice, armées) sont
 - Satisfaction des usagers des services publics : +10 points.
 - Part des contractuels sur des besoins permanents : -30 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague (pour l'indexation) / 🟢 Socle (pour la baisse des cabinets de conseil)
+- **Lien avec la relance économique** : La maîtrise de la dépense courante est la condition de la relance. L'indexation massive relève du séquencement.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - DGAFP, *Rapport annuel sur l'état de la fonction publique*, édition 2024.
 - Sénat, commission d'enquête sur l'influence croissante des cabinets de conseil, rapport de mars 2022.
 - Sénat, commission d'enquête sur les missions des agences, opérateurs et organismes consultatifs de l'État, rapport de juillet 2025.

@@ -69,8 +69,25 @@
 - Abandons d'animaux de compagnie : -50 %.
 - Part des produits animaux étiquetés selon le mode d'élevage : 100 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague (pour l'accompagnement des filières) / 🟢 Socle (pour la fin des cages et la vidéosurveillance)
+- **Lien avec la relance économique** : Transition agroécologique nécessitant un soutien financier en fonction des recettes.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Agreste, statistiques d'abattage, 2024.
 - Assemblée nationale, commission d'enquête sur les conditions d'abattage des animaux de boucherie, 2016.
 - Cour des comptes, *Le contrôle sanitaire des abattoirs*, 2023.

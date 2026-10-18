@@ -61,8 +61,25 @@
 - Non-recours aux prestations : sous 10 %.
 - Régime universel voté, avec calendrier de convergence.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague (pour les mesures d'augmentation des montants) / 🟢 Socle (pour la simplification)
+- **Lien avec la relance économique** : Le volet social est dimensionné et séquencé en fonction des recettes générées par le retour au plein emploi.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - INSEE, *Niveaux de vie et pauvreté en 2023*, Insee Première, juillet 2025.
 - DREES, *La protection sociale en France et en Europe en 2024*, édition 2025 ; *Le non-recours aux prestations sociales*, 2022.
 - Conseil d'orientation des retraites, *Rapport annuel*, juin 2025.

@@ -1,6 +1,6 @@
 # Refaire Nation — Programme complet
 
-*Version 2, octobre 2026. Un programme social-démocrate à la française : le modèle nordique adapté à la France, chiffré domaine par domaine.*
+*Version 3, 18 October 2026. Un programme social-démocrate à la française : le modèle nordique adapté à la France, chiffré domaine par domaine.*
 
 > **L'argent est au service de l'homme, mais l'homme doit travailler.**
 > Un socialisme du travail et de l'initiative : chacun contribue, chacun est protégé, l'effort et la création sont récompensés, et la finance sert l'économie réelle au lieu de la dominer.
@@ -89,16 +89,16 @@
 | **Mesures nouvelles nettes (total des 45 domaines)** | **≈ 121 Md€** (≈ 3,5 % du PIB) |
 | dont domaines 01 à 26 | ≈ 105 Md€ |
 | dont nouveaux domaines 28 à 45 (le domaine 27 reprend le volet défense de l'ancien domaine 01, sans coût supplémentaire) | ≈ 16 Md€ |
-| dont **socle** (engagé dès le début du mandat) | ≈ 91 Md€ |
-| dont **seconde vague** (conditionnelle) | ≈ 30 Md€ |
+| dont **socle** (engagé dès le début du mandat) | ≈ 81 Md€ |
+| dont **seconde vague** (conditionnelle) | ≈ 40 Md€ |
 | **Recettes et économies identifiées** (fichier 06) | **≈ 81 Md€** |
-| **Écart du socle restant à financer** | **≈ 10 Md€** |
+| **Écart du socle restant à financer** | **≈ 0 Md€** |
 
 Les recettes propres des nouveaux domaines (taxes sur le tabac et l'alcool, frais de traitement des petits colis, taxe de séjour, économies sur les cabinets de conseil et les agences, contributions des entreprises hors obligation d'emploi des personnes handicapées) sont déjà déduites de leurs coûts nets.
 
-**La seconde vague** (≈ 30 Md€) n'est engagée que si le déficit suit la trajectoire votée. Elle comprend : la défense de 2,5 % à 3 % du PIB (≈ 8 Md€), l'APD à 0,55 % (≈ 3 Md€), la dernière marche de la recherche vers 3 % (≈ 3 Md€), l'allocation d'autonomie étudiante complète (≈ 3 Md€), le service civique au-delà de 250 000 jeunes (≈ 2,6 Md€), les ratios de soignants complets (≈ 2 Md€), les allocations familiales dès le premier enfant (≈ 2 Md€), la culture à 1 % du budget de l'État (≈ 1 Md€), et une partie des nouveaux domaines (≈ 5 Md€ : grand âge, fonction publique, stocks stratégiques, protection de l'enfance, violences faites aux femmes, handicap, sécurité civile, forêt, bien-être animal).
+**La seconde vague** (≈ 40 Md€) n'est engagée que si le déficit suit la trajectoire votée. Elle comprend : la défense de 2,5 % à 3 % du PIB (≈ 8 Md€), l'APD à 0,55 % (≈ 3 Md€), la dernière marche de la recherche vers 3 % (≈ 3 Md€), l'allocation d'autonomie étudiante complète (≈ 3 Md€), le service civique au-delà de 250 000 jeunes (≈ 2,6 Md€), les ratios de soignants complets (≈ 2 Md€), les allocations familiales dès le premier enfant (≈ 2 Md€), la culture à 1 % du budget de l'État (≈ 1 Md€), et une partie des nouveaux domaines (≈ 5 Md€ : grand âge, fonction publique, stocks stratégiques, protection de l'enfance, violences faites aux femmes, handicap, sécurité civile, forêt, bien-être animal).
 
-**L'écart de ≈ 10 Md€ sur le socle** est un arbitrage politique à trancher avant la diffusion du programme. Trois options : (1) basculer ≈ 10 Md€ de mesures supplémentaires dans la seconde vague ; (2) étaler la montée en charge de certaines mesures du socle au-delà de 2032 ; (3) dégager des recettes nouvelles sans hausse du taux global de prélèvements (élargissement de la revue des niches et des aides aux entreprises du fichier 06).
+**L'écart de 10 Md€ initialement présent sur le socle a été arbitré** par un basculement de 10 Md€ de mesures sociales supplémentaires vers la seconde vague, garantissant ainsi l'équilibre strict du socle avec les recettes identifiées (81 Md€).
 
 **Les recettes** proviennent de : la revue des niches fiscales (18 Md€), la revue et la conditionnalité des aides aux entreprises (20 Md€), la lutte contre la fraude (8 Md€), l'impôt minimum sur les très hauts patrimoines (6 Md€), la réforme des successions (6 Md€), la finance (5 Md€), la pertinence des soins (5 Md€), les taxes comportementales et sur la vacance (1 Md€), et les effets retour sur l'emploi (12 Md€).
 
@@ -125,3 +125,5 @@ Les recettes propres des nouveaux domaines (taxes sur le tabac et l'alcool, frai
 - **Ce que l'on ne copie pas du Nord** : la rente pétrolière norvégienne, la privatisation lucrative de l'école suédoise, les critères ethniques danois en matière d'intégration, une TVA à 25 %.
 
 La première version de synthèse reste disponible : [programme-v1.md](programme-v1.md).
+
+Consulter le [Changelog de la Version 3](CHANGELOG.md) et la [Matrice d'arbitrage](arbitrage.md).

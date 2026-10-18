@@ -70,8 +70,25 @@
 - Surface brûlée : sous 15 000 hectares par an en moyenne.
 - Stations de moyenne altitude dotées d'un plan de diversification : 100 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague (pour les investissements lourds de l'ONF) / 🟢 Socle (transition des stations de ski)
+- **Lien avec la relance économique** : Investissement de long terme pour l'adaptation des filières bois et tourisme au changement climatique.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - IGN, *Le mémento de l'inventaire forestier*, édition 2024.
 - Citepa, inventaire national des émissions, 2025.
 - Cour des comptes, *La gestion de l'Office national des forêts*, 2023 ; *Les stations de montagne face au changement climatique*, février 2024.

@@ -53,8 +53,25 @@
 - Participation aux élections législatives : au moins 65 %.
 - Indice de perception de la corruption : 75/100.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Dépense négligeable, gain en transparence et confiance à long terme, essentiel à la méthode sociale-démocrate.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Cevipof (Sciences Po), *Baromètre de la confiance politique*, vague 16, février 2025.
 - Transparency International, *Corruption Perceptions Index 2024*.
 - Haute Autorité pour la transparence de la vie publique, rapports annuels.

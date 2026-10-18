@@ -78,8 +78,25 @@ Ce fichier détaille la mesure 8 du [fichier 23](23-territoires-services-publics
 - Taux de pauvreté : -10 points dans chaque territoire.
 - Part des énergies renouvelables dans l'électricité : au moins 70 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Rattrapage d'infrastructures indispensables au développement économique local.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - INSEE, *Comparaison des prix entre les DOM et la France métropolitaine en 2022*, 2023 ; enquêtes Emploi et pauvreté dans les DOM.
 - Autorité de la concurrence, avis n° 19-A-12 sur les prix en outre-mer, 2019.
 - Assemblée nationale, commission d'enquête sur la gestion des risques naturels et la vie chère en outre-mer, 2023-2024.

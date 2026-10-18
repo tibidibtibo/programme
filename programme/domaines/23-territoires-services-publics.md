@@ -53,8 +53,25 @@
 - Écart de chômage entre quartiers prioritaires et moyenne nationale : -30 %.
 - Écart de prix alimentaires outre-mer/métropole : -15 points.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Aménagement du territoire favorisant l'implantation d'entreprises (infrastructures, services essentiels).
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - INSEE, *La France et ses territoires*, édition 2021 ; grille communale de densité.
 - ANCT, *Rapport de l'Observatoire des territoires*, 2024 ; bilan France Services 2025.
 - Observatoire national de la politique de la ville, rapport 2024.

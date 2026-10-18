@@ -84,8 +84,25 @@
 - Part des achats d'armement européens : au moins 75 %.
 - Premier SNLE de 3e génération en essais à la mer.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague (pour le passage de 2.5% à 3%) / 🟢 Socle (pour la consolidation à 2.5%)
+- **Lien avec la relance économique** : Effet multiplicateur de la commande publique sur la base industrielle et technologique de défense (BITD).
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Ministère des Armées, *Loi de programmation militaire 2024-2030* et actualisation 2025 ; *Bilan social* 2024.
 - OTAN, déclaration du sommet de La Haye, juin 2025.
 - Discours du Président de la République sur la stratégie de défense et de dissuasion, École de guerre, 7 février 2020.

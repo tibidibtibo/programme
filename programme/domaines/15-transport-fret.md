@@ -48,8 +48,25 @@
 - Part du rail : 18 % ; part du fluvial : 4 %.
 - Part des conteneurs français passant par des ports étrangers : sous 25 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Investissement dans les infrastructures fret pour renforcer la compétitivité logistique et décarboner l'économie.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - SDES, *Chiffres clés du transport*, édition 2025.
 - Eurostat, *Freight transport statistics — modal split*, 2024.
 - Ministère des Transports, *Stratégie nationale pour le développement du fret ferroviaire*, 2021.

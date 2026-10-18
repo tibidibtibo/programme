@@ -78,8 +78,25 @@ La lutte contre le narcotrafic (police, justice, saisie des avoirs) est traitée
 - Usage régulier de cannabis à 17 ans : divisé par 2.
 - Décès par overdose : -30 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Santé publique génératrice d'excédents par la fiscalité (tabac, alcool) et des économies à terme.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Santé publique France, *Baromètre de Santé publique France 2023* ; *Bulletin épidémiologique hebdomadaire* sur la mortalité attribuable au tabac et à l'alcool.
 - Observatoire français des drogues et des tendances addictives (OFDT), *Drogues et addictions, chiffres clés 2024* ; *Le coût social des drogues*, 2023.
 - Cour des comptes, *La politique de lutte contre les consommations de stupéfiants*, 2023.

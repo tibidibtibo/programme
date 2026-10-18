@@ -83,8 +83,25 @@ Ce fichier est transversal. Il fixe la méthode et les outils communs ; les mesu
 - 100 % des données de santé et des données régaliennes sur un cloud qualifié SecNumCloud.
 - Déficit commercial des biens hors énergie : divisé par 2.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Sécurisation des chaînes de valeur (métaux critiques, stocks) indispensable à la résilience industrielle.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Direction générale des douanes, *Le chiffre du commerce extérieur*, bilan 2024.
 - SDES, *Bilan énergétique de la France*, 2024.
 - Agence internationale de l'énergie, *Global Critical Minerals Outlook*, 2025.

@@ -52,8 +52,25 @@
 - Part des enfants modestes accueillis en crèche : multipliée par 3.
 - Part des pères prenant au moins 2 mois de congé : 70 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle (montée en charge progressive)
+- **Lien avec la relance économique** : La garde d'enfants est un prérequis absolu pour le retour à l'emploi (notamment des femmes).
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Observatoire national de la petite enfance (ONAPE, CNAF), *L'accueil du jeune enfant en 2023*, rapport 2024.
 - Haut Conseil de la famille, de l'enfance et de l'âge, *Accueil des enfants de moins de 3 ans*, 2023.
 - IGAS, *Qualité de l'accueil et prévention de la maltraitance dans les crèches*, avril 2023.

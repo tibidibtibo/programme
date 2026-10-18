@@ -62,8 +62,25 @@
 - Recettes touristiques internationales : +20 % en volume.
 - Saisonniers sans solution de logement : -50 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Secteur clé pour la balance des paiements ; rééquilibrage de l'offre (saisonnalité, logements).
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Atout France ; Banque de France, balance des paiements 2024.
 - Direction générale des entreprises (DGE), *Les chiffres clés du tourisme*, 2024.
 - Observatoire des inégalités, *Qui part en vacances ?*, 2024 ; CRÉDOC, enquêtes Conditions de vie.

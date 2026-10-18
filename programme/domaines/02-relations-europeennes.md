@@ -42,8 +42,25 @@
 - Clauses miroirs dans tous les nouveaux accords commerciaux.
 - Écart de salaire minimum en parité de pouvoir d'achat réduit d'un tiers dans l'UE.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟢 Socle
+- **Lien avec la relance économique** : Stratégie européenne pour la compétitivité et l'emprunt commun d'investissement.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - Mario Draghi, *The future of European competitiveness*, Commission européenne, septembre 2024.
 - Directive (UE) 2022/2041 relative à des salaires minimaux adéquats.
 - Commission européenne, *Livre blanc sur la défense européenne — Readiness 2030*, mars 2025.

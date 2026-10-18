@@ -50,8 +50,25 @@
 - Étudiants sous le seuil de pauvreté : sous 10 %.
 - Réussite en licence en 3 ou 4 ans : 60 %.
 
+## Chiffrage détaillé
+
+| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
+|---|---|---|---|---|
+| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+
+## Justification et Faisabilité
+
+- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
+- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+
+## Arbitrage et Relance
+
+- **Statut d'arbitrage** : 🟡 Seconde vague (pour la dernière marche)
+- **Lien avec la relance économique** : L'investissement dans la recherche et la formation est le premier moteur de la croissance endogène à long terme.
+
 ## Sources
 
+- [À VÉRIFIER] Compléter les sources précises.
 - OCDE, *Main Science and Technology Indicators*, 2024.
 - Ministère de l'Enseignement supérieur et de la Recherche, *L'état de l'enseignement supérieur, de la recherche et de l'innovation en France*, n° 18, 2025.
 - Observatoire de la vie étudiante, *Enquête Conditions de vie 2023*.

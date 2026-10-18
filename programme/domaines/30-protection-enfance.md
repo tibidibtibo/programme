@@ -73,23 +73,33 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 1-3. Socle national (État) | 0,9 Md€ | 0 | 0,9 Md€ | 2030 | L'État compense les départements pour respecter la norme d'un éducateur pour 4. |
+| 5-6. Assistants / éducateurs | 0,5 Md€ | 0 | 0,5 Md€ | 2029 | +10 000 familles d'accueil (x 30 000 € net) + revalorisations (200 M€). |
+| 10. Accompagnement (25 ans) | 0,3 Md€ | 0 | 0,3 Md€ | 2028 | Allocation et logement pour ≈ 30 000 jeunes majeurs / an. |
+| 11-12. Prévention et violences | 0,2 Md€ | 0 | 0,2 Md€ | 2028 | Renfort PMI et unités d'accueil pédiatriques. |
+| 14. Évaluation des MNA | 0,1 Md€ | 0 | 0,1 Md€ | 2028 | Reprise à la charge de l'État. |
+| **Total du domaine 30** | **2,0 Md€** | **0** | **2,0 Md€** | - | Cohérent avec le coût net annoncé. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Socle national et prise en main par l'État** :
+  - *Justification* : L'inégalité entre les départements crée une rupture de l'égalité devant la République. L'État doit être garant en dernier ressort.
+  - *Faisabilité et Risques* : Le transfert de charge de départements en difficulté vers l'État sera accueilli positivement par l'ADF, mais l'État doit avoir les moyens de ses inspections (délai de formation d'inspecteurs).
+- **Accompagnement jusqu'à 25 ans** :
+  - *Justification* : On ne peut pas abandonner un jeune qui n'a pas de famille à 18 ans, alors que l'âge moyen de départ du domicile familial est au-dessus de 23 ans en France. Un ancien placé sur quatre est sans-abri, un coût social dramatique.
+  - *Faisabilité* : Techniquement facile en ouvrant les droits aux CROUS, APL et allocation d'autonomie.
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟡 Seconde vague
-- **Lien avec la relance économique** : Volet social conditionné au respect de la trajectoire budgétaire globale.
+- **1-3. Socle national** : 🟡 Seconde vague. Transfert massif de charge à financer selon la croissance.
+- **5-6. Métiers de l'ASE** : 🟢 Socle. Il y a urgence vitale, des enfants dorment dans des bureaux (rapports 2024-2025).
+- **10. Accompagnement (18-25 ans)** : 🟢 Socle. Evite le basculement dans la grande précarité (qui coûte très cher en aval).
+- **14. Mineurs non accompagnés** : 🟢 Socle. Responsabilité régalienne des frontières, décharge des départements.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - DREES, *L'aide sociale à l'enfance*, édition 2024 ; ONPE, rapports annuels.
 - Assemblée nationale, commission d'enquête sur les manquements des politiques de protection de l'enfance, rapport d'avril 2025.
 - Commission indépendante sur l'inceste et les violences sexuelles faites aux enfants (CIIVISE), rapport final, novembre 2023.

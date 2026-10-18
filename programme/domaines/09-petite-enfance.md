@@ -54,23 +54,37 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
+| Mesure | Coût brut | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| 2. 200 000 places nouvelles | 3 Md€ | 0,5 Md€ (fonds CNAF réalloués) | 2,5 Md€ | 2032 | 12 500 € par place en fonctionnement. |
+| 3. Tarif plafonné et accès modestes | 0,5 Md€ | 0 | 0,5 Md€ | 2030 | Compensation à l'euro près aux communes via la branche Famille. |
+| 5. Revalorisations et formation | 1 Md€ | 0 | 1 Md€ | 2029 | +15% de salaire pour ≈ 150 000 ETP (assistantes maternelles et pro de crèches). |
+| 7. Congé de naissance rénové | 2 Md€ | 0,5 Md€ (fin PreParE) | 1,5 Md€ | 2028 | 70% du salaire plafonné (≈ 1500€ moyen) pour 2 mois x 2 parents x 500 000 familles. |
+| 8. Renfort PMI (bilans précoces) | 0,3 Md€ | 0 | 0,3 Md€ | 2029 | Coût de 1 million de bilans annuels (env. 300€/bilan). |
+| **Total du domaine 09** | **6,8 Md€** | **1,0 Md€** | **5,8 Md€** | - | Cohérent avec le coût net annoncé. |
 
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
+- **Création de 200 000 places** :
+  - *Justification* : Le manque de places pénalise l'emploi féminin et creuse les inégalités sociales de développement dès le plus jeune âge.
+  - *Faisabilité et Risques* : Le foncier et le recrutement sont les principaux freins. Il faudra mobiliser le bâti vacant et attirer via des revalorisations salariales. Délai de 5 ans inévitable.
+- **Congé de naissance rénové** :
+  - *Justification* : Le modèle norvégien démontre qu'un congé bien rémunéré et partagé améliore le bien-être de l'enfant et réduit la pénalité maternelle sur la carrière.
+  - *Faisabilité* : Techniquement facile, c'est une mesure de sécurité sociale gérée par la CNAF.
+- **Tarif plafonné** :
+  - *Justification* : Modèle suédois, garantit l'accès sans barrière financière.
+  - *Faisabilité* : Nécessite de sécuriser juridiquement la compensation financière aux communes pour éviter l'effet "mandat non financé".
 
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle (montée en charge progressive)
-- **Lien avec la relance économique** : La garde d'enfants est un prérequis absolu pour le retour à l'emploi (notamment des femmes).
+- **2. 200 000 places nouvelles** : 🟢 Socle. Investissement social de base et soutien direct à l'emploi des mères.
+- **3. Tarif plafonné** : 🟢 Socle. Mesure d'égalité d'accès, indispensable à la politique de l'emploi pour les revenus modestes.
+- **5. Revalorisations métiers** : 🟢 Socle. Indispensable pour réussir le recrutement lié à la mesure 2.
+- **7. Congé de naissance** : 🟢 Socle. Remplace un système dysfonctionnel (PreParE).
+- **8. Renfort PMI** : 🟢 Socle. La prévention est l'investissement social au plus fort taux de rentabilité.
 
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
 - Observatoire national de la petite enfance (ONAPE, CNAF), *L'accueil du jeune enfant en 2023*, rapport 2024.
 - Haut Conseil de la famille, de l'enfance et de l'âge, *Accueil des enfants de moins de 3 ans*, 2023.
 - IGAS, *Qualité de l'accueil et prévention de la maltraitance dans les crèches*, avril 2023.

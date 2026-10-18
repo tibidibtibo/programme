@@ -14,7 +14,7 @@
 | Fin des concessions autoroutières historiques | Entre 2031 et 2036 | Autorité de régulation des transports (ART) |
 | Rentabilité des sociétés d'autoroutes | Supérieure à celle prévue au moment de la privatisation de 2006 ; un rapport de l'IGF (2021) estime un surprofit possible de plusieurs dizaines de Md€ d'ici la fin des contrats | IGF, 2021 ; Sénat, 2020 |
 | Dividendes versés par les sociétés d'autoroutes | ≈ 3 à 4 Md€/an | ART |
-| Morts sur les routes | ≈ 3 200 par an (2024) | Observatoire national interministériel de la sécurité routière (ONISR) |
+| Morts sur les routes | ≈ 3 400 par an (2023-2024) | Observatoire national interministériel de la sécurité routière (ONISR) |
 
 ## Ce qui marche ailleurs
 
@@ -50,26 +50,33 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
-
+| Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| Retour en gestion publique des autoroutes | - | - | 0 Md€ | 2032 | Les péages actuels financent l'exploitation. Après 2036, une baisse des péages de 20 % laissera encore ≈ 3 Md€ de recettes nettes annuelles à l'État (la fin des concessions historiques se fait entre 2031 et 2036). |
+| Plan d'entretien des routes et ponts | ≈ 0,8 Md€ | - | ≈ 0,8 Md€ | 2032 | +500 M€/an pour les routes nationales et fonds de 300 M€/an pour l'entretien des ouvrages d'art (ponts) communaux. |
+| Sécurité routière "Vision zéro" et gratuité du permis | ≈ 0,2 Md€ | - | ≈ 0,2 Md€ | 2032 | Aménagements 2+1, sécurisation et financement du permis via le service civique. |
+| Redevance sur les concessions autoroutières | - | ≈ -1,5 Md€ | ≈ -1,5 Md€ | 2028 | Hausse de la taxe sur l'exploitation des infrastructures de transport (instaurée en 2024, rapportant initialement ≈ 600 M€). Ciblée sur les surprofits documentés (IGF 2021). |
+| **Total** | **≈ 1,0 Md€** | **≈ -1,5 Md€** | **≈ -0,5 Md€** | 2032 | Le domaine dégage un excédent de 0,5 Md€ (transféré vers le financement des transports en commun - fichier 14). |
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
-
+- **Justification** : L'état des ponts communaux et du réseau routier non concédé se dégrade par manque de financement, tandis que les sociétés d'autoroutes dégagent une rentabilité très supérieure aux prévisions de la privatisation de 2006 (avec 3 à 4 Md€ de dividendes annuels). La sécurité routière (environ 3 400 morts par an) doit s'inspirer de la Suède, qui a divisé par plus de deux sa mortalité avec le programme *Vision Zero*.
+- **Faisabilité** :
+  - *Redevance autoroutière* : Le Conseil d'État a validé le principe d'une taxe spécifique sur les infrastructures (PLF 2024) à condition qu'elle s'applique à un secteur (les grandes infrastructures) et non spécifiquement à une entreprise. Son augmentation est juridiquement possible.
+  - *Fin des concessions* : Les contrats arrivent à échéance naturellement entre 2031 et 2036. L'État n'a aucune obligation juridique de les renouveler, il reprendra la gestion via un ÉPIC dédié.
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Maintien des infrastructures vitales pour la chaîne d'approvisionnement nationale.
+- **Taxe et fin des concessions** : 🟢 Socle. [Investissement productif] Réappropriation d'une rente de situation pour la réinjecter dans les transports publics et réduire le coût de déplacement des usagers.
+- **Entretien des routes et ponts** : 🟢 Socle. [Investissement productif] Dépense préventive (éviter les effondrements) soutenant directement l'activité des entreprises locales de BTP.
+- **Vision zéro et 2+1 voies** : 🟢 Socle. [Dépense sociale] Priorité absolue à la sécurité publique.
+- **Bornes de recharge** : 🟢 Socle. [Investissement productif] Indispensable pour la transition du parc automobile, en s'appuyant sur le règlement européen AFIR.
 
+**Lien avec la relance** : L'entretien du réseau routier irrigue le BTP partout sur le territoire (routes communales et départementales). La baisse des péages (post-2031) redonnera du pouvoir d'achat aux classes moyennes périurbaines et rurales.
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- Autorité de régulation des transports, *Rapport sur l'économie des concessions autoroutières*, 2023-2024.
-- Inspection générale des finances, *Modèle économique des sociétés concessionnaires d'autoroutes*, 2021.
-- Sénat, *Contrôle, régulation et évolution des concessions autoroutières*, commission d'enquête, septembre 2020.
-- Sénat, *Sécurité des ponts*, mission d'information, 2019 et suivi 2022.
-- ONISR, *Bilan de la sécurité routière 2024*.
-- Trafikverket, *Vision Zero*.
+- Inspection générale des finances (IGF), *Modèle économique des sociétés concessionnaires d'autoroutes*, 2021 (mise en évidence des surprofits).
+- Sénat, *Commission d'enquête sur le contrôle, la régulation et l'évolution des concessions autoroutières*, 2020.
+- Autorité de régulation des transports (ART), rapports annuels sur le secteur autoroutier (dividendes de 3 à 4 Md€ par an).
+- Sénat, *Mission d'information sur la sécurité des ponts*, 2019 et 2022 (25 000 ponts en mauvais état).
+- Observatoire national interministériel de la sécurité routière (ONISR), *Bilan de l'accidentalité 2023-2024* (environ 3 400 morts).
+- Trafikverket (Suède), bilan du programme *Vision Zero*.
+- Loi de finances pour 2024 (instauration de la taxe sur l'exploitation des infrastructures de transport de longue distance).

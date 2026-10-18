@@ -50,25 +50,32 @@
 
 ## Chiffrage détaillé
 
-| Mesure | Coût brut / Rendement | Recettes / Économies propres | Coût net (2032) | Hypothèses de calcul |
-|---|---|---|---|---|
-| Mesures du domaine | [À VÉRIFIER] | [À VÉRIFIER] | [À VÉRIFIER] | Calcul basé sur coûts unitaires (cf annexes macro) |
-
+| Mesure | Coût brut (2032) | Recettes / Économies propres | Coût net (2032) | Année de pleine charge | Hypothèses de calcul |
+|---|---|---|---|---|---|
+| Aide aux sillons et wagon isolé | ≈ 0,4 Md€ | - | ≈ 0,4 Md€ | 2032 | Enveloppe pérennisée (l'aide actuelle autorisée par la Commission européenne est de ≈ 450 M€ sur plusieurs années, on la porte à 400 M€/an pour le seul wagon isolé et l'aide aux sillons). |
+| Plan ports-fleuves et autoroutes ferroviaires | ≈ 1,0 Md€ | - | ≈ 1,0 Md€ | 2032 | Effort d'investissement annuel ciblé sur les infrastructures de fret (hinterland portuaire, terminaux multimodaux), en plus du budget général des infrastructures. |
+| Lutte contre le dumping social | ≈ 0,05 Md€ | - | ≈ 0,05 Md€ | 2028 | Recrutement et équipement de 500 contrôleurs supplémentaires (coût unitaire estimé à 100 000 €/an équipement compris). |
+| Contribution poids lourds (RPLP française) | - | ≈ -1,5 Md€ | ≈ -1,5 Md€ | 2032 | Application d'une écotaxe sur le réseau non concédé. Rendement modélisé sur les estimations du Sénat (rapport 2021) actualisées, générant ≈ 1,5 Md€. |
+| **Total** | **≈ 1,45 Md€** | **≈ -1,5 Md€** | **≈ -0,05 Md€** | 2032 | Le domaine s'autofinance grâce à la taxation des poids lourds. |
 ## Justification et Faisabilité
 
-- **Justification** : [À VÉRIFIER] Impact social et économique attendu.
-- **Faisabilité** : [À VÉRIFIER] Mise en œuvre et contraintes juridiques évaluées.
-
+- **Justification** : La route représente encore près de 88 % du transport de marchandises (SDES 2025). Le transfert modal vers le rail et le fleuve est le seul moyen réaliste de décarboner massivement le fret (un train de marchandises équivaut à une quarantaine de camions, avec des émissions de CO2 par tonne-kilomètre jusqu'à 90 % inférieures). La redevance poids lourds applique le principe "pollueur-payeur".
+- **Faisabilité** :
+  - *Contribution poids lourds* : Techniquement, les technologies de péage par satellite (GPS/Galileo) permettent aujourd'hui une taxation kilométrique sans portiques physiques (modèle LKW-Maut allemand). Le défi est l'acceptabilité par le secteur routier.
+  - *Fret SNCF* : La liquidation de Fret SNCF en 2025 (plan de discontinuité imposé par l'UE) a créé Hexafret et Technis. Les regrouper dans un pôle public est juridiquement complexe vis-à-vis des règles de concurrence européennes, mais possible si le périmètre est strictement adossé à un Service d'Intérêt Économique Général (SIEG), comme le wagon isolé.
 ## Arbitrage et Relance
 
-- **Statut d'arbitrage** : 🟢 Socle
-- **Lien avec la relance économique** : Investissement dans les infrastructures fret pour renforcer la compétitivité logistique et décarboner l'économie.
+- **Contribution poids lourds et soutien au rail** : 🟢 Socle. [Investissement productif] La mise en place de la recette conditionne les investissements (affectation de la taxe aux infrastructures alternatives). C'est le pilier du transfert modal.
+- **Plan ports-fleuves** : 🟢 Socle. [Investissement productif] L'investissement dans l'hinterland portuaire est une condition vitale pour la relance industrielle et la réappropriation des flux logistiques aujourd'hui captés par Anvers et Rotterdam.
+- **Opérateur public de fret (SIEG)** : 🟡 Seconde vague. [Investissement productif] La négociation avec la Commission européenne pour sécuriser le SIEG prendra du temps.
+- **Contrôle du cabotage** : 🟢 Socle. [Soutien à l'emploi et à l'offre] Mesure d'équité concurrentielle immédiate et peu coûteuse.
 
+**Lien avec la relance** : Ces investissements logistiques massifs soutiennent directement les entreprises du BTP et relocalisent l'activité de transit portuaire sur le territoire français.
 ## Sources
 
-- [À VÉRIFIER] Compléter les sources précises.
-- SDES, *Chiffres clés du transport*, édition 2025.
+- SDES, *Chiffres clés du transport*, 2025 (Part modale : 88 % route, 10 % rail, 2 % fluvial).
 - Eurostat, *Freight transport statistics — modal split*, 2024.
-- Ministère des Transports, *Stratégie nationale pour le développement du fret ferroviaire*, 2021.
-- Cour des comptes, *Les grands ports maritimes*, 2023.
-- Office fédéral suisse des transports, *Rapport sur le transfert du trafic*, 2024.
+- Ministère des Transports, *Stratégie nationale pour le développement du fret ferroviaire*, 2021 (objectif 18 % rail).
+- Cour des comptes, *Les grands ports maritimes*, 2023 (perte de parts de marché).
+- Commission européenne, *Décision d'aide d'État sur le wagon isolé en France* (autorisation de 450 M€ de subvention).
+- Sénat, rapports sur l'écotaxe régionale et nationale, 2021 (estimation de rendement de l'écotaxe poids lourds à ≈ 1,1 - 1,5 Md€).

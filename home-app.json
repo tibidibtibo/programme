@@ -1,0 +1,47 @@
+{
+  "$schema": "../home-db/home-server/4-apps/schemas/home-app.schema.json",
+  "schema": 3,
+  "id": "programme",
+  "display_name": "programme",
+  "owner": "perso",
+  "kind": "tool",
+  "lifecycle": "active",
+  "repo": {
+    "remote": "https://github.com/tibidibtibo/programme.git",
+    "default_branch": "main"
+  },
+  "components": [
+    {
+      "id": "app",
+      "path": ".",
+      "stack": "fastapi",
+      "manifest": "requirements.txt"
+    }
+  ],
+  "resources": {},
+  "environments": {
+    "local": {
+      "target": "workstation"
+    }
+  },
+  "local": {
+    "start_script": "start.sh"
+  },
+  "ci": {
+    "enabled": true,
+    "commands": {
+      "install": [
+        "pip install -r requirements.txt"
+      ],
+      "unit": [
+        "python -m pytest -q"
+      ]
+    },
+    "toolchain": {
+      "python": "3.12"
+    }
+  },
+  "x-needs-review": [
+    "version_source : aucun numéro de version trouvé"
+  ]
+}
